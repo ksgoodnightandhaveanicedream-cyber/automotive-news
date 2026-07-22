@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>自動車業界ニュース一覧</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>自動車業界ニュース一覧</h1>
+  <p id="updated-at" class="muted">読み込み中...</p>
+</header>
+
+<div id="source-tabs" class="source-tabs" role="group" aria-label="ニュースソース絞り込み"></div>
+
+<div class="controls">
+  <input id="search" type="search" placeholder="タイトルで検索...">
+</div>
+
+<main id="article-list" aria-live="polite"></main>
+
+<template id="article-item-template">
+  <article class="article">
+    <a class="title" target="_blank" rel="noopener"></a>
+    <div class="meta">
+      <span class="source"></span>
+      <span class="published"></span>
+    </div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
