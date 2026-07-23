@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-23T22:14:33.247289+09:00",
+  "updated_at": "2026-07-24T03:22:36.905677+09:00",
   "articles": [
+    {
+      "title": "プジョー、コンパクトバン「パートナー」が発売30周年、乗用車「トラベラー」が発売10周年達成",
+      "url": "https://car.watch.impress.co.jp/docs/news/2127376.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-24T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "軽量なままに剛性を高めたアップデートモデル、レイズ鍛造1ピースアルミホイール「CE28 N-plus」に待望の19インチ登場[Sponsored]",
+      "url": "https://car.watch.impress.co.jp/docs/topic/special/2121364.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-24T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "洗車も車内清掃もこれ一台!! 強力送風のスマートエアダスターがチョー便利!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/021806b85998ec439d06fc7aed24beaa3d7ef2e2?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-23T22:31:08+09:00",
+      "category": "news"
+    },
     {
       "title": "やっぱり日本の道に強い!!　フリードの5ナンバーサイズは正義か(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/13c0db1e1b04f4048e10cfd1bfa904c084098e75?source=rss",
@@ -2822,41 +2843,6 @@
       "url": "http://global.nissannews.com/ja-JP/releases/260624-01-j",
       "source": "日産自動車",
       "published_at": "2026-06-24T10:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "役員人事に関するお知らせ",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260624b.html",
-      "source": "マツダ",
-      "published_at": "2026-06-24T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "マツダ、広島の企業とともに「東京アウトドアショー2026」に出展",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260624a.html",
-      "source": "マツダ",
-      "published_at": "2026-06-24T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキ、小型乗用車「スイフト」用AWIN製「SUZUKI SPORT ボディキット」をスズキ推奨用品「スズキセレクトプラス用品」として販売",
-      "url": "https://www.suzuki.co.jp/release/a/2026/0624/",
-      "source": "スズキ",
-      "published_at": "2026-06-24T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキとエステーが共同開発した「Air Forest YOWAN（エアフォレスト ヨワン）車用エアケアキューブ」をエステーにおいても発売を開始",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0624/",
-      "source": "スズキ",
-      "published_at": "2026-06-24T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Astemo Cypremosがレスポンスカンファレンス2026において、SDV領域における最新のエンジニアリングソリューションを紹介",
-      "url": "https://www.astemo.com/jp/news/20260624-01/",
-      "source": "Astemo",
-      "published_at": "2026-06-24T00:00:00+09:00",
       "category": "press_release"
     }
   ]
