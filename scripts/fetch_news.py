@@ -4,9 +4,13 @@ GitHub Actions（定期実行・手動実行）およびローカルから実行
 """
 
 import calendar
+import csv
+import io
 import json
 import os
+import re
 import urllib.parse
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -23,6 +27,11 @@ REQUEST_HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 TOYOKEIZAI_BASE = "https://toyokeizai.net"
 TOYOKEIZAI_MAX_PAGES = 6  # 1タグあたりの最大取得ページ数（安全のための上限）
+
+MAZDA_NEWSROOM_BASE = "https://newsroom.mazda.com"
+SUZUKI_BASE = "https://www.suzuki.co.jp"
+ASTEMO_BASE = "https://www.astemo.com"
+ASTEMO_NEWS_PAGE = "https://www.astemo.com/jp/news/"
 
 
 def to_iso(struct_time):
@@ -89,22 +98,161 @@ def fetch_toyokeizai_tags(tags, source_name):
     return list(by_url.values())
 
 
-def fetch_source(source):
-    if source.get("type") == "toyokeizai_tag":
-        return fetch_toyokeizai_tags(source["tags"], source["name"])
+def fetch_mazda_release(source_name):
+    """マツダのニュースリリース年別アーカイブページを取得する。"""
+    now = datetime.now(tz=JST)
+    years = {now.year}
+    if now.timetuple().tm_yday <= RETENTION_DAYS:
+        years.add(now.year - 1)
 
     articles = []
-    feed = feedparser.parse(source["url"])
-    for entry in feed.entries:
-        published_at = to_iso(entry.get("published_parsed") or entry.get("updated_parsed"))
+    for year in years:
+        url = f"{MAZDA_NEWSROOM_BASE}/ja/publicity/release/{year}/"
+        res = requests.get(url, headers=REQUEST_HEADERS, timeout=10)
+        res.raise_for_status()
+        soup = BeautifulSoup(res.content, "html.parser")
+        tab = soup.find(id="tab1")
+        if not tab:
+            continue
+
+        for li in tab.select("li.c-list04__item"):
+            a = li.find("a")
+            time_el = li.find("time")
+            title_el = li.select_one(".c-list04__txt")
+            if not a or not a.get("href") or not title_el:
+                continue
+
+            href = a["href"].strip()
+            link = href if href.startswith("http") else MAZDA_NEWSROOM_BASE + href
+
+            published_at = None
+            if time_el and time_el.get("datetime"):
+                try:
+                    dt = datetime.strptime(time_el["datetime"], "%Y.%m.%d").replace(tzinfo=JST)
+                    published_at = dt.isoformat()
+                except ValueError:
+                    pass
+
+            articles.append(
+                {
+                    "title": title_el.get_text(strip=True),
+                    "url": link,
+                    "source": source_name,
+                    "published_at": published_at,
+                }
+            )
+    return articles
+
+
+def fetch_suzuki_release(url, source_name):
+    """スズキのニュースリリース一覧ページが参照している公開XMLを取得する。"""
+    res = requests.get(url, headers=REQUEST_HEADERS, timeout=10)
+    res.raise_for_status()
+    root = ET.fromstring(res.content)
+
+    date_re = re.compile(r"(\d{4})年(\d{1,2})月(\d{1,2})日")
+    tag_re = re.compile(r"<[^>]+>")
+
+    articles = []
+    for item in root.iter("item"):
+        link_el = item.find("link")
+        if link_el is None or not (link_el.text or "").strip():
+            continue
+        href = link_el.text.strip()
+        link = href if href.startswith("http") else SUZUKI_BASE + href
+
+        published_at = None
+        date_el = item.find("date")
+        if date_el is not None and date_el.text:
+            m = date_re.search(date_el.text.strip())
+            if m:
+                year, month, day = (int(v) for v in m.groups())
+                published_at = datetime(year, month, day, tzinfo=JST).isoformat()
+
+        ttl_el = item.find("ttl")
+        title = tag_re.sub("", ttl_el.text or "").strip() if ttl_el is not None and ttl_el.text else ""
+
         articles.append(
             {
-                "title": entry.get("title", "").strip(),
-                "url": entry.get("link", "").strip(),
-                "source": source["name"],
+                "title": title,
+                "url": link,
+                "source": source_name,
                 "published_at": published_at,
             }
         )
+    return articles
+
+
+def fetch_astemo_release(url, source_name):
+    """Astemo（旧 日立Astemo）のニュースリリース一覧が参照している公開CSVを取得する。
+
+    直接アクセスするとRefererなしのリクエストは403になるため、一覧ページを
+    Refererとして付与する（一覧ページを開いた際にブラウザが送るリクエストと同じ）。
+    """
+    headers = {**REQUEST_HEADERS, "Referer": ASTEMO_NEWS_PAGE}
+    res = requests.get(url, headers=headers, timeout=10)
+    res.raise_for_status()
+
+    rows = list(csv.reader(io.StringIO(res.content.decode("utf-8-sig"))))
+    if not rows:
+        return []
+    header, *data_rows = rows
+    col = {name.strip(): i for i, name in enumerate(header)}
+
+    date_re = re.compile(r"(\d{4})\.(\d{1,2})\.(\d{1,2})")
+    articles = []
+    for row in data_rows:
+        if len(row) <= max(col.get("title", 0), col.get("href", 0)):
+            continue
+        title = row[col["title"]].strip()
+        href = row[col["href"]].strip()
+        if not title or not href:
+            continue
+        link = href if href.startswith("http") else ASTEMO_BASE + href
+
+        published_at = None
+        m = date_re.search(row[col.get("date", -1)]) if col.get("date") is not None else None
+        if m:
+            year, month, day = (int(v) for v in m.groups())
+            published_at = datetime(year, month, day, tzinfo=JST).isoformat()
+
+        articles.append(
+            {
+                "title": title,
+                "url": link,
+                "source": source_name,
+                "published_at": published_at,
+            }
+        )
+    return articles
+
+
+def fetch_source(source):
+    if source.get("type") == "toyokeizai_tag":
+        articles = fetch_toyokeizai_tags(source["tags"], source["name"])
+    elif source.get("type") == "mazda_release":
+        articles = fetch_mazda_release(source["name"])
+    elif source.get("type") == "suzuki_release":
+        articles = fetch_suzuki_release(source["url"], source["name"])
+    elif source.get("type") == "astemo_release":
+        articles = fetch_astemo_release(source["url"], source["name"])
+    else:
+        articles = []
+        feed = feedparser.parse(source["url"])
+        for entry in feed.entries:
+            published_at = to_iso(entry.get("published_parsed") or entry.get("updated_parsed"))
+            articles.append(
+                {
+                    "title": entry.get("title", "").strip(),
+                    "url": entry.get("link", "").strip(),
+                    "source": source["name"],
+                    "published_at": published_at,
+                }
+            )
+
+    category = source.get("category", "news")
+    for article in articles:
+        article["category"] = category
     return articles
 
 

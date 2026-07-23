@@ -1,18 +1,35 @@
 const READ_KEY = "news-app:read-urls";
 
-// タブの表示順（ここに載っていないソースは末尾にアルファベット順で追加される）
-const SOURCE_ORDER = [
-  "Car Watch",
-  "日刊自動車新聞",
-  "carview!",
-  "webCG",
-  "ベストカーWeb",
-  "東洋経済オンライン",
+const CATEGORIES = [
+  { id: "news", label: "ニュース" },
+  { id: "press_release", label: "ニュースリリース" },
 ];
+
+// タブの表示順（ここに載っていないソースは末尾にアルファベット順で追加される）
+const SOURCE_ORDER = {
+  news: [
+    "Car Watch",
+    "日刊自動車新聞",
+    "carview!",
+    "webCG",
+    "ベストカーWeb",
+    "東洋経済オンライン",
+  ],
+  press_release: [
+    "トヨタ自動車",
+    "Honda",
+    "日産自動車",
+    "SUBARU",
+    "マツダ",
+    "スズキ",
+    "Astemo",
+  ],
+};
 
 const state = {
   articles: [],
   query: "",
+  category: "news",
   source: "all",
 };
 
@@ -45,6 +62,7 @@ function render() {
 
   const query = state.query.trim().toLowerCase();
   const filtered = state.articles.filter((a) => {
+    if ((a.category || "news") !== state.category) return false;
     if (state.source !== "all" && a.source !== state.source) return false;
     if (query && !a.title.toLowerCase().includes(query)) return false;
     return true;
@@ -87,11 +105,18 @@ function render() {
 
 function renderSourceTabs() {
   const tabsEl = document.getElementById("source-tabs");
+  const order = SOURCE_ORDER[state.category] || [];
   const rank = (name) => {
-    const i = SOURCE_ORDER.indexOf(name);
-    return i === -1 ? SOURCE_ORDER.length : i;
+    const i = order.indexOf(name);
+    return i === -1 ? order.length : i;
   };
-  const sources = [...new Set(state.articles.map((a) => a.source))].sort((a, b) => {
+  const sources = [
+    ...new Set(
+      state.articles
+        .filter((a) => (a.category || "news") === state.category)
+        .map((a) => a.source)
+    ),
+  ].sort((a, b) => {
     const diff = rank(a) - rank(b);
     return diff !== 0 ? diff : a.localeCompare(b, "ja");
   });
@@ -118,6 +143,27 @@ function renderSourceTabs() {
   }
 }
 
+function renderCategoryTabs() {
+  const tabsEl = document.getElementById("category-tabs");
+  tabsEl.innerHTML = "";
+
+  for (const category of CATEGORIES) {
+    const btn = document.createElement("button");
+    btn.className = "category-tab" + (state.category === category.id ? " active" : "");
+    btn.textContent = category.label;
+    btn.addEventListener("click", () => {
+      if (state.category === category.id) return;
+      state.category = category.id;
+      state.source = "all";
+      tabsEl.querySelectorAll(".category-tab").forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      renderSourceTabs();
+      render();
+    });
+    tabsEl.appendChild(btn);
+  }
+}
+
 function setupControls() {
   document.getElementById("search").addEventListener("input", (e) => {
     state.query = e.target.value;
@@ -132,6 +178,7 @@ async function init() {
     const data = await res.json();
     state.articles = data.articles || [];
     document.getElementById("updated-at").textContent = `最終更新: ${formatDate(data.updated_at)}（${state.articles.length}件）`;
+    renderCategoryTabs();
     renderSourceTabs();
   } catch (err) {
     document.getElementById("updated-at").textContent = "記事データの読み込みに失敗しました。";

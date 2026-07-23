@@ -40,8 +40,10 @@
 - ソース一覧から外したサイトの過去記事は次回収集時に自動的に削除される。
 
 ### 4.2 一覧表示画面
-- 記事を公開日時の新しい順に一覧表示（タイトル、出典サイト名、公開日時、リンク）。
-- キーワード検索（タイトルの部分一致）。
+- 「ニュース」（自動車専門メディア・総合経済メディア）と「ニュースリリース」（自動車メーカー公式サイト）の2タブで記事を切り替え表示する。
+- 各タブ内で記事を公開日時の新しい順に一覧表示（タイトル、出典サイト名、公開日時、リンク）。
+- 各タブ内にソース別の絞り込みタブを表示する。
+- キーワード検索（タイトルの部分一致、選択中のタブ内が対象）。
 - 「既読」の簡易管理（クリックしたら既読扱いにする程度のシンプルなもの。ブラウザの`localStorage`で管理）。
 
 ### 4.3 更新
@@ -58,16 +60,20 @@
       "title": "トヨタ、新型SDVプラットフォームを発表",
       "url": "https://example.com/article/123",
       "source": "Car Watch",
-      "published_at": "2026-07-22T10:30:00+09:00"
+      "published_at": "2026-07-22T10:30:00+09:00",
+      "category": "news"
     }
   ]
 }
 ```
 
 - URLをユニークキーとして重複排除する。
+- `category` は `"news"`（自動車専門メディア・総合経済メディアの記事）または `"press_release"`（自動車メーカー公式サイトのニュースリリース）のいずれか。
 - 「既読」管理はサーバー側に保存先がないため、ブラウザの`localStorage`にクリック済みURLを保持する簡易実装とする。
 
 ## 6. ニュースソース（`scripts/sources.py`）
+
+### 6.1 ニュース（category: "news"）
 
 自動車専門メディアはRSSをそのまま収集、総合経済メディア（東洋経済オンライン）はタグ別記事一覧ページを直接取得する。
 
@@ -79,6 +85,22 @@
 | ベストカーWeb (Yahoo!ニュース経由) | 自動車専門 | RSS: `https://news.yahoo.co.jp/rss/media/bestcar/all.xml` | フィルタなし |
 | 日刊自動車新聞 (Yahoo!ニュース経由) | 自動車専門 | RSS: `https://news.yahoo.co.jp/rss/media/netdenjd/all.xml` | フィルタなし |
 | 東洋経済オンライン | 総合経済 | タグ一覧ページ: `https://toyokeizai.net/list/tag/自動車トレンド`（ページネーション対応） | 「自動車トレンド」タグの記事のみ |
+
+### 6.2 ニュースリリース（category: "press_release"）
+
+自動車メーカーが公式サイトで公表しているニュースリリース。可能な限り各社の公式RSSを利用し、RSS配信がない会社のみ公式サイトのページ・データを直接取得する。
+
+| 会社名 | 収集方法 | 備考 |
+|---|---|---|
+| トヨタ自動車 | RSS: `https://global.toyota/export/jp/allnews_rss.xml` | 公式サイトに「ニュースリリース」として掲載されているRSS |
+| Honda | RSS: `https://www.honda.co.jp/rss/hotnews.xml` | Honda公式サイトが提供する唯一の全社向けRSS（「ニュースリリース」専用ではなく、サイト全体の新着情報のため一部ノイズを含む） |
+| 日産自動車 | RSS: `https://global.nissannews.com/ja-JP/rss` | 公式ニュースルームが提供するRSS |
+| SUBARU | RSS: `https://www.subaru.co.jp/press/news/feed/` | 公式サイトに「ニュースリリース」として掲載されているRSS |
+| マツダ | 年別ニュースリリースページを直接取得（`type: "mazda_release"`）: `https://newsroom.mazda.com/ja/publicity/release/{year}/` | RSS配信なし。robots.txtで許可された範囲（`/ja/publicity/release/`配下は許可）。年をまたぐ1月上旬は前年ページも取得 |
+| スズキ | 一覧ページが参照している公開XMLを直接取得（`type: "suzuki_release"`）: `https://www.suzuki.co.jp/release/release.xml` | RSS配信なし。robots.txtなし。スズキ公式JS(`release/home/js/index.js`)が同じXMLを参照しており、一覧ページと同じ情報源 |
+| Astemo（旧 日立Astemo） | 一覧ページが参照している公開CSVを直接取得（`type: "astemo_release"`）: `https://www.astemo.com/jp/news/csv/news.csv` | RSS配信なし。Astemo公式JS(`assets/js/news.js`)が同じCSVを参照。直接アクセス時はRefererヘッダが必要（一覧ページ閲覧時と同じ挙動） |
+
+> 三菱自動車は公式サイトのニュースリリース一覧が自社ドメイン外の非公開検索API（`search-mmc.dga.jp`）に依存しており、他社と性質が異なる（安定性・利用規約の観点でリスクが高い）ため収集対象に含めていない。同様の理由でBYDも見送り。BMWはログイン不要の公開一覧はあるものの単一の全件RSS/一覧がなく複数カテゴリページの統合が必要なため今回は見送り。Tesla・デンソーは公式サイトが強力なボット対策（Akamai等のWAF）を敷いており、通常のHTTPリクエストでは`robots.txt`すら取得できないため収集対象外としている。
 
 > 将来的にソースを追加する場合も、上記表とRSS・利用規約を確認したうえで `scripts/sources.py` に追記する。東洋経済に他の自動車関連タグ（例: 自動車販売・購入）を追加したい場合は `tags` リストに追記するだけでよい。
 
@@ -113,3 +135,4 @@
 - 各サイトの著作権・利用規約を遵守し、記事本文は保存・表示せず、タイトル・リンク・出典・日時のみを扱う。
 - publicリポジトリ・GitHub Pagesで公開するため、収集対象は無料で閲覧可能なニュースサイトに限定する。
 - 東洋経済オンラインのタグ一覧ページ取得は `robots.txt` で許可された範囲（`/list/tag/`配下は許可、`/list/search`等のみ禁止）。1タグあたり最大6ページまでという上限を設け、直近30日分を取得できた時点でページネーションを打ち切る。GitHub Actionsは1時間に1回のみの実行であり、過度なアクセスにはならない。他サイトへのスクレイピングを追加する場合も同様に `robots.txt` および利用規約を事前に確認する。
+- マツダ（`newsroom.mazda.com`）のニュースリリースページ取得も `robots.txt` で許可された範囲（`/ja/publicity/release/`配下は許可、`/ja/info/`等のみ禁止）。スズキ（`www.suzuki.co.jp`）には `robots.txt` 自体が存在せず、取得しているXMLはスズキ公式サイトのJavaScriptが一覧表示に使っているものと同一である。Astemo（`www.astemo.com`）が取得しているCSVも同様に公式サイトのJavaScriptが一覧表示に使っているものと同一で、一覧ページ閲覧時と同じRefererヘッダを付与して取得している。いずれも記事本文は保存せず、タイトル・リンク・出典・日時のみを扱う。
