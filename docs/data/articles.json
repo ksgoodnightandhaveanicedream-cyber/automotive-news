@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-23T14:18:48.246409+09:00",
+  "updated_at": "2026-07-23T16:44:50.187143+09:00",
   "articles": [
+    {
+      "title": "ランドローバー、バッテリEVの新型「レンジローバーGT（プロトタイプ）」世界初公開 将来的にハイブリッドモデルも追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2127318.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-23T16:16:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「アストンマーティン・ヴァンキッシュ」に誕生25周年を祝う限定モデルが登場(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/339937b2a07b0a45a744ab9b9739c206bfd5df6b?source=rss",
+      "source": "webCG",
+      "published_at": "2026-07-23T16:06:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ヤリスクロスを買うならX、G、Z、Zアドベンチャーどれが正解？ 価格差と装備で選ぶベストグレード(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a01b1bf544767a65b10eb850f6b6abf25b797b80?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-23T15:06:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランボルギーニ、日本参入25周年記念モデル 武士道精神からインスパイアされた限定25台の「レヴェルト インパヴィード」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2127273.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-23T15:03:37+09:00",
+      "category": "news"
+    },
     {
       "title": "日産、最新NISMOロードカー「リーフNISMO」初公開 フォーミュラEマシン東京大会スペシャルリバリーも初披露",
       "url": "https://car.watch.impress.co.jp/docs/news/2127096.html",
@@ -200,6 +228,13 @@
     {
       "title": "マツダ、「MAZDA3」「MAZDA CX-30」を商品改良",
       "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723a.html",
+      "source": "マツダ",
+      "published_at": "2026-07-23T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "マツダ×横浜市ふるさと納税返礼品　第２弾が登場 [PDF形式]",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260723b.pdf",
       "source": "マツダ",
       "published_at": "2026-07-23T00:00:00+09:00",
       "category": "press_release"
@@ -2703,20 +2738,6 @@
       "url": "https://toyotatimes.jp/toyota_news/shareholders_2026/001.html?padid=ag478_from_newsroom",
       "source": "トヨタ自動車",
       "published_at": "2026-06-23T17:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "取締役人事について",
-      "url": "http://global.nissannews.com/ja-JP/releases/260623-02-j",
-      "source": "日産自動車",
-      "published_at": "2026-06-23T16:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "日産自動車、第127回定時株主総会について",
-      "url": "http://global.nissannews.com/ja-JP/releases/260623-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-06-23T15:15:00+09:00",
       "category": "press_release"
     }
   ]
