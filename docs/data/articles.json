@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-24T22:06:56.221068+09:00",
+  "updated_at": "2026-07-25T04:04:25.549566+09:00",
   "articles": [
+    {
+      "title": "日産、2027年に始まるフォーミュラEシーズン13からパワートレーンをアンドレッティへ供給決定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2127827.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-24T23:10:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "机に置いとくとジワる!! ハイエース型ふせんホルダーがキュートな件!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4b80f9029517b50d05779bb807d1d172abffd921?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-24T22:31:07+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ強すぎ!!　市場を席巻する「無双モデル」4選(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/af6a36f729dd66a09dc783260492329f17d28e0a?source=rss",
@@ -3140,27 +3154,6 @@
       "url": "https://news.yahoo.co.jp/articles/147b6a3d89bf852ac493dec02e40f36df3601713?source=rss",
       "source": "webCG",
       "published_at": "2026-06-25T16:32:41+09:00"
-    },
-    {
-      "title": "「マツダ 787B」、ル・マン優勝35周年を記念しサルト・サーキットに再登場",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625b.html",
-      "source": "マツダ",
-      "published_at": "2026-06-25T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "マツダ、「フレアクロスオーバー」を商品改良し発売",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260625a.html",
-      "source": "マツダ",
-      "published_at": "2026-06-25T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "役員体制について",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0625/",
-      "source": "スズキ",
-      "published_at": "2026-06-25T00:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
