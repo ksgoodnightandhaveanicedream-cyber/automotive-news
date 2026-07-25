@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-25T20:51:59.430440+09:00",
+  "updated_at": "2026-07-26T00:47:34.224245+09:00",
   "articles": [
+    {
+      "title": "商用車感ゼロ！　大自然に映えるエブリイのアースカラーがしびれる!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/caf42b55528bf25c764c427dfb699f04f712dd0e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-25T22:30:54+09:00",
+      "category": "news"
+    },
     {
       "title": "こんなクルマはもう作れない!? バブル時代から最新モデルまで時代を象徴した傑作デザインとは(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/0697dabf94da9aa204c5beca2e04401447eabb06?source=rss",
@@ -3282,13 +3289,6 @@
       "url": "https://news.yahoo.co.jp/articles/04544ad7c8becacdb9f7ddaf5951e3ff8d62fbc1?source=rss",
       "source": "日刊自動車新聞",
       "published_at": "2026-06-26T18:57:19+09:00"
-    },
-    {
-      "title": "マツダ、「マツダ ロードスター」を商品改良",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202606/260626a.html",
-      "source": "マツダ",
-      "published_at": "2026-06-26T00:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
