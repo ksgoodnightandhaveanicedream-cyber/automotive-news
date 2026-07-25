@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-07-25T16:35:17.884475+09:00",
+  "updated_at": "2026-07-25T20:51:59.430440+09:00",
   "articles": [
+    {
+      "title": "こんなクルマはもう作れない!? バブル時代から最新モデルまで時代を象徴した傑作デザインとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0697dabf94da9aa204c5beca2e04401447eabb06?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-25T19:05:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【全長4.4mで本当に7人乗れる？】新型シトロエン「C3エアクロス」発売。3列目の実用性とACC非搭載の理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/61cb3ec8b1a964288eaba9c2173f250e01f0324b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-07-25T19:02:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「eKクロス EV」改良。先進性を高めた“新デザイン”に好意的な声も、薄れた“クロス感”…BYD「ラッコ」登場で販売は厳しい？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/8543bcd182c218f9d45541849c2ad5915ef68741?source=rss",
+      "source": "carview!",
+      "published_at": "2026-07-25T18:02:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型「エルグランド」発売1週間で早くも転売か。オークションで「1000万円近い」落札情報の実態を中古車店に聞いた(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b8d221139b44fe8fea44fb100e3b7c808d8f9205?source=rss",
+      "source": "carview!",
+      "published_at": "2026-07-25T18:02:30+09:00",
+      "category": "news"
+    },
+    {
+      "title": "エンジンの未来をつくる9つの実験室「草鹿研究室」学生研究レポート【特別編】(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3c4f23d39cbe54df74116c092d17b08f05167782?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-25T18:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「曲がれるABS」など新制御と新サスセットをスーパー耐久のGRヤリスに投入",
+      "url": "https://car.watch.impress.co.jp/docs/news/2127852.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-25T17:03:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ロードスター」改良。「装備を考えれば割安」「魅力的」…新グレード「PS」と新色好評も、「2.0Lが欲しかった」「ATを選べないのが惜しい」の声(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/3adb34970dc5ccf4dc25b69fc7be03b1e84d956a?source=rss",
+      "source": "carview!",
+      "published_at": "2026-07-25T17:00:50+09:00",
+      "category": "news"
+    },
     {
       "title": "もうスパーダ一択じゃない!?　新グレード「エアー EX」の追加でステップワゴンのベストバイが変わった!?(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/ce9fa35277642001cd3a9edae0dbec388cbba7d7?source=rss",
@@ -3240,33 +3289,6 @@
       "source": "マツダ",
       "published_at": "2026-06-26T00:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "「マツダ・フレアクロスオーバー」の一部改良モデルが登場　フロントデザインをリニューアル(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/88020a62f5e2af041a3b2ed4bab1068192eb50d1?source=rss",
-      "source": "webCG",
-      "published_at": "2026-06-25T18:42:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "6代目に進化した「アウディA6」と「アウディA6アバント」が日本に上陸(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/0ecbe1c8176e663df83e129319ec929598f45596?source=rss",
-      "source": "webCG",
-      "published_at": "2026-06-25T18:35:21+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三菱が「アウトランダー」の一部仕様を変更　より安全・便利に(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/38e870ecb11a733b659ea5b602492f23e4f4c4dc?source=rss",
-      "source": "webCG",
-      "published_at": "2026-06-25T16:56:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フロントフェイスが新しくなった「プジョー408 GTハイブリッド」発売(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/8d003935b9f0d96c2012ab0fd8c947e7c7d7e8c7?source=rss",
-      "source": "webCG",
-      "published_at": "2026-06-25T16:49:45+09:00"
     }
   ]
 }
