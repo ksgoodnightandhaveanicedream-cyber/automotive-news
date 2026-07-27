@@ -12,15 +12,29 @@
   <p class="muted"><a href="index.html">← ニュース一覧に戻る</a></p>
 </header>
 
-<div class="controls">
-  <input id="search" type="search" placeholder="用語または意味で検索...">
-  <select id="category-filter" class="category-select">
-    <option value="">すべてのカテゴリ</option>
-  </select>
-  <p id="word-count" class="muted"></p>
+<div id="screen-list">
+  <div class="controls">
+    <input id="search" type="search" placeholder="用語または意味で検索...">
+    <select id="category-filter" class="category-select">
+      <option value="">すべてのカテゴリ</option>
+    </select>
+    <p id="word-count" class="muted"></p>
+  </div>
+
+  <main id="word-list"></main>
 </div>
 
-<main id="word-list"></main>
+<div id="screen-detail" class="hidden">
+  <p class="muted"><a href="#" id="detail-back">← 一覧に戻る</a></p>
+  <div class="detail-term" id="detail-term"></div>
+  <div class="word-category" id="detail-category"></div>
+  <div class="detail-meaning" id="detail-meaning"></div>
+
+  <div class="detail-related hidden" id="detail-related">
+    <div class="detail-related-title">関連する用語</div>
+    <div id="detail-related-list"></div>
+  </div>
+</div>
 
 <script src="data/words.js"></script>
 <script src="tango.js"></script>

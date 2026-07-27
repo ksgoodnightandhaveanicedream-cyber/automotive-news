@@ -161,6 +161,11 @@ header h1 {
 .word-item {
   padding: 12px 0;
   border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+
+.word-item:hover {
+  background: var(--read-bg);
 }
 
 .word-term {
@@ -182,4 +187,32 @@ header h1 {
 
 header a {
   color: var(--accent);
+}
+
+.hidden {
+  display: none;
+}
+
+.detail-term {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 4px 0;
+}
+
+.detail-meaning {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  margin-top: 12px;
+}
+
+.detail-related {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.detail-related-title {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 6px;
 }
