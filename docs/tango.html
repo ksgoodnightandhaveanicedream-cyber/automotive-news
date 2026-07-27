@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>自動車用語 単語帳</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>自動車用語 単語帳</h1>
+  <p class="muted"><a href="index.html">← ニュース一覧に戻る</a></p>
+</header>
+
+<div class="controls">
+  <input id="search" type="search" placeholder="用語または意味で検索...">
+  <select id="category-filter" class="category-select">
+    <option value="">すべてのカテゴリ</option>
+  </select>
+  <p id="word-count" class="muted"></p>
+</div>
+
+<main id="word-list"></main>
+
+<script src="data/words.js"></script>
+<script src="tango.js"></script>
+</body>
+</html>
