@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-07-30T19:03:45.300648+09:00",
+  "updated_at": "2026-07-31T01:18:16.599986+09:00",
   "articles": [
+    {
+      "title": "休憩時の「首カックン」を防止!! 車用ヘッドレストサイドクッションが便利すぎた!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2df791a976a5c0951514464cb538dd883c79bc2b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-30T22:31:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "MT車ロスに効く特効薬!!　 2ペダルでも熱くなれるAT車4選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a6b09d6d446c41c26a06b0e2659c25245ac4aafe?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-30T22:06:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "改良で激変！　全車標準化された9インチディスプレイオーディオが爆安ルーミーの価値を爆上げした件(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0b41ac67dc1502c12897913422584bd7a82ed0d7?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-30T21:01:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツ「ムーヴ」「ムーヴキャンバス」一部改良　キャンバスには特別仕様車も(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/56a27fc20ac69aad44927ec472c508471ac397fd?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-07-30T20:44:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ステップワゴンの最上級「プレミアムライン」は本当に必要か!? 標準スパーダとの25万8500円の価格差を考える！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9485e1e663a53e304024bccb58171717ac441c01?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-30T20:01:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "〈熊本地震〉ルネサス、半導体工場の操業を順次再開　クリーンルーム確認など踏まえ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/ccfb8197f8cbbbc467ed42731db003e81f4f6695?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-07-30T19:54:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "〈熊本地震〉ホンダ熊本製作所の稼働停止が系列サプライヤーに影響　稼働再開は状況見合い(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6bbf9d198e92b734faf728c1de0efa24edfc6f06?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-07-30T19:34:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「スバルBRZ」の改良モデルが登場　「アイサイト」とMTをアップデート(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/f43fa30883dc7be1fabb815423fa00806d229d1d?source=rss",
+      "source": "webCG",
+      "published_at": "2026-07-30T19:19:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アーチオンの日野と三菱ふそうが約50万台のコネクテッド車両データを活用 国内商用車メーカー初のデータ分析サービス開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2129336.html",
+      "source": "Car Watch",
+      "published_at": "2026-07-30T19:18:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "〈熊本地震〉三菱電機、半導体工場の操業を段階的に再開　30日午後から(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/44c1c41239271789e565472200e82b4660b8dbbf?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-07-30T19:08:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "Tシャツからポロ、キャップまで!! 75周年のランドクルーザー公式新作アイテムを身に着けよう!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a457dfed9dd2dbfa0f0d2184acb4557647b1215f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-07-30T19:06:03+09:00",
+      "category": "news"
+    },
     {
       "title": "〈熊本地震〉三菱自動車、水島製作所で一部車種の生産を停止　部品供給に支障(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/d95e516336518fb278077e4b756d2d079b816715?source=rss",
@@ -4776,34 +4853,6 @@
       "source": "日刊自動車新聞",
       "published_at": "2026-07-01T08:05:31+09:00",
       "category": "news"
-    },
-    {
-      "title": "人事異動",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260701a.html",
-      "source": "マツダ",
-      "published_at": "2026-07-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキ、インド・アーメダバードにおける次世代モビリティの検討に向けた覚書を締結",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0701a/",
-      "source": "スズキ",
-      "published_at": "2026-07-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキ、Next Bharat Venture Fund-2に出資",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0701/",
-      "source": "スズキ",
-      "published_at": "2026-07-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Jobyとトヨタ、空のモビリティ実現に向け、電動垂直離着陸機（eVTOL）の生産を行う合弁会社の設立に着手\n-商用生産に向けた体制整備を本格化し、機体の量産に向けた準備に着手-",
-      "url": "https://global.toyota/jp/newsroom/corporate/44563481.html",
-      "source": "トヨタ自動車",
-      "published_at": "2026-06-30T21:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
