@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-01T21:17:43.525428+09:00",
+  "updated_at": "2026-08-02T01:32:14.545825+09:00",
   "articles": [
+    {
+      "title": "まさか車中泊はできないよね!?　日産 ノートのシートアレンジと荷室をチェック(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c886a0a3ab67951ae64ba73260bb388297fb061f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-01T22:31:02+09:00",
+      "category": "news"
+    },
     {
       "title": "パジェロのイメージを守りながら内実を大きく刷新！　現代的なプレミアムSUVへと脱皮した3代目＆4代目の功績を振り返る！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/adb530d7a6224a07e5a7a6a60b22f0883020ccab?source=rss",
@@ -5154,13 +5161,6 @@
       "source": "webCG",
       "published_at": "2026-07-03T10:37:30+09:00",
       "category": "news"
-    },
-    {
-      "title": "マジック、TOYO TIRE、マツダの3社、クロスカントリーラリー「XCRスプリントカップ北海道」に「MAZDA CX-60」で参戦",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260703a.html",
-      "source": "マツダ",
-      "published_at": "2026-07-03T00:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
