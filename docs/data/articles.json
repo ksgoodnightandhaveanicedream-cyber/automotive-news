@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-08-06T04:05:30.220374+09:00",
+  "updated_at": "2026-08-06T08:31:26.644012+09:00",
   "articles": [
+    {
+      "title": "国交省と経産省、電動車から医療機器への給電マニュアルを改定　EVバイク交換式バッテリーなどを追加(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/f6a64c7fc3fd3286ffdd7d2910ecda54edf47e46?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-06T08:16:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「新たなトレンドになる」「なんちゃってMT」…DCTを“擬似MT化”したフェラーリ「12チリンドリ・マヌアーレ」が話題。デザインは絶賛(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/1eb8f75b935108d0f7e0eca6bf1be4e31b4ee5cd?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T08:03:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "航続距離の進化や補助金の拡充で話題だけど……!?　日本の日常でEVが当たり前になるのはまだ先か!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0cbba352e0616949633ce1cce1928c1fc7a03a98?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T08:01:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「カローラクロス」改良…「Zアドベンチャー」のデザインや、使い勝手向上が好評。価格設定や「G」廃止には厳しい声(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/c2e3a39fd606ded7af9a7d15ef59981e8257b77d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T07:05:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産、受注好調の新型「キックス」のユーザー動向に関して、マーケティング本部の寺西章氏が解説",
+      "url": "https://car.watch.impress.co.jp/docs/news/2130870.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T07:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スタートプライス160万円台と500万円超…トヨタの末っ子｢ヤリス｣と長男｢クラウン｣クラスを超えた意外な共通点",
+      "url": "https://toyokeizai.net/articles/-/953001",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-08-06T07:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "冷やしながら充電!! 猛暑の車内でのスマホ充電にペルチェ冷却Qi2充電器が効く!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/44b977763914fccd3c344fa3dc5f9645c4333a57?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T06:01:07+09:00",
+      "category": "news"
+    },
     {
       "title": "【まるも亜希子の「寄り道日和」】ディーゼルエンジンの生きる道",
       "url": "https://car.watch.impress.co.jp/docs/column/marumo/2130638.html",
@@ -6484,20 +6533,6 @@
       "source": "日刊自動車新聞",
       "published_at": "2026-07-07T09:06:14+09:00",
       "category": "news"
-    },
-    {
-      "title": "フォーミュラE、ヤマハ発動機が初勝利　日産も8位入賞　東京Eプリへ弾み(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/c63d11c678a38a4e981affa34dada4ef96988873?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-07T08:18:48+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、テキサス州サンアントニオ工場に36億ドルを投資\n-第2車両組立ライン新設により、雇用創出と生産能力拡大を推進-",
-      "url": "https://global.toyota/jp/newsroom/corporate/44598940.html",
-      "source": "トヨタ自動車",
-      "published_at": "2026-07-07T05:30:00+09:00",
-      "category": "press_release"
     }
   ]
 }
