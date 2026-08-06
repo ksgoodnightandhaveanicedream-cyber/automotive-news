@@ -1,6 +1,279 @@
 {
-  "updated_at": "2026-08-06T08:31:26.644012+09:00",
+  "updated_at": "2026-08-06T19:15:13.714416+09:00",
   "articles": [
+    {
+      "title": "ケンウッドのミラー型ドラレコに新作登場!! 56fpsや高性能センサーはさすが老舗の仕事!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fdb4f15e0f444817b06af5ce7f157b7218f52afd?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T19:06:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【発売から3年で幕】ホンダのBEV「プロローグ」が2026年で終了する理由。次世代e:HEVへ舵を切る電動化戦略の現在地(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/702f6befaaefcce77b2cedc3de5f73bf30f3008d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T19:02:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マセラティ、「グレカーレ」純正アクセサリーセット「アウトドアパッケージ」日本限定発売",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131225.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T18:57:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "横浜ゴムがSUV向けスタッドレスタイヤの新製品「アイスガード8 SUV」を発表(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/e280b9a5fa4308b1cea25aa7cb0abe484f720210?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-06T18:32:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバルが軽自動車「ステラ」の改良モデルを発表　運転支援機能を強化(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/99cbd22fbe913e657eee7fbb0b7af225a866a279?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-06T18:29:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタが「GR86」の改良モデルを発表　外板色「ソリッドグレー」が復活(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/e1750fdff1ce32c997890067f4d5470731e4438a?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-06T18:22:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ネクセンタイヤ、新スタッドレス「ウインガード アイス 3」 バッテリEVやSUVの車重に対応",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131247.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T18:10:17+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【2027年登場？】トヨタの絶対王者「ヤリス」が7年ぶりに刷新か。新世代ハンマーヘッド顔と進化型ハイブリッドで王座を死守(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/ad817a3e15a4a984cde92f95bcf327e02cabb760?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T18:04:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "快適さの秘密は「ギヤ比」!!　最新CVTで高速クルージングが激変したエブリイの巡航快適性(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/07824f4a50f6cc8699bb25fbb6abd8aaa480c2b2?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T18:01:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【わずか25台の日本限定車】ランボルギーニがV12 PHEV「レヴエルト」に武士道モチーフの特別仕様車を設定した理由とは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/2438a26bb2c02ebe1ed9c9d679130f81ffdc1713?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T17:30:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ロードスター」改良…新色「ジンクグリーン」好評も、特別仕様車「PS」はMT専用がネック？ それでも変わらぬ高い支持(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/88e65421f3a0429e28f2a73de6c266750a300ef7?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T17:30:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ネクセンから新しいスタッドレスタイヤ「ウインガード アイス3」が登場(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/e60498301910d193e588ddfe5386a6d83212ed4c?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-06T17:07:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "パーキングセンサー対応!! ジムニー ノマド専用JAOSリヤスポーツカウルが激進化!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7fdcb0e8a49dd64ae194c940b0de9fad6c0925b7?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T17:01:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、「ステラ」を改良 運転支援機能「スマートアシスト」の性能を向上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131223.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T16:58:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "社会福祉法人長浜市社会福祉協議会と日産、電気自動車を軸としたゼロカーボン社会の実現と地域福祉の推進に関する連携協定を締結",
+      "url": "http://global.nissannews.com/ja-JP/releases/260806-02-j",
+      "source": "日産自動車",
+      "published_at": "2026-08-06T16:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "長浜市と日産、電気自動車を軸としたゼロカーボン社会の実現と防災力の強化及び 住み続けられるまちづくりを目指す連携協定を締結",
+      "url": "http://global.nissannews.com/ja-JP/releases/260806-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-08-06T16:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "2026年7月の車名別新車ランキング、「エルグランド」は1883台で乗用車36位、「キックス」は2591台で27位に",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131188.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T15:54:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "光岡、新型オープンカーの第3弾ティザー画像公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131172.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T15:22:33+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルファ ロメオ、「ジュニア イブリダ Sport Speciale」 イタリアのエレガンスとスポーティネスが融合した140台限定車",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131150.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T15:02:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "品切れしてたN-WGN専用コンソールボックスが再入荷！ 収納＆充電＆照明で車内が激変!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e775d2ab0056c284ed79e0968fbcf0c30116e9cc?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T15:01:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルファ・ロメオの限定車「ジュニア イブリダ スポルト スペチアーレ」登場(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/3b54a459b50de2b848e31f4fd1e2ec6f1f8eb765?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-06T14:30:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "九州生まれの新型「エルグランド」の魅力を発信する「Made in KYUSHU 日産エルグランドデー」8月14日開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131116.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T13:56:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「GR86」一部改良 3眼カメラ採用やMT仕様の5速から4速へのダウンシフト時の操作性向上など",
+      "url": "https://car.watch.impress.co.jp/docs/news/2130912.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T13:30:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "進化したGR86を発売\n-「86」の系譜を受け継ぎ魅力を強化-",
+      "url": "https://global.toyota/jp/newsroom/toyota/44726960.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-06T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ダンロップ、2027年～2029年の3シーズンにわたってスーパーGTのGT300クラスオフィシャルタイヤサプライヤーに選出",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131062.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T12:43:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "BMW、直列6気筒FRモデルの限定車「M2 CS Edition EDGE」 価格は1663万円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131034.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T12:31:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新設定「Z」が人気。“スポーティ路線”は苦境の「フィット」を救えるか？ 価格差40万円の「RS」との違いとは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/810238ff0bdac718be0c936afefa1c7f80eca12b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T12:30:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、ランドクルーザーの75周年を祝うイベントを開催 161台のランクルと425名が参加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2131046.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-06T12:14:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【コメント欄で激論】「ディーゼル廃止の影響はなかった」「コスパが良い」「売れるのも納得」…新型「CX-5」の販売状況に関する記事が話題(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/78fe12496533472b17b837896a0d1ad0d233e519?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T11:53:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "大きく高くなって何が変わった!?　日産新旧キックスをサイズ、価格、装備で比較(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1a01f1d161e0a7d3580f76175a7ec112cdc3f2d9?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T11:46:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "セカンドカーにエブリイ最強説!?　何でもこなす万能サブ機の活用術とは!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b47339b6601e5ff936e3f203c21d36fcb7bc2c9e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T11:31:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "予算15万円の分岐点！　街乗りNAの「G」か走りのターボ「G-T」か？　ルーミーのエンジン選びの正解(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0ca0d7b3ee0a910d873d6103752493ce9e390e33?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T11:07:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【バス運転士日誌】運転士をしながらどうやって取材してるの？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/df1f8dea69143e62949ffbc062256351596aa6f1?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T11:01:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SUBARU　ステラ改良モデルを発表",
+      "url": "https://www.subaru.co.jp/news/2026_08_06_162650/",
+      "source": "SUBARU",
+      "published_at": "2026-08-06T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "2列目はアルヴェル超え!?　レクサス史上最大級SUVが豪華すぎる件(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/39d205d698eb78ee8b8c70ac28d1b179fbfd15d8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T10:06:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "乗用車・SUVの電動化と重量増に対応する新モデル！ UDトラックスが「クオンGK車載用ショートキャブトラクタ」を設定!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1f2192d829a4e3571cef62b6467404e539dfcccb?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T10:01:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "かつてはフィット一強の時代もあったけれど……！　実は今なお熾烈な争いが続くコンパクトカーTOP3の最新勢力図！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5deb3dce92d411eeb373ebc4e06ab0bf47d3711f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-06T09:01:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【最安「X」はアリ？】新型「エルグランド」のグレード選び…「走り」「安全性」は同じ、違いは“フラッグシップ”としての「先進機能」(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/876809587638101cd672190aeff2835f7d1f93a3?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T09:00:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ネットで期待高まる「レクサス版ランドクルーザーFJ」は実現するのか？ 数々の“ハードル”と、想定される“1つの可能性”(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d9f3ae4c75dc7fb4d985bfd36394af4341ef9236?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-06T08:30:23+09:00",
+      "category": "news"
+    },
     {
       "title": "国交省と経産省、電動車から医療機器への給電マニュアルを改定　EVバイク交換式バッテリーなどを追加(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/f6a64c7fc3fd3286ffdd7d2910ecda54edf47e46?source=rss",
@@ -56,6 +329,27 @@
       "source": "Car Watch",
       "published_at": "2026-08-06T00:15:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "譲渡制限付株式報酬及び業績連動型譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ [PDF形式]",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202608/260806a.pdf",
+      "source": "マツダ",
+      "published_at": "2026-08-06T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、Suzuki Global Venturesを通じて米国のベンチャーキャピタルA.Capitalの運用するファンドに出資",
+      "url": "https://www.suzuki.co.jp/release/d/2026/0806/",
+      "source": "スズキ",
+      "published_at": "2026-08-06T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ブレーキ技術競争力強化に向けたAstemo上田の吸収合併について",
+      "url": "https://www.astemo.com/jp/news/20260806-01/index.html",
+      "source": "Astemo",
+      "published_at": "2026-08-06T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "雑誌感覚で楽しめる!! バリバリ伝説のクリアファイルブックで峠の興奮を思い出せ!!(ベストカーWeb)",
@@ -6519,20 +6813,6 @@
       "source": "スズキ",
       "published_at": "2026-07-08T00:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "三菱ふそうと鴻海のバス事業会社、社名は「FUSO BUS」　ロゴにスリーダイヤは使わず(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/10eced02ff2fb2eed9c86c228ca343684b10c1b9?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-07T10:10:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アーチオン、普通株式7億8785万株を売り出し　ダイムラーとトヨタの比率引き下げへ(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/4bd2002f2c3dc26aeaa17485fca12762fffacd00?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-07T09:06:14+09:00",
-      "category": "news"
     }
   ]
 }
