@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-08T19:00:06.617707+09:00",
+  "updated_at": "2026-08-08T20:16:16.286414+09:00",
   "articles": [
+    {
+      "title": "R34はなぜ今こんなに人気!? R33の反省を生かした原点回帰！ 最後の「RBスカイライン」魅了とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c733299e503c83e1d33efd2da2ec988d5708ddf8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-08T19:05:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "AT車でも平地で「エンジンブレーキ」を多用するべき？ メリット・デメリットを解説…電動車の登場で変化も(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/452d9e5a46531d3ceeba8c7710173d00bd94f260?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-08T19:05:10+09:00",
+      "category": "news"
+    },
     {
       "title": "「アクア」改良で「GRスポーツ」復活！ 歓喜の声多数も、内容に「物足りない」の意見…人気回復なるか？(carview！)",
       "url": "https://news.yahoo.co.jp/articles/238224c08449fc8564d481b3546f249f340d10c3?source=rss",
@@ -7254,13 +7268,6 @@
       "source": "スズキ",
       "published_at": "2026-07-10T00:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "「ディフェンダー」2027年モデル登場　特別仕様車「トロフィーエディション2027」も150台限定で導入(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/5cde050f6a640d6b23f6bd5c3fc70a3de687eb2a?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-09T19:23:32+09:00",
-      "category": "news"
     }
   ]
 }
