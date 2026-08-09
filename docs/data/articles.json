@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-09T23:56:52.525059+09:00",
+  "updated_at": "2026-08-10T01:03:31.258062+09:00",
   "articles": [
+    {
+      "title": "【日下部保雄の悠悠閑閑】式年遷宮",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2131301.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-10T00:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "新デザイン採用と1GDディーゼル搭載！ 新型ハイラックスの魅力とは(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/be51540a23b6644962c098b0cb70063b82091004?source=rss",
@@ -7274,13 +7281,6 @@
       "url": "https://toyokeizai.net/articles/-/950174",
       "source": "東洋経済オンライン",
       "published_at": "2026-07-11T05:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホンダが自動制御クラッチ採用のバイク「CB400スーパーフォアE-Clutch」「CBR400RフォアE-Clutch」を発表(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/c7813da15e26705e02d9cccbf055aa9cfa0ee33f?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-11T00:38:38+09:00",
       "category": "news"
     }
   ]
