@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-10T05:02:57.369693+09:00",
+  "updated_at": "2026-08-10T07:03:49.417921+09:00",
   "articles": [
+    {
+      "title": "お盆の高速道路渋滞にあう前に読んでおきたい！　渋滞したら追い越し車線と左車線のどっちを走ったほうが早いのか？　何度も車線を変えるのは逆効果!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5b29795af3629d82c553408ddf8ab30869f1c72a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-10T06:00:43+09:00",
+      "category": "news"
+    },
     {
       "title": "【日下部保雄の悠悠閑閑】式年遷宮",
       "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2131301.html",
@@ -7267,13 +7274,6 @@
       "url": "https://news.yahoo.co.jp/articles/1bc0ffffa7ddd8610416a9ed3d19adf909cb39eb?source=rss",
       "source": "webCG",
       "published_at": "2026-07-11T08:04:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "｢自動車保険｣｢火災保険｣が値上げラッシュ､損害保険料を安くするための契約見直しのコツは｢免責金額の設定｣だ",
-      "url": "https://toyokeizai.net/articles/-/950913",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-07-11T05:30:00+09:00",
       "category": "news"
     }
   ]
