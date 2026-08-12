@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-08-13T05:04:12.898104+09:00",
+  "updated_at": "2026-08-13T08:22:00.364383+09:00",
   "articles": [
+    {
+      "title": "小型商用EVのHWエレクトロ、破産手続きを開始　負債総額は調査中　東商リサーチ発表(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/abdd9633e57793cff4ac5695631dde0160bc1f84?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-13T08:11:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「タフト」改良で「オレンジかわいい」の声続々。特別仕様車「アクティブモード」に問い合わせ集中…納期は2か月半(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/dae7d62ce2d89f522b7018d4fb991f1b9bac3859?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-13T08:03:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "もう欠点なし!? 300馬力超えでしかも欧州車級の乗り味!! バカ売れの「RAV4」本当の実力は？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f5d28494d8c89fc0395fc4b9da752c7842f7d9c5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-13T08:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アウディの新型「Q3」試乗 ベーシックな「Q3 TFSI」、その出来栄えは？",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2132127.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-13T08:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【2026年12月に全面刷新か】スズキ新型「スペーシア ベース」がマイルドハイブリッド化でついに登場。進化の全貌とは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/a8f742490866576fe51620351973adaea2c8ed2f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-13T07:02:41+09:00",
+      "category": "news"
+    },
+    {
+      "title": "オートバックス、ライフスタイル提案型賃貸マンション「グランレジデンス大橋」を福岡県福岡市に新築",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132051.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-13T07:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ自動車株式会社　元取締役会長　奥田 碩 逝去について",
+      "url": "https://global.toyota/jp/newsroom/corporate/44752008.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-13T07:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ダッシュボードの「あっちっち！」を防止!! ノア/ヴォクシー対応の専用ダッシュボードマットが酷暑に効く!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1bce9e2f6a56d36cf9dcf6bb50a60abdd0a50994?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-13T06:00:53+09:00",
+      "category": "news"
+    },
     {
       "title": "【まるも亜希子の「寄り道日和」】富士山麓にある英国式庭園へ",
       "url": "https://car.watch.impress.co.jp/docs/column/marumo/2132286.html",
@@ -7835,13 +7891,6 @@
       "source": "Astemo",
       "published_at": "2026-07-15T00:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "ダイハツ｢7代目ムーヴ｣発売から1年　平成の｢レジェンド軽自動車｣は復活できたのか？",
-      "url": "https://toyokeizai.net/articles/-/951068",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-07-14T07:30:00+09:00",
-      "category": "news"
     }
   ]
 }
