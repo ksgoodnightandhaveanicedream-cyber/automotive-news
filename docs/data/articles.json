@@ -1,6 +1,139 @@
 {
-  "updated_at": "2026-08-14T07:24:23.163963+09:00",
+  "updated_at": "2026-08-14T14:18:05.645972+09:00",
   "articles": [
+    {
+      "title": "e:HEV専用になった「ZR-V」。「クロスツーリング」人気で在庫わずかも、現在の主役は「Z」「ブラックスタイル」…“タフさ”は求められていない？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5738e66d6121923b1a7f5d0bba2e3d26debcbd7b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-14T12:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "情報がない、走れない、それでも挑んだ!!　波乱続きの「学生フォーミュラ」現地ルポ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5a079733d6918ff96d18a56238036740231feeb9?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T12:05:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「プレリュード」だけじゃない!?「0シリーズ」中止の裏でひっそりと消えた次世代電動スポーツ「フラッグシップ」は登場しないのか？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/59c50891c0e9cdbc4a9339ccc2f19edcddfb5cbf?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-14T11:50:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ルイ・ヴィトンとシンガー、「ポルシェ 911」ベースの特別な2台を発表",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132519.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T11:47:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "豪雨でクルマが水没!? そんな時に自動車保険は使えるのか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b2af7a5a7b87d7383c98cfa9529eb25dbfa46c72?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T11:30:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "背面ラダーがカッコよし!! ジムニー専用の新作カスタムパーツがなんと24種も登場!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ed78bc8abed5ca6ff931c25fac8f21c07c10f7b7?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T11:05:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【バス運転士不足問題】どんどん簡略化しているけど本当にいいの？　バス運転士の制服について考えてみた！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2c5745d5cedf56d417d64a5c6ddc7e398082aeda?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T11:00:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、アキュラブランドの次世代デザインの方向性を示す「アキュラ・ネクセラ・ビジョン」世界初公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132688.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T10:10:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日野自動車・古河工場が「自然共生サイト」に認定!!　1万本の植樹から生まれた「ビオトープKOGA」誕生までの歩み(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/91bce3c8b8585adeea3e95d436c37920eec96962?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T10:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ「ジムニーノマド」にオン＆オフロード試乗 シリーズに加わった5ドアの乗り味は？",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2132586.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T10:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "Uber、東京での自動運転タクシー試験運行のパートナーとして日の丸交通と合意",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132684.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T09:45:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "若者はどうして未来の自分を今つくり出さないのか？　新米のら猫コンサルが見た自動車ディーラー「若者のリアル」（28）(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/e029c6116ba02590ac927088e70b2a4347368c68?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-14T09:31:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アウディ新型「A6」の進化したエアロダイナミクスとMHEV plusがもたらす乗り味とは？",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2132468.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T09:06:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "NEXCO東日本、千葉県の大雨の影響で通行止めになっていた一部区間で9時以降解除の見通し",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132681.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-14T09:02:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【2027年復活説が浮上】スズキ「スイフトスポーツ」が1.4Lターボ＋48Vハイブリッドで来年1月に世界初公開の可能性(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/510296ec297f2b074f31cf25173dd04c6aa5b15f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-14T09:00:42+09:00",
+      "category": "news"
+    },
+    {
+      "title": "改良も1ヶ月で注文停止。「Zアドベンチャー」は即完売で、次回枠は27年3月以降…「カローラクロス」が普通に買える日は来るのか？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/119103db3dd00d33cb924aac32a545971fca73b1?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-14T08:30:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "〈熊本地震〉ネクスコ西日本、14日朝に九州道全線で通行可能に　被災による最後の不通区間を解除(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/9f095d9cca7cd98344bc60b301157c995cacb7ea?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-14T08:15:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「CX-30」改良で新設定2.5Lエンジン「エアエディション」好評。一方“ディーゼル”を惜しむ声も根強く…廃止の理由とは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/80252faab1be895e165f0f75b6fb67eeed7e8748?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-14T08:04:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SUVなのにスポーツカー級!? クラウンスポーツが頂点!! ハンドリングで選ぶミドルサイズSUVランキングTOP5(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8e326b0630556e74beb4c8de040ea1b6cb671351?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-14T08:00:54+09:00",
+      "category": "news"
+    },
     {
       "title": "「マツダ3」改良。ディーゼル廃止を惜しむ意見も、新設定「e-スカイアクティブ G 2.5」が好評…“MT設定”に歓喜の声(carview！)",
       "url": "https://news.yahoo.co.jp/articles/9624d40fd78ddb82285b5bc1fdda869622857a5e?source=rss",
@@ -8031,13 +8164,6 @@
       "source": "webCG",
       "published_at": "2026-07-15T17:44:25+09:00",
       "category": "news"
-    },
-    {
-      "title": "新型クラウン（クロスオーバー）のデザインを先行公開",
-      "url": "https://global.toyota/jp/newsroom/toyota/44641170.html",
-      "source": "トヨタ自動車",
-      "published_at": "2026-07-15T13:30:00+09:00",
-      "category": "press_release"
     }
   ]
 }
