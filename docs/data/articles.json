@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-16T07:21:52.615192+09:00",
+  "updated_at": "2026-08-16T08:20:25.177249+09:00",
   "articles": [
+    {
+      "title": "【10代の51％がセダン派】米国の若者はなぜSUVよりセダンを選ぶ？ 日本でも“セダン復権”はあるのか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/05472e197eca2a378c9f8301a25122c682bbbd81?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-16T08:05:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "インサイトがまさかの姿で復活!? 204馬力の新型クロスオーバー！ 開発陣が漏らした改善点とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/cd80bc1b47fbe3d11750266f248b9559f9c16758?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-16T08:00:45+09:00",
+      "category": "news"
+    },
     {
       "title": "中国｢消えたスマートカー事件｣があぶり出した闇ビジネス…いわくつきの車両を中央アジアなどに越境させ荒稼ぎ",
       "url": "https://toyokeizai.net/articles/-/954536",
@@ -8237,27 +8251,6 @@
       "url": "https://news.yahoo.co.jp/articles/ed7bb3eb1a037dfcbfa30d6bc463ab1e1d3067c4?source=rss",
       "source": "carview!",
       "published_at": "2026-07-17T08:30:21+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【コメント欄で激論】「セダンで残すべき」「ミニバンになってほしくない」…「LS」のレビュー記事が話題。未来はどうなる？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/52f1d00e3280fe1b554a055e85474183b14805bb?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-17T08:04:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日野、大型トラック「プロフィア」を一部改良　標識連動車速制御システム標準化など安全機能を充実(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/0a5ef13cd199d19d6bd572c18642d5651715e485?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-17T08:03:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「やっちゃえ日産」は「らしく走れ日産」に　日産がブランドメッセージ刷新　新型エルグランドが「ブランド体現」(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/154dafbeca3f31aaed8861f190b45266e6ae7ce2?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-17T07:40:34+09:00",
       "category": "news"
     }
   ]
