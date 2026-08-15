@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-15T11:52:30.495898+09:00",
+  "updated_at": "2026-08-15T12:39:19.179627+09:00",
   "articles": [
+    {
+      "title": "「ムーヴ」改良で安全機能と利便性向上、「キャンバス」は特別仕様車も…それぞれの選ばれるポイントとは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/f31c838a4f6c685772d6d830cc6c17fbc99d04b4?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-15T12:30:22+09:00",
+      "category": "news"
+    },
     {
       "title": "【妄想爆発！】1996年のホンダ「S-MX」をBEVソロ基地化？ 「マークII」や「セド・グロ」を今復活させる勝手なシナリオ(carview！)",
       "url": "https://news.yahoo.co.jp/articles/e85b9df86b6665ac61eee060d564e746a0c15319?source=rss",
@@ -8248,26 +8255,6 @@
       "source": "トヨタ自動車",
       "published_at": "2026-07-16T14:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "【悩ましい】「レヴォーグ／レイバック」が改良。新登場「S:HEV」と1.8Lターボ、どちらを選ぶべきか…2.4Lターボ車は2027年春復活の可能性も(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/332374efb5d8bbe2e15cad9123c097a633e002cf?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-16T12:30:16+09:00"
-    },
-    {
-      "title": "ダイハツ、「タフト」一部改良　新色「スパークオレンジ」追加　特別仕様車「ラギッドベンチャー」も設定(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/8068b3729a5809a84e4323640f67248d779f5e16?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-16T12:24:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "鴻海精密工業、EVのモデルA・Bを日本で初披露　東京・新宿の「台湾エキスポ」で　17日まで開催(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/3122031d4b0afb3a69533f3912753550cbc9aac4?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-16T12:15:08+09:00",
-      "category": "news"
     }
   ]
 }
