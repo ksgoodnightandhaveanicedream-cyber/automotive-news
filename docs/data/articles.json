@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-16T06:21:12.296717+09:00",
+  "updated_at": "2026-08-16T07:21:52.615192+09:00",
   "articles": [
+    {
+      "title": "中国｢消えたスマートカー事件｣があぶり出した闇ビジネス…いわくつきの車両を中央アジアなどに越境させ荒稼ぎ",
+      "url": "https://toyokeizai.net/articles/-/954536",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-08-16T06:30:00+09:00",
+      "category": "news"
+    },
     {
       "title": "シビックタイプRを超えた!? 「ゴルフGTI」50周年で到達した“究極のホットハッチ”の実力とは(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/0a778b43d0fec1e1570efb4708b41efa79aaca65?source=rss",
@@ -8251,13 +8258,6 @@
       "url": "https://news.yahoo.co.jp/articles/154dafbeca3f31aaed8861f190b45266e6ae7ce2?source=rss",
       "source": "日刊自動車新聞",
       "published_at": "2026-07-17T07:40:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【看板が変われば10万台売れる】ダイハツ「ロッキー」1万7393台に対し、トヨタ「ライズ」が10万7275台を記録した実力差(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/85660703765e1f3ebd566306032fcf2cea0891eb?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-17T07:01:36+09:00",
       "category": "news"
     }
   ]
