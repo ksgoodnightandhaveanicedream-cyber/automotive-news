@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-16T14:28:30.750236+09:00",
+  "updated_at": "2026-08-16T15:40:20.643844+09:00",
   "articles": [
+    {
+      "title": "「太陽光×EV」あたりで知識が止まっていませんか!?　次世代エネルギーや自動運転の最新トレンドがサクッと早わかり！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0377eb01686afe84d71c0fcb7b8bd50c5e675e7c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-16T15:00:45+09:00",
+      "category": "news"
+    },
     {
       "title": "【惜しまれつつ退場】1994年誕生から約30年。「アコード」流用で一世を風靡したホンダ「オデッセイ」が幕を下ろす理由とは(carview！)",
       "url": "https://news.yahoo.co.jp/articles/d004a0336230c5c4dcd92c33a2a8135c8873ef11?source=rss",
@@ -8191,12 +8198,6 @@
       "source": "carview!",
       "published_at": "2026-07-17T16:00:23+09:00",
       "category": "news"
-    },
-    {
-      "title": "TDK、フォーミュラE体感イベントにモビリティの内側を支える“見えない技術”を体感できるブースを出展",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126100.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-17T15:35:06+09:00"
     }
   ]
 }
