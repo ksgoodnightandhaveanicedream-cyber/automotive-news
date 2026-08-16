@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-17T06:20:02.091376+09:00",
+  "updated_at": "2026-08-17T07:20:45.133578+09:00",
   "articles": [
+    {
+      "title": "子どもやペットを検知するとエアコンが自動始動!?　BYDラッコの「幼児置き去り検知」がすごい!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c973baa4d7aea78423aba88e18c31a6b876f2b22?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-17T07:05:46+09:00",
+      "category": "news"
+    },
     {
       "title": "「ランクルなら損しない」を信じた年収770万円・47歳会社員　ランクル250を買ってわかった“実際”(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/aa66f5ff86cde92b5959f8147747494bce896688?source=rss",
@@ -8209,19 +8216,6 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-07-18T08:00:00+09:00",
       "category": "news"
-    },
-    {
-      "title": "【脱ギラギラで勝負？】日産新型「エルグランド」発売前に6000台受注。5年で51％残価率と開発陣が語った“空白の16年”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/92be2e00231c2088db2fb47b9bd29641a104a1ff?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-18T07:02:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "NVIDIA ジェンスン・フアンCEOに、トヨタとの提携拡大について聞く 「次の製造業はおそらくロボット産業、それまでは自動車が世界最大の産業」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126285.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-18T06:36:27+09:00"
     }
   ]
 }
