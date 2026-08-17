@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-17T14:35:24.801217+09:00",
+  "updated_at": "2026-08-17T15:55:48.385876+09:00",
   "articles": [
+    {
+      "title": "ビーウィズ、独HWAとの協業発表 レストモッドコンプリートカー「HWA EVO」向けにオーディオシステムの供給開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2133160.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-17T15:40:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "乗ったら“別モノ級”に進化！ 航続734kmのトヨタ新型BEV「bZ4Xツーリング」の実力がスゴい(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/63bc806d8a90e1cddc6f12b473829ae616b89e27?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-17T15:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱がオーストラリアとニュージーランドに新型EVを投入(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/dcb8f302fa0c8cfd7868891cd0b6bde210a5b2ca?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-17T14:37:13+09:00",
+      "category": "news"
+    },
     {
       "title": "三菱自動車、新型BEV「ASX VR-e」を鴻海グループからのOEM供給でオーストラリアとニュージーランドで2026年内発売へ",
       "url": "https://car.watch.impress.co.jp/docs/news/2133127.html",
