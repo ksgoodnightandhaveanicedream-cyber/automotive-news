@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-08-17T08:20:16.673621+09:00",
+  "updated_at": "2026-08-17T10:16:30.420881+09:00",
   "articles": [
+    {
+      "title": "「アルファード超え」マジであるかも!? 16年ぶり新型エルグランドの完成度が高すぎる4つの理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3dd032e39f0f2832aa5fc0132cc72beee2aefc26?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-17T10:05:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "MANの燃料電池大型トラックが公道に！　「電気」が主役だが「水素」にも重要な役割が!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6305c409a3cda4bb124013bf093675ddcde72f51?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-17T10:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "先週のアクセスランキング（8月10日～8月16日）、1位はカーメイトの車両の発進・盗難を防止する「ブレーキペダルロック1」 - Car Watch",
+      "url": "https://car.watch.impress.co.jp/docs/rank/2132995.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-17T09:32:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フェラーリの世界観を体感できる「Ferrari Festival Tokyo 2026」 東京・六本木で9月26日～10月4日に開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132969.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-17T09:26:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "超高級車ベントレーからブーンまで!?　有名自動車評論家たちが「いま本気で欲しい中古車」5選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/eda24570da1b228a5623707cd06113f191d6d5af?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-17T09:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜパドルシフト全盛期に3ペダル？】環境規制で受注停止が相次いでも「フェアレディZ」や「シビック RS」にMTが残る理由とは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/a1a0480e00d365f2b1e93d2bd9b415344397d17c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-17T09:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アストンマーティン、限定150台の新型スーパーカー「ヴァレン」 最高出力850PS最大トルク1000NmのV12エンジン搭載",
+      "url": "https://car.watch.impress.co.jp/docs/news/2132950.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-17T08:50:00+09:00",
+      "category": "news"
+    },
     {
       "title": "数か月〜1年待つのもイマドキ普通!?　憧れのクルマを「少しでも早く手に入れる」ために気をつけたいコト!!(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/d7f8ca314c19ca2003b68e31a0c69f9943520da2?source=rss",
@@ -1309,6 +1358,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-08-10T17:00:52+09:00",
       "category": "news"
+    },
+    {
+      "title": "[トヨタイムズ記事] 【タテシナ会議】交通事故ゼロへ 業界の垣根を越え、想い一つに",
+      "url": "https://toyotatimes.jp/newscast/204.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-10T17:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "BYD、新型軽バッテリEV「ラッコ」が発売2週間で受注1000台超　8割が最上級グレードを選択",
@@ -8208,13 +8264,6 @@
       "url": "https://news.yahoo.co.jp/articles/8f402c0b70c6d241ee85075a76322d1a61842432?source=rss",
       "source": "carview!",
       "published_at": "2026-07-18T11:50:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "好調の「フロンクス／クロスビー／ジムニー」の裏で伸び悩む「スイフト」。それでも販売が“健闘中”と言えるワケ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/cb3e9185d125bb9613679c68cddaee4da7ca0894?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-18T08:30:02+09:00",
       "category": "news"
     }
   ]
