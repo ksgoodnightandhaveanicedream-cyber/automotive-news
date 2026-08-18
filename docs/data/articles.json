@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-08-18T10:14:05.100935+09:00",
+  "updated_at": "2026-08-18T11:56:05.616166+09:00",
   "articles": [
+    {
+      "title": "フォーミュラE最終戦、日産は連覇ならず　年間王座は欧州勢の手に(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/cf367fbe03b0cee6b021bec40fa3169a5ee16f39?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-18T11:32:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "約35万円高でも選ぶ価値あり!?　日産キックスのe-4ORCEは本当に必要か？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5db51cdb96dafcd6c0035af9bea6b0456f2bb4a1?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-18T11:31:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "横浜ゴム、サッカー伊名門「ユベントス」とパートナー契約 欧州でのブランド力強化へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2133378.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-18T11:27:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "プロの目から見ても驚きの連続!?　四駆のスペシャリストがガチで解説する「ランクルFJ」最大の注目ポイント！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/42b13822d1fbd9e5b83d5edcfd513b47d994fab4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-18T11:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【バス運転士日誌】8月の営業所見学会では記者提案のイベントが初採用！　その内容とは？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/39460e480b1e625048760122702a417e23473c1a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-18T11:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "Hondaキャンプ ぼくが隊長！秘密基地をつくるぞ！",
+      "url": "https://www.honda.co.jp/outdoor/try/secretbase.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-08-18T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "Honda Kids たたき染め・こすり染めで、世界に一つの旗をつくろう！",
+      "url": "https://www.honda.co.jp/kids/jiyuu-kenkyu/challenge/c-15/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-08-18T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "日産、デザイン部門を率いてきたアルフォンソ・アルバイサ氏が退任 マシュー・ウィーバー氏が後任",
+      "url": "https://car.watch.impress.co.jp/docs/news/2133362.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-18T10:57:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "えええ、後席リクライニング機能なしのまさか!!　新型レヴォーグレイバックS:HEVの後席の快適機能を犠牲にしたワケ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0ad1c4d8bd7fdadbc0a3fd4d5759d320b5845b8f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-18T10:46:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新車のタンドラを残クレで買える日が来るとは!!　北米トヨタの巨大モデルがいいぞ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/13953489a4b3da28310c19d5cb94ad59e793236f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-18T10:26:02+09:00",
+      "category": "news"
+    },
     {
       "title": "アクアGR SPORT対ノート オーラNISMO!! 国産スポーティハイブリッドの本命はどっち？(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/105b59b55274c277ca23f391f8fcdae000c58b2d?source=rss",
@@ -77,6 +147,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-08-18T06:01:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "スズキ本社敷地の新棟建設について",
+      "url": "https://www.suzuki.co.jp/release/d/2026/0818/",
+      "source": "スズキ",
+      "published_at": "2026-08-18T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "ライダーに朗報!! オーヴァーレーシングパーツがより手軽に!! カスタムジャパンが供給力強化(ベストカーWeb)",
@@ -5749,6 +5826,13 @@
       "category": "press_release"
     },
     {
+      "title": "ホンダアクセス Enjoy Honda福岡、宮城で純正アクセサリーを展示します",
+      "url": "https://www.honda.co.jp/ACCESS/enjoyhonda/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-07-29T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
       "title": "3列目床下収納の破壊力がすごい！　ステップワゴンのシートアレンジと純正アクセサリーで楽しむ快適車中泊！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/76204c1bd5e784ddaf0e57f057ffdc606d520295?source=rss",
       "source": "ベストカーWeb",
@@ -8518,19 +8602,6 @@
       "source": "carview!",
       "published_at": "2026-07-19T12:03:35+09:00",
       "category": "news"
-    },
-    {
-      "title": "【16年ぶり刷新】なぜ新型「エルグランド」は“走り”にそこまでこだわったのか？ 開発陣が明かした意外なユーザーの声(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/5d3488823c5a773ff719e96b0530af5d836e6eb0?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-19T11:50:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シエンタの低床フロアは本当に便利？　子どもと高齢の親にやさしい乗降性を再評価(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3fe375d95d8da49c9e21abe54f36c2559d8a0439?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-19T11:05:53+09:00"
     }
   ]
 }
