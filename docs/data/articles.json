@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19T15:43:09.188241+09:00",
+  "updated_at": "2026-08-19T16:38:29.093617+09:00",
   "articles": [
+    {
+      "title": "キャデラック、新型コンセプトカー「V-ONE」 ブランド初のシングルシーターモデル",
+      "url": "https://car.watch.impress.co.jp/docs/news/2133912.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-19T16:19:06+09:00",
+      "category": "news"
+    },
     {
       "title": "東京・虎ノ門ヒルズでホンダの新旧F1マシンの特別展示「Powered by Honda -Phase2 Begins-」開催",
       "url": "https://car.watch.impress.co.jp/docs/news/2133885.html",
@@ -8829,19 +8836,6 @@
       "source": "トヨタ自動車",
       "published_at": "2026-07-20T17:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "シエンタのハイブリッドはなぜ燃費がいい？　WLTC 28.4km/Lの実力を再チェック!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c28b7270d5d95ffdc9b37a236f439d7db632ff07?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-20T16:05:47+09:00"
-    },
-    {
-      "title": "【中東物流の影響が直撃】トヨタが2027年までに海外生産を10万台削減。国内で「RAV4」など4200台を増産(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/07a67da8d9c4114bc1a96f613e1bc1bd73867290?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-20T16:00:02+09:00",
-      "category": "news"
     }
   ]
 }
