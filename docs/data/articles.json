@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19T23:33:48.554527+09:00",
+  "updated_at": "2026-08-20T00:31:43.393342+09:00",
   "articles": [
+    {
+      "title": "【まるも亜希子の「寄り道日和」】諏訪湖の花火大会へ",
+      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2133667.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-20T00:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "アクアの“名作シート”がまさかの廃止!?　2026年の一部改良で見えたマルとバツ(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/4be7fe2264d2945354f1e0eff2d6f3599c27a2d1?source=rss",
@@ -8924,26 +8931,6 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-07-21T05:30:00+09:00",
       "category": "news"
-    },
-    {
-      "title": "豊田章男会長、WRCサミ・パヤリ選手初優勝を祝うとともに手術後の経過に言及 「もう少しの間は、慎重にメンテナンスを続けていこうと思います」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126368.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-21T00:00:00+09:00"
-    },
-    {
-      "title": "2027年度定期採用計画および2026年度キャリア採用計画について",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202607/260721a.html",
-      "source": "マツダ",
-      "published_at": "2026-07-21T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "代表電話番号変更のご案内",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0721/",
-      "source": "スズキ",
-      "published_at": "2026-07-21T00:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
