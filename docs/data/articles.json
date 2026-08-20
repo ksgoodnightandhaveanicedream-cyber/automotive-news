@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-21T05:28:33.339204+09:00",
+  "updated_at": "2026-08-21T06:27:49.263410+09:00",
   "articles": [
+    {
+      "title": "日産「5331億円赤字」の衝撃！ それでも“本業は黒字”って!? 新型エルグランドに託す復活への道(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3c24af4321de3768ff3a3fde48f6c45af3117b96?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-21T06:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツ新型「CLA」技術説明会 バッテリEVと内燃機関に対応する新世代プラットフォーム「MMA」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134235.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-21T06:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "パワートレインは1種類のみ､シンプルだが奥が深い…日産の高級ミニバン新型｢エルグランド｣買うならどのグレード？",
+      "url": "https://toyokeizai.net/articles/-/954402",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-08-21T05:45:00+09:00",
+      "category": "news"
+    },
     {
       "title": "ベスパ、「GTS150」「GTS300スーパースポーツ」「GTV300」の2026年モデル 新たなボディカラーも登場",
       "url": "https://car.watch.impress.co.jp/docs/news/2134057.html",
@@ -8938,13 +8959,6 @@
       "url": "https://toyokeizai.net/articles/-/951872",
       "source": "東洋経済オンライン",
       "published_at": "2026-07-22T07:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "物価高騰の影響は車両修理費にも!!　今、全損扱いになる事故車が増えている理由とは？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c1a2345b2f7a599eca02e5e71bb0411aa3d50196?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-22T06:01:04+09:00",
       "category": "news"
     }
   ]
