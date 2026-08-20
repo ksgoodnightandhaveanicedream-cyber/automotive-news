@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-20T12:51:12.773008+09:00",
+  "updated_at": "2026-08-20T13:37:24.850853+09:00",
   "articles": [
+    {
+      "title": "シトロエン、「ベルランゴ」限定車でサンドカラー「サーブル」復活 4モデル計500台で価格467万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134159.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-20T12:54:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダンロップと鬼滅の刃がコラボ 炭治郎・猗窩座・しのぶ・童磨をプリントしたキャラクターゴルフボール",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134146.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-20T12:41:05+09:00",
+      "category": "news"
+    },
     {
       "title": "【投入は2028年前半か】600psの巨躯SUVが延期？ インフィニティ「QX80 レッドスポーツ」が発売を急がない理由とは？(carview！)",
       "url": "https://news.yahoo.co.jp/articles/a21dd4acef199fcee7cc187617fd184e218ed992?source=rss",
@@ -8939,27 +8953,6 @@
       "source": "Car Watch",
       "published_at": "2026-07-21T13:38:11+09:00",
       "category": "news"
-    },
-    {
-      "title": "ランボルギーニ、特別な内外装に仕上げた2台の「テメラリオ アド ペルソナム」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126478.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-21T13:21:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "テスラ、対話型AI「Grok」を国内でOTA配信開始 普通の会話で行き先を提案",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126504.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-21T13:04:20+09:00",
-      "category": "news"
-    },
-    {
-      "title": "交通事故ゼロを目指し議論と活動を進める場、第4回「タテシナ会議」を開催",
-      "url": "https://toyotamobilityfoundation.jp/news/0223",
-      "source": "トヨタ自動車",
-      "published_at": "2026-07-21T13:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
