@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-21T07:27:49.687500+09:00",
+  "updated_at": "2026-08-21T08:25:46.564580+09:00",
   "articles": [
+    {
+      "title": "〈熊本地震〉ホンダ、二輪車生産の熊本製作所　8月24日に稼働再開(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/4a049b2f4aa7c67dbaecae7bab0e5ffb49ba3022?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-21T08:19:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "これは“ヨーロッパ版軽自動車”か？　欧州の新自動車規格「M1E」とニッポンの軽の可能性(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/8cfbcc19d782020c9022933b439b3553fd000049?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-21T08:05:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【9月追加の噂が浮上】「ランドクルーザー300ハイブリッド」いよいよ日本上陸？ 販売再開しても“買えない”可能性、価格は1000万円級か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d7efea694d03284673634ddf6548f921be22019a?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-21T08:04:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "グレード名のエンブレムもなくなった！　絶滅寸前！　おじさんがウルウルくる昭和の懐かしい装備は今もあるのか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/25a3ddbfe14fa1b3af2b568eb61847d4d6e445be?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-21T08:01:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【Eクラスや5シリーズと比較されない？】885万円〜のアウディ新型「A6」が選ばれ続ける理由と生産終了した「A7」の受け皿となるワケ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/64485db4c057ec759be66f2c3d68f8f5c22309f3?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-21T07:30:45+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ カローラクロスvsホンダ ZR-V！ 価格とサイズが絶妙にかぶる人気SUVの勝ち負けを完全判定！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/96fc5f17bfbb506dde4ca9d70f3d5704fb6807ba?source=rss",
@@ -8931,34 +8966,6 @@
       "url": "https://news.yahoo.co.jp/articles/010c3b209bd0123a8f552eee5016da899a40a745?source=rss",
       "source": "carview!",
       "published_at": "2026-07-22T08:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホンダ、中国・広汽集団との合弁契約を10年延長　2038年まで　販売低迷もラインアップ拡充で反転攻勢(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/30c84e92528cb6f94c25b96f529057ca3879cd8a?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-22T08:15:32+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日本では月400台売れれば御の字なホンダ「CR-V」が、アメリカでは22万台売れてベストセラーに君臨する(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/3ee1dc61c731c97528dee826f68b7b77f8f06022?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-22T08:03:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "上品顔ならこれが正解!?　フリード エアースペリオールスタイルは買いか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/d4b678ea84b1d54ba539f3eb4406e820ca5e6bdc?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-22T08:01:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【タイヤレビュー】ミシュラン「プライマシー5エナジー」、最大の特徴はパイロットスポーツ5エナジー以上の「穏やかさ」",
-      "url": "https://car.watch.impress.co.jp/docs/review/2126256.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-22T08:00:00+09:00",
       "category": "news"
     }
   ]
