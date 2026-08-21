@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-21T13:38:26.005650+09:00",
+  "updated_at": "2026-08-21T14:33:08.027712+09:00",
   "articles": [
+    {
+      "title": "ダンロップ、「シンクロウェザー」の新CMに大谷翔平選手起用 「オールシーズンタイヤは凍結に弱い？」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134558.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-21T14:13:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【“VR-4”が復活？】三菱が新型「ASX VR-e」発表。往年の「ギャラン」に由来するBEV、台湾フォックストロンからOEM供給(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/529985f975114686aced1676160821e018bd6188?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-21T14:00:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ピレリ、二輪車用タイヤの推奨購入チャネルを案内 「取り付け対応の実店舗」「WEB認定店」を推奨",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134551.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-21T13:55:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、日本一高いビルの建設現場で行なう交換式バッテリ共有の実証事業に関する取材会開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134507.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-21T13:49:20+09:00",
+      "category": "news"
+    },
     {
       "title": "国交省、千葉豪雨による国・県・千葉市管理の幹線道路で放置車両の撤去完了 そのほかの市町村で157台の撤去継続（8月20日17時現在）",
       "url": "https://car.watch.impress.co.jp/docs/news/2134497.html",
@@ -8939,20 +8967,6 @@
       "source": "日産自動車",
       "published_at": "2026-07-22T15:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "トイファクトリーのベッドキット付きEVミニバン「Kia PV5」 7月25日オープンの「Kia PBV 東名横浜」で展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126877.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-22T14:24:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "最長45kmにもなる｢お盆の渋滞｣はどう避ける？ NEXCO各社が発表した渋滞予測から最適解を考える",
-      "url": "https://toyokeizai.net/articles/-/952055",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-07-22T14:00:00+09:00",
-      "category": "news"
     }
   ]
 }
