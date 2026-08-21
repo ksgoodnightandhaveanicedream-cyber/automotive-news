@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-21T17:40:55.682888+09:00",
+  "updated_at": "2026-08-21T18:37:03.114542+09:00",
   "articles": [
+    {
+      "title": "【その赤、ただの飾りじゃない？】日産のブレーキキャリパーを徹底解説。金・黄になるほど何が変わる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d49ed5b4d208ffd49ff7bfc1d52d39046a2e7390?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-21T18:30:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【NHKでチラ見せ？】トヨタが極秘開発中の次期「カローラ」はスポーティなファストバックスタイルへ変身か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/ffe9fa4aea7c4025fe8ae47fea285ad24b0c524c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-21T18:05:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "エクストレイル「ロッククリーク」は買いか!?　475万6400円の本格アウトドア仕様を検証(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/44c6b6a85207f7590436afeee971ada90db44909?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-21T18:01:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "信号待ちでエンジンを切るな!! JAFの「エアバッグが作動しない」は自動アイドリングストップの話じゃない……けど「自動アイドリングストップはOFF推奨」の理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0ad4942a6cf4d327a664bfa63a752aeda91a0996?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-21T18:01:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日野、路線バスシリーズ「ブルーリボン」「レインボー」を一部改良 安全性や快適性などを向上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134662.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-21T17:46:01+09:00",
+      "category": "news"
+    },
     {
       "title": "【都内では最大85万円】補助金も後押しし「ラッコ」が発売2週間で1000台突破…最上級「300プレミアム」が人気と販売店(carview！)",
       "url": "https://news.yahoo.co.jp/articles/c2b9d0acff4c326fecc9c2f39848d9d8b45e4234?source=rss",
@@ -8917,41 +8952,6 @@
       "url": "https://news.yahoo.co.jp/articles/e5857bbc37de5fab2b66b29e5f68731af443a2b8?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-07-22T18:51:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "モービルアイ、ステランティスの次世代モデルにクラウド連携型ADAS供給",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126956.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-22T18:25:41+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BMW、新型バッテリEV「iX3」発売 価格982万円から",
-      "url": "https://car.watch.impress.co.jp/docs/news/2126937.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-22T18:20:41+09:00",
-      "category": "news"
-    },
-    {
-      "title": "NISMOチューンのフル電動モデル　「日産リーフNISMO」の新型がデビュー(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/53d39b50ba74e23f53aca739cdfbce4f16c6acfd?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-22T18:12:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【2027年ついに刷新か】スズキの次期型「ハスラー」は丸目を維持してハイテク化へ。ただし価格は上昇の気配？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/34ea3c4c24d560837fa26219cd013f572521675d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-22T18:06:30+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シエンタは“子育て卒業後”にもアリ？　夫婦2人+荷物で使う5人乗りミニバン(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/772a0737d6223ca01abc1c3307ce2f42a8e75369?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-22T18:01:12+09:00",
       "category": "news"
     }
   ]
