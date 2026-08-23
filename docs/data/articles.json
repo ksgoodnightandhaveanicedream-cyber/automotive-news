@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-23T08:20:55.416400+09:00",
+  "updated_at": "2026-08-23T10:20:46.664547+09:00",
   "articles": [
+    {
+      "title": "商用車の脱炭素化では技術的にオープンなアプローチが重要？　内燃エンジンから電気駆動まで全て重視するZFの戦略(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/709c55309582192cc41d853bef1493c1848161a4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-23T10:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ランクル300ハイブリッド」は“万能”じゃない？ 463ps／790Nmも燃料タンク減＆荷室狭小化の噂。9月追加で価格は1000万円級か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/2a8163fbc2ef6388462799ad22384504ab069483?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-23T09:00:43+09:00",
+      "category": "news"
+    },
     {
       "title": "【生産終了へ】ダイハツ「コペン」とトヨタ「コペン GRスポーツ」が販売終了。海外メディアが終幕間際に大絶賛する理由とは(carview！)",
       "url": "https://news.yahoo.co.jp/articles/b4d3d043e271f3bb6dae714ba241caaff010afdb?source=rss",
@@ -8602,55 +8616,6 @@
       "url": "https://news.yahoo.co.jp/articles/72f8424fe01a3bfae084fb04ff99170486d01ad0?source=rss",
       "source": "日刊自動車新聞",
       "published_at": "2026-07-24T10:39:17+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シエンタより3列目は快適!! でも2列目がちょっと残念!? ホンダ「フリード」の長所と短所(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8f0324fd992f99cf57cd3056f3af0be0876de557?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-24T10:06:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダウンサイジングエンジン搭載のUDクオンと組み合わせて最大積載量9500kgを実現！　積み荷を押し出すプッシュオフトレーラに単車モデルが登場したぞ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9ffc227e9f9927b2a2523304360429182770372c?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-24T10:01:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "なぜ延期!? いすゞ×ホンダ「水素大型トラック」が投入見送り！ FC大型トラック開発の課題とは(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b0038442bc4d8c9c2f18dcc98ca472cb8ff60975?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-24T09:01:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "7月28日発売のBYD「ラッコ」。上級グレード「300プレミアム」人気、近距離なら「200」も選択肢に…納期は約2か月【販売店情報】(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/6b1ddbf4a43512fc7e78ac6e55d001f71af332fe?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-24T09:00:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【残クレ破産を回避せよ】燃費28.2km/Lの「アルト」や残価率85%の「ノア」など、物価高を生き抜く新車3選(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/066b49acfa3ca7e3a52d8ce62f9aff878df4cb8e?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-24T09:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ポルシェ イモー・ブッシュマン社長とTDK 齋藤昇社長、フォーミュラE東京大会へ向け取り組みを紹介 ポルシェのマシンにTDKの電子部品を供給",
-      "url": "https://car.watch.impress.co.jp/docs/news/2127494.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-24T08:57:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【パワーアップなしでなぜ速い？】日産新型「リーフ ニスモ」登場。出力がそのままでも0.8秒速くなった理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/565ccdb0990c2201a9e81500ae34548ccd8c7cb0?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-24T08:30:20+09:00",
       "category": "news"
     }
   ]
