@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-24T07:22:18.212370+09:00",
+  "updated_at": "2026-08-24T08:21:00.727267+09:00",
   "articles": [
+    {
+      "title": "時速50km同士で「正面衝突」してもドアが開く!? スバル フォレスターの衝突安全性能がスゴい！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5ea2516b0227b4de17f67b1fde4c89f6d1bc2d46?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-24T08:00:44+09:00",
+      "category": "news"
+    },
     {
       "title": "カローラクロスvsクロストレック！　ハイブリッドSUVの絶対王者と本格四駆の実力を徹底比較(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/5b93a6e3ab30d75f826aaab972f8204d50110d6f?source=rss",
@@ -8392,34 +8399,6 @@
       "url": "https://news.yahoo.co.jp/articles/828377c26e92e095979f2f32274ec8e6499effcf?source=rss",
       "source": "carview!",
       "published_at": "2026-07-25T08:30:26+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フォーミュラE、日本メーカー1社が参戦検討　運営団体トップが明らかに　「東京Eプリ」赤字でも継続に意欲(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/f508156beb4522588c875bb4a795630cb9e1d256?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-25T08:20:33+09:00",
-      "category": "news"
-    },
-    {
-      "title": "久々の“攻め”の一台！ 新型「日産キックス」に宿る起死回生の使命とつくり手の意気込み(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/79ba30b95fc380cd937419cd45e5e84c29d49254?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-25T08:04:12+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【人手不足が限界突破】三菱自動車が自社工場で使う人型ロボットを2027年から自ら量産する未来(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e1d79c70d316a4542a99b6227be5d767179205e4?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-25T08:03:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "海を渡ったNISMOスピリッツに現地も大興奮!!　オーストラリアにパフォーマンスセンターを本格設立！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/edc04ac1e016d292ff8b53d00db5fbc25b5169cd?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-25T08:01:03+09:00",
       "category": "news"
     }
   ]
