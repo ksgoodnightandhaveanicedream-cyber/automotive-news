@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-24T12:03:54.196590+09:00",
+  "updated_at": "2026-08-24T13:44:46.450938+09:00",
   "articles": [
+    {
+      "title": "フィアット、新デジタル情報誌「パンダスティックマガジン」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134955.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-24T13:00:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アストンマーティン、「ヴァルハラ」「DB12 S」「ヴァンテージS ロードスター」を英国展 日本橋三越本店2026で展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2134939.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-24T12:40:05+09:00",
+      "category": "news"
+    },
     {
       "title": "百害あって一利なし！　自動車事故時の個人間示談を絶対に避けるべき理由(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/0497ec9d9b3a477763cb4097899f55acc9d1eb08?source=rss",
@@ -86,7 +100,7 @@
       "category": "news"
     },
     {
-      "title": "スズキ、初の軽乗用EV「eスカイ」を公開　今秋に詳細発表　航続距離は310km　ガソリン車と違和感ない乗り味追及(日刊自動車新聞)",
+      "title": "スズキ、初の軽乗用EV「eスカイ」を公開　今秋に詳細発表　航続距離は310km　ガソリン車と違和感ない乗り味追求(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/b63eec1f81dadcb21cbf08fdfcb0901cece67cef?source=rss",
       "source": "日刊自動車新聞",
       "published_at": "2026-08-24T11:00:58+09:00",
@@ -8518,13 +8532,6 @@
       "url": "https://news.yahoo.co.jp/articles/09deff05d2910bcf24c123c0131cbdd0c754a8d7?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-07-25T15:00:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【28年登場】次世代ハイブリッドとADASを採用する次期型「ヴェゼル」…“現行”を今買っても大丈夫？ ライバルと比べて評価される点とは(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/a4024d3f86252b68d510d7b28a40f7bf1de58b6d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-25T12:30:28+09:00",
       "category": "news"
     }
   ]
