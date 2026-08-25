@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-25T16:43:42.422505+09:00",
+  "updated_at": "2026-08-25T17:42:13.470011+09:00",
   "articles": [
+    {
+      "title": "こういう魔改造を待ってた!! あのオーラどうなった!? 日産「オーラNISMO RS」スーパー耐久参戦＆市販化なるか(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e97bc1aff25bb837f92bf02cb6a1d7be7ed48514?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-25T17:36:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、クラウンが描く多彩なライフスタイルと自分らしさに出会うイベント「THE CROWN Lifestyle Session」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2135396.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-25T17:35:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ハリアー」の「HEV一本化は賢い選択」と納得の声多数。それでも「439万円からは厳しい」とガソリン車を惜しむ声も…トヨタ内のポジション争いはどうなる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/0dee550e3035fefb187e1c37f9f02f85a4e2224a?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-25T17:30:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クーペSUVでも後席は狭くない!?　フロンクスの居住性を家族目線でチェック(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fb2540ff7c63e09ba73ca4b3eebcf0e42cd9a160?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-25T17:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ北米のTXじゃない？】レクサスが日本へ3列シートEV「TZ」を2026年12月投入に踏み切る理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/7de1091bebfb78e48a4a30989906d75589bf1520?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-25T17:00:14+09:00",
+      "category": "news"
+    },
     {
       "title": "9月1日より生活道路の法定速度を60km/hから30km/hへ引き下げ 警察庁公式サイトで道路の事例を紹介",
       "url": "https://car.watch.impress.co.jp/docs/news/2135389.html",
@@ -228,6 +263,13 @@
     {
       "title": "人事異動について",
       "url": "https://www.suzuki.co.jp/release/d/2026/0825a/",
+      "source": "スズキ",
+      "published_at": "2026-08-25T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、静岡県交通安全協会浜松中央地区支部に交通安全指導車を寄贈",
+      "url": "https://www.suzuki.co.jp/release/d/2026/0825b/",
       "source": "スズキ",
       "published_at": "2026-08-25T00:00:00+09:00",
       "category": "press_release"
