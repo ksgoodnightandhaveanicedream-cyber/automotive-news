@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-26T13:39:50.091811+09:00",
+  "updated_at": "2026-08-26T14:34:55.834884+09:00",
   "articles": [
+    {
+      "title": "3輪小型EV「リーン3」の受注をオートバックスで開始 価格169万8000円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2135738.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-26T13:43:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "GRヤリス ニュル仕様車の風洞試験を見る トヨタF1やWECマシン開発の知見が活かされた「中井モータースポーツ車両開発センター風洞」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2135733.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-26T13:35:19+09:00",
+      "category": "news"
+    },
     {
       "title": "三菱自動車、日産と協業で北米のピックアップトラック市場に再参入を表明",
       "url": "https://car.watch.impress.co.jp/docs/news/2135685.html",
@@ -8819,20 +8833,6 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2128102.html",
       "source": "Car Watch",
       "published_at": "2026-07-27T14:39:28+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ・モビリティ基金が進める「沖縄ゆいまーるプロジェクト」、多方面にわたる成果を確認。新たに内閣府沖縄総合事務局が参画、沖縄トヨタグループにも拡充して交通事故ゼロを目指す",
-      "url": "https://toyotamobilityfoundation.jp/news/0208",
-      "source": "トヨタ自動車",
-      "published_at": "2026-07-27T14:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "いすゞ、路線バス「エルガ」シリーズ一部改良 バッテリEVモデルに寒冷地仕様を新設など",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128118.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-27T13:44:46+09:00",
       "category": "news"
     }
   ]
