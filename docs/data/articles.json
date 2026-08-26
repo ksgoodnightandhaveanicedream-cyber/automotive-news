@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-26T15:55:20.533354+09:00",
+  "updated_at": "2026-08-26T16:46:47.594141+09:00",
   "articles": [
+    {
+      "title": "日産フォーミュラEチーム、シーズン13のドライバーにローランドとマロニーを起用",
+      "url": "http://global.nissannews.com/ja-JP/releases/260826-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-08-26T16:00:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "太陽光で発電＆緊急時には給電も!! 頼もしい電動バイクがレジャーにも防災にも役立つ!!(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/e7de589c9ddeacab24843bdca21d937db5cda054?source=rss",
@@ -8792,13 +8799,6 @@
       "source": "トヨタ自動車",
       "published_at": "2026-07-27T17:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "トヨタ、ダイムラー、ボルボが燃料電池の大型商用領域で協業へ　トヨタによるセルセントリックへの出資に合意",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128184.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-27T16:10:27+09:00",
-      "category": "news"
     }
   ]
 }
