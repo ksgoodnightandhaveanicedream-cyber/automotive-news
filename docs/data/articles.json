@@ -1,6 +1,202 @@
 {
-  "updated_at": "2026-08-27T13:19:41.961017+09:00",
+  "updated_at": "2026-08-28T01:08:52.086403+09:00",
   "articles": [
+    {
+      "title": "アンカー、防犯カメラとして使えるウォールライトカメラ「Eufy Wall Light Cam S4」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136300.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-28T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クルマのサブスク「KINTO」は何がメリット？ 利用者が語る本当のトコロ[Sponsored]",
+      "url": "https://car.watch.impress.co.jp/docs/topic/special/2131325.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-28T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "助手席下を物置きに!! ジムニーの荷物スペースを広げる収納バッグがアイデアモノ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/694741230869681f4b27d4b3ebfe15edd79d73b6?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T22:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "全幅1575mmで軽自動車ではない!!　スーパーワンがワイドボディを選んだ理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/015adefeb7d0ba3e6f554b1d7d3e3cd2b0c0dc37?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T22:06:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "洗った後の拭き上げ不要!! 流量が17％アップした純水器で洗車が変わる!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/64c3c1b3a938ed60e61c8303d350ffd2e3859add?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T20:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "振動を感知してアラーム!! バイクや自転車にも使える防犯アラームがよりお得に!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ebe73f3507289e6890069c1456b4116d9f86fe47?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T19:06:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【2026年秋の改良は伏線だった？】FL5型の集大成へ。340psまで研ぎ澄まされる「シビック タイプR HRC」2027年誕生のシナリオ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/bf788039bc17796df185ab022f18918d0b156de0?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-27T19:03:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【BMWがここまで変わった】新型「iX3」試乗。先進的すぎるコックピットは本当に使いやすい？ 真夏に見えた意外な弱点(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e1846a1ccc7e336f65951877a2c75d2fef5db27d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-27T18:30:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱ふそう、中型トラックの新型「ファイター」発売　日野レンジャーベースに　統合プラットフォーム戦略の一環(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/97e61c09ee51d8d499a3488fd97e6b8d53c5ccd5?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-27T18:23:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【実際どうなの？】「セレナ」のリアル評価…総合4.6点。e-POWERによる「走り」と「快適性」が好評も、競合は軒並み“前年超え”で販売は正念場(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/68083526fc14849a66782cab37603a3f47d0d8b7?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-27T18:04:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "印象的なオレンジ色の限定モデル「ルノー・グランカングー クルール」登場(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/bd3d562f3685763f10feb588e92f4bdd48d435f2?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-27T18:01:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "本格クロカンなのに乗りやすい!?　待望のジムニーノマド2型、初試乗で判明した走りの進化が感動モノ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3fedd28de8d06e43ee4f048d70d28a3bb9977c79?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T18:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツが軽乗用車「ミラ イース」の一部改良モデルを発売　燃費と安全性を向上(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/591562520b24f392c5968c90601b091f770963e7?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-27T18:00:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "目的のICを通り過ぎても絶対バックするな!! 知らないと危険すぎる「高速道路でやっちゃダメ」5選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2b1834709b5a1364cd17579cb1b35ec5d7d71a37?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T17:31:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "高級車だけじゃない!? 深刻化するクルマの「盗難被害」。盗まれた時に取るべき「行動手順」と「NG行為」(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/ab392cd643573bd95904dc86b09dc219d521899e?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-27T17:30:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、2028年よりレベル2＋＋の自動運転を導入開始 Waymoとのロボタクシー事業参入も検討",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136234.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T17:29:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダアクセス、アウトドア仕様の「フリードクロスター」「N-VAN e: FUN」「スーパーワン」をアウトドアデイジャパン神戸2026に出展",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136199.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T17:08:33+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ランドクルーザー300」に「9月改良&ハイブリッド追加」のウワサも、「情報はナシ」と販売店。一体いつになったら買えるのか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/98b51eaef01a59f818bb706eb22d574394fc352d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-27T17:04:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "インド生産でも日本専用チューニング!!　フロンクスの品質と走りは日本の道でもOKか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/321d2a3e2275449860aaeda8373f5deb1e9e03ed?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T17:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "発売7年目のライズがヤリスクロスを抑えて1位!?　数字と最新動向から読み解くコンパクトSUV人気！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a79a4f95017acc3a8c6a4ec6e25928180bdc1c4e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-27T15:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ルノー、オレンジ色の限定車「グランカングークルール」9月に発売を予告",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136142.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T14:40:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタが軽乗用車の「ピクシス エポック」を一部改良　予防安全システムを強化(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/b35c1b26aa70fff26b03a25d8528e78be030a3ee?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-27T14:32:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、軽自動車「ピクシスエポック」一部改良 安全装備の充実やグレード体系を見直し",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136131.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T14:19:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱自動車、「eKクロス」「eKワゴン」を一部改良 リアシートアラート追加や衝突被害軽減ブレーキシステムの検知範囲拡大",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136126.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T14:15:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱ふそう、新型中型トラック「ファイター」 アーチオン体制下で推進する「統合プラットフォーム戦略」第一弾モデル",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136114.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T14:13:30+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レイズのホイールがカプセルトイになった 「RAYSホイールメタルキーチェーン」12月発売",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136084.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T14:07:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ジャパンモビリティショービズウィーク2026」「CEATEC 2026」の来場事前登録開始 幕張メッセで10月13日〜16日に併催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136076.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-27T13:35:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ピクシス エポックを一部改良",
+      "url": "https://global.toyota/jp/newsroom/toyota/44773590.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-27T13:30:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "新型「チェロキー」に、BluE Nexus、アイシン、デンソーが新開発した「2モータハイブリッド駆動モジュール」を採用",
       "url": "https://car.watch.impress.co.jp/docs/news/2136053.html",
@@ -182,6 +378,13 @@
       "source": "Car Watch",
       "published_at": "2026-08-27T00:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "本社移転および定款一部変更に関するお知らせ",
+      "url": "https://www.astemo.com/jp/news/pdf/20260827-01.pdf",
+      "source": "Astemo",
+      "published_at": "2026-08-27T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "ヴェゼルやカロクロのリセールが爆上がり!!　ランクルだけじゃない「高残価車」はどれだ!?(ベストカーWeb)",
@@ -8602,195 +8805,6 @@
       "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2128680.html",
       "source": "Car Watch",
       "published_at": "2026-07-29T06:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、インドネシアで「XL7」を一部仕様変更して発売",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0729/",
-      "source": "スズキ",
-      "published_at": "2026-07-29T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "黒船来航なるか!?　軽BEVのド本命BYD RACCOついに発売開始「売れそうな理由」と「苦戦しそうな事情」(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/86d880392a5e655df52bfb8b6890b42e73aab4e7?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T23:11:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "貼るだけで内装が高級空間に!! ハイエース200系専用インパネキット登場！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4277d199fd2d1b9a470c78e8ec13f074ca754cd5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T22:31:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "NEXCO西日本、「令和8年熊本地震」による通行止め・災害状況（第1報） 通行止め解除までに時間を要する見込み",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128695.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T22:27:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "デカいクルマはもうしんどい…今さら!?　いや、今こそ「現役5ナンバー車」だ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b44f66197be6befb9a37058f9cfd9c2b02add915?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T22:06:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アクアは全長4080mmの小さな高級車か？　デザイン刷新で変わった“見え方”を考える(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/aebec13b7c99275896c79aff780f146fd9c8079c?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T21:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BYDが軽規格のBEV「ラッコ」を発売　両側スライドドアのスーパーハイトワゴン(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/4b93da10f5372c324de5ca4ef07754b8248a6f70?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-28T20:56:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "センターキャップレス×懐の深さで魅せるシックな美学!! ワーク「マイスターS1」の圧倒的なフレキシブルさ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/77ecfb29cdc6da66ad802176ab5b7aff0a3fbe87?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T20:31:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ヤマハ発動機、686ccの四輪バギー「グリズリーEPS XT-R」を日本初投入　2027年4月発売　国内バギー第2弾(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/93a0b53c3ad377a79d85577fc1ec244ad79d29f4?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-07-28T20:05:31+09:00",
-      "category": "news"
-    },
-    {
-      "title": "総額200万円以下で狙え！　トヨタ ルーミーの最安グレード「X」をベースに楽しむ外装カスタムのススメ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/30cfa5ce2ed414f33265a3c555ec0c80b3ad500b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T20:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、熊本県で発生した地震に伴う「通れた道マップ」を公開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128665.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T19:53:36+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BYD、広瀬アリスさんも登場した新型軽EV「ラッコ」発表会",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128538.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T19:43:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "歴代シビック全部入り!! ファン必須のTシャツに新色ブラック登場!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/eb09482d5afcdba67abc0c9ce16293ebfa32b871?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T19:05:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【ヤリスに食われる？】トヨタ「アクア」は本当に不要なのか。SNSで話題の“生産終了論”と、トヨタの全方位戦略(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/5ec432d295dfec506ed8b8ed3b50da6ace94175b?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-28T19:02:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ブリヂストンがスタッドレスタイヤの新製品「ブリザック アイスピーク」を発表(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/a0722c294487da25a8f691feb0fb5812413ba286?source=rss",
-      "source": "webCG",
-      "published_at": "2026-07-28T18:31:43+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ「1km/h差」で追い越す？】高速道路の「トラック並走」は迷惑なのか。“リミッターの壁”が生むジレンマ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/395ba77a78dd431de02dcb2ea03909faa185056a?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-28T18:30:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ20年前の不発車が注目の的に？】「ジムニー」独走の今こそ欲しい。全長4.2m級「パジェロ イオ」再評価の理由とは？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c95841d8d7ed34116a2bda376a0cde0736e8e49e?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-28T18:05:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ムーヴ キャンバスはタントより買いやすい？ 人気のスライドドア軽を価格とサイズで比べる!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3f51247ab1a69fc176837acb04ec944745f1687a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T18:00:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フェラーリの半額でル・マン直系の走りが手に入る!?　レーシングドライバーがガチで推すミッドシップV8シボレー コルベットの完成度！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a58b8c26a507e200b229e0c4e6a13e54573b0f24?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T18:00:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ハイエースはなぜ登場22年目でも売れ続ける!? “商用車の王者”が揺るがない理由(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2ac5d5452acccc30a60baaa45c41434d7f9ffd15?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T17:30:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ新型「ランドクルーザーFJ」に2027年1月“丸目”が設定されるという噂は本当か。大人気車が仕様変更を急ぐ理由とは(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/b8514ac3ac85495fe44f38f01d80dc3e4ada51ff?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-28T17:30:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "富士モータースポーツミュージアム、6輪F1ティレルP34や国産F1コジマKE007・KE009が見られる特別展 タミヤの秘蔵映像も放映",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128543.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T17:07:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【走るリスニングルーム】ボルボ新型「EX90」公道試乗。680psの電動7人乗りSUVが見せた静粛性と、ハンズオフを採用しない理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/3ab53b5610355d866bdedfa3f76ff6366031932d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-07-28T17:00:41+09:00",
-      "category": "news"
-    },
-    {
-      "title": "これは革命的！　デジタルインナーミラーがこんなに見やすく進化した！　ジェンテックスを知っているか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5ef800a75c85802706a2d296369e9729e7041885?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T16:30:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "3色調光のうえ明るさもアップ!! ハイエース200系DX専用LEDルームランプは買い？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fae6732fdfdcb435c265a42b9bba9630c6a8e85e?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-07-28T15:00:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダ、インドネシアで「CX-30」の現地組み立てをスタート ASEAN地域の重要拠点の1つに",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128527.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T15:00:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産京都自動車大学校、NISMOのデザイン＆パワートレーン部門トークショーをオープンキャンパスで実施",
-      "url": "https://car.watch.impress.co.jp/docs/news/2128439.html",
-      "source": "Car Watch",
-      "published_at": "2026-07-28T14:56:19+09:00",
       "category": "news"
     }
   ]
