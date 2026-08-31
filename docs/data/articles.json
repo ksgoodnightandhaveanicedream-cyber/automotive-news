@@ -1,6 +1,167 @@
 {
-  "updated_at": "2026-08-31T13:07:43.570186+09:00",
+  "updated_at": "2026-08-31T20:24:09.802813+09:00",
   "articles": [
+    {
+      "title": "スーパーワン対フィアット500e!!　国産の刺激かイタリアの洒落感か、電動コンパクト対決(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/207c863126ca977f3ee1c77737105552d67a8ef8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T20:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "収納力はもちろん見た目も爆上げ!! ランクル250の専用キャリアがカッコよき！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6f307816030a7d3ad706be63718e8e71a8ec9f6e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T19:05:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "本州と四国を取り持ったかつての要衝「宇野港」！　最近の様子と港へのアクセス事情はこうなっていた(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/05a4cf15ccb7eff842cc88ecb85076f402b873ca?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T19:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産とホンダ、車載ECUやソフトウェアの共通化に向け共同開発契約を締結 2029年度以降の次世代SDVへ適用目指す",
+      "url": "https://car.watch.impress.co.jp/docs/news/2137048.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-31T18:11:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【ゴルフRがMTを止めた今】304psのマニュアル4WDを守るトヨタ「GRカローラ」の圧倒的存在感と生き残り策(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/efa7a6e3e9512307e09997e72f65649a60057b6d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-31T18:05:30+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツが軽自動車「タント」シリーズを一部改良　ブラックがアクセントの特別仕様車を設定(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/7416b91347b3a5bb1686499bd9eed29a34813529?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-31T18:01:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツが「トール」の一部改良モデルを発売　安全装備の強化と内外装のアップグレードを実施(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/15f3919db1d8ce9513387a6d8f66768940451d64?source=rss",
+      "source": "webCG",
+      "published_at": "2026-08-31T18:01:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "さらにゴツくなった!!　2026年型デリカD:5の外観はどこが変わった？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8c6fa978245fbc381d161e406f13b55619b9fff0?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T18:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダと日産、SDVの協業で合意　共同開発したECUや車載OSを2029年度以降に投入(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/229677ce0aabc62a8e47350b29e83ebd616f728d?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-08-31T17:41:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "改良N-BOXは盤石か!? 累計300万台の絶対王者にBYD「ラッコ」襲来…電動化待ったなし!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2de1e6f9b10c8220dccd6965806d076865664bf8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T17:30:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "10年経っても売れ続けるルーミーが進化！　183万400円から！　いったい何が変わった？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5ab2548d5e5c62c44ffeb00634959c9654570f70?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T17:30:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "たまらんぜ6発3.6L!!　なんで今北米アウトバック買ったんだ!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6d93517eab2ed5d4ccdacc6427914105831e5cb4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T17:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産自動車とHonda 次世代SDVの中核を構成するECUやソフトウェアの共通化に向けた共同開発契約を締結",
+      "url": "http://global.nissannews.com/ja-JP/releases/260831-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-08-31T17:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "手放しで喜べない5307億円の「過去最高益」。ホンダが直面する“四輪で稼げない現実”…本当の正念場は第2四半期に訪れる(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/a855bd50330e5c21c321f2053246290e1ccf44ea?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-31T16:00:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「TOYOTA」「GAZOO Racing」のアパレルやアウトドア、家電・ガジェットなどライセンシー＆OEMパートナーを募集開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136965.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-31T15:12:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "イタリアの空のような青も!! ベスパの2026年モデルが魅力的すぎ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d43987f71cd25941b8a31584289a364e12479c6b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-08-31T15:00:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【秋田犬からF1サウンドまで】787BデモランやMP4/6始動など、2026年秋〜年末の注目車イベント4選(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4507b461697419f5ef0490417f97059ae21b8517?source=rss",
+      "source": "carview!",
+      "published_at": "2026-08-31T15:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「ルーミー」一部改良でアナザースタイルパッケージ設定など",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136951.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-31T14:31:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "[トヨタイムズ記事] 「熱狂しよう！」愛知・名古屋2026 開幕直前 トヨタグループ合同アスリート取材会",
+      "url": "https://toyotatimes.jp/toyotatimes_live/416.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-31T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "WRC第11戦デル・パラグアイ、トヨタのサミ・パヤリ選手が優勝 3戦連続WRC勝利を達成",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136932.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-31T13:54:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ルーミーを一部改良",
+      "url": "https://global.toyota/jp/newsroom/toyota/44782616.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-31T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「TOYOTA」と「GAZOO Racing」、ライセンシー・OEMパートナーを募集\n-第102回東京インターナショナル・ギフト・ショー秋2026に出展-",
+      "url": "https://global.toyota/jp/newsroom/corporate/44716723.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-08-31T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "パイオニア、オールインワン車載器「NP1」のサービス提供を2027年2月25日で終了",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136927.html",
+      "source": "Car Watch",
+      "published_at": "2026-08-31T13:25:54+09:00",
+      "category": "news"
+    },
     {
       "title": "日野チームスガワラ、「ダカール・ラリー2027」に参戦",
       "url": "https://car.watch.impress.co.jp/docs/news/2136866.html",
@@ -226,7 +387,7 @@
       "category": "news"
     },
     {
-      "title": "カローラ/ヤリス級にも“自動運転時代”到来!?　トヨタが2028年からAI運転支援を普及車へ宣言(ベストカーWeb)",
+      "title": "「普及車から」つまりカローラ/ヤリス級に搭載か!?？ “自動運転時代”にトヨタが2028年からAI運転支援を搭載宣言(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/9516aef98b82fe7c60b2523927a3a21c87658040?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-30T11:45:47+09:00",
@@ -8287,69 +8448,6 @@
       "url": "https://news.yahoo.co.jp/articles/c886a0a3ab67951ae64ba73260bb388297fb061f?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-01T22:31:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パジェロのイメージを守りながら内実を大きく刷新！　現代的なプレミアムSUVへと脱皮した3代目＆4代目の功績を振り返る！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/adb530d7a6224a07e5a7a6a60b22f0883020ccab?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-01T19:06:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "多くのファンが期待した「IDx」はなぜ市販化されなかった？ それでも「シルビア復活」の可能性が低くないと言える理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/60d03410832b055bb61dfba6c39d428b16dc6acc?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-01T19:04:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【これが一番安い未来のメルセデス？】新型「CLA／CLA シューティングブレーク」上陸。なぜ物理ボタンを廃止したのか(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/5c5b3d8d2f3d74d7c53a7168fff026977e16acf2?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-01T18:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【アイサイトがさらに進化】スバル「BRZ」改良モデル発表。MT車に広角単眼カメラと新シフトレバー構造を採用(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/4e34d287d659358102cfaf60c1d8ddcffa85f46d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-01T18:02:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ跳ね上げドア？】マツダが出願した2人乗りFR特許の狙いに迫る。軽量なオープンカーでボディ剛性を高められるのか(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/959c36562a4675c55be0c1a8f7ad672ce26c2717?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-01T17:30:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スーパーGT第4戦富士、予選はGT500が新型「プレリュードGT」、GT300が「フェラーリ」祭りに！",
-      "url": "https://car.watch.impress.co.jp/docs/news/2129840.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-01T17:13:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【高級感がかなり増した？】ホンダ「アコード」一部改良。外装パーツをボディ同色デザインへ刷新…価格は595万1000円から(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/b065f64a49bf5a23370255ba606bfdeda5a5f716?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-01T17:00:40+09:00",
-      "category": "news"
-    },
-    {
-      "title": "R32GT-Rをポケットに!! 5000個限定!! 伝説の日本車をキーリングで持ち歩こう!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/f3d209934b5c2ffcbd144c7e29caee996b5e27fa?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-01T16:06:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "バイクデザインを変えた革命児!! スズキKATANAが1/12ブロック模型で登場だ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6e909b67d2c4e50603742c46f9175f66c1b36bb9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-01T15:01:06+09:00",
       "category": "news"
     }
   ]
