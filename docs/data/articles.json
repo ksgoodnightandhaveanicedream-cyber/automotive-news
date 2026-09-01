@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-09-01T08:07:41.975866+09:00",
+  "updated_at": "2026-09-01T12:55:36.484702+09:00",
   "articles": [
+    {
+      "title": "【安全装備を大幅強化】ダイハツ「トール」一部改良。新色追加、最安グレードの装備も充実(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e62c00c3db8a2536280bc19dc60e48b326474877?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-01T12:50:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "EMT、研究開発拠点「EMT R＆Dセンター」公開 山本浩二CTOが「真の日本の自動車メーカーになることを目指すR＆D Vision」を解説",
+      "url": "https://car.watch.impress.co.jp/docs/news/2137110.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-01T12:43:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【高まるBEV需要】期待の「全固体電池」は本当に“ゲームチェンジャー”なのか？「リチウムイオン電池で十分」との声も(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/f470d6720d8b618c92dd048d1e9a0fbd684483c4?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-01T12:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダとUber Eats、二輪配達パートナの安全意識向上と運転改善効果を検証する「二輪安全運転診断アプリ」の共同実証開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2137206.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-01T12:20:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "社外品もあるけれど…やっぱ純正品だろ!!　でもなんでフロアマットは別売りなの!?!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/39bd6d30125c0edf86e516e1edbf0fc9890ab1da?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T12:02:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【“ミウラ”から続く超過激モデル】ランボルギーニ「レヴエルト SV」登場。1065psのV12ハイブリッド、世界1963台限定(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/28b4712b8cfb41bc64c394205e271c823590f431?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-01T11:53:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "パイオニア、音声カーナビ「NP1」のサービス提供を終了　後継機の予定なし(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/a79b5f18ddd11c66156d1f4bc3728855d72ff0c1?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-01T11:50:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ストロングハイブリッドなのに機械式AWD!!　レイバックS:HEVがスバルらしさを守った理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a59fba2710346747ec8cd3b775f5673147e28c39?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T11:46:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トレーラ運転手のナンバーワンが決定!!　UDトラックス主催のドライバーコンテスト「THE ONE」開催(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2dec84a7c00a23ab13227eb712ac4ac9191dd59f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T11:31:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "見た目ほぼ一緒な気が……ランクル70と初代プラド何が違うんじゃ!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/aba8f7405dc4eef5242eaed74f3eb7625bdb080d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T11:31:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トライトンとの違いは走りとパドルシフトの有無!!　いすゞD-MAXに乗ってわかった令和のいすゞとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c448dc04b0568a81505e165bacf81f2f61d06c86?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T11:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【令和8年9月のバス占い付き】赤い鳥居とお稲荷さまなのにお寺なの？　豊川稲荷東京別院へはバスでGO!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/00e3f2f1b6b0f73a1cb1b05f788a686740eace84?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T11:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "全部入りのフロンクスか、とにかく安いライズ、WR-Vか!?　コスパ王がガチで選ぶ最新コンパクトSUVベスト3！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3e0d3cc0c568eb4525b87cde60b3db39c4b1b60c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T10:05:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2026年1～6月の国内自動車生産、2年連続プラス　国内堅調に北米輸出も増加　自工会発表(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6303bbf815bd474862a49999f1b3f8cbbdd69bda?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-01T09:19:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "評論家も「マツダ車ってこんなに優しかったっけ」とオドロキ!?　新型CX-5は乗り心地も静粛性も大きく進化！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a2d8e6d0338ff235a0d679ffec6c97c62d72367b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-01T09:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ排気量を下げたのか？】現行マツダ「ロードスター」が1.5Lへ原点回帰してまで守り抜いたもの(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/41e1f7f6f9d837751cf4b4d07f7f5ce963bb0598?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-01T09:00:19+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【らしさ全開】時代を先取りしすぎた「3+3人乗り」の「エディックス」が示した、ホンダにとって最も大切なコト(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/f53a1bf84af5bbb2b9fb20535fbeccefb417b699?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-01T08:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、ウーバーイーツと二輪車安全運転診断アプリを実証　配達員の運転行動を分析(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/bcacb25ec22851d421f97933e06f7676305bb195?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-01T08:18:25+09:00",
+      "category": "news"
+    },
     {
       "title": "【なぜマニアの要望は爆死する？】初代パンダ風ハッチを望む声は勘違い。「N-BOX」と「ライズ」に圧勝するための220万円ポッキリ案(carview！)",
       "url": "https://news.yahoo.co.jp/articles/63c6f9447a9d9c4faa295647a056151efa4fd07e?source=rss",
@@ -42,6 +168,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-09-01T06:00:55+09:00",
       "category": "news"
+    },
+    {
+      "title": "人事異動",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260901a.html",
+      "source": "マツダ",
+      "published_at": "2026-09-01T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "レクサス、新型モデルの登場を予告",
@@ -166,6 +299,13 @@
       "title": "日産自動車とHonda 次世代SDVの中核を構成するECUやソフトウェアの共通化に向けた共同開発契約を締結",
       "url": "http://global.nissannews.com/ja-JP/releases/260831-01-j",
       "source": "日産自動車",
+      "published_at": "2026-08-31T17:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "[トヨタイムズ記事] 水素だけでサウナとボートが動く！独自の“ととのう”を体験",
+      "url": "https://toyotatimes.jp/newscast/207.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
       "published_at": "2026-08-31T17:00:00+09:00",
       "category": "press_release"
     },
@@ -8441,69 +8581,6 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2129849.html",
       "source": "Car Watch",
       "published_at": "2026-08-02T13:23:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【前年比84.7％】「ハリアー」に一体何が？ 改良控え受注停止中…ハイブリッドに一本化も販売への影響は軽微。8月3日発表へ【販売店情報】(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/2368f6e3c1ce110614d4e4ff8badd7302b96c431?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-02T12:30:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スーパーGT 坂東正明代表、2027年シーズンのタイヤワンメイクについて発表 GT500はブリヂストン、GT300はダンロップ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2129848.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-02T12:17:19+09:00",
-      "category": "news"
-    },
-    {
-      "title": "次期「ロードスター」は“電動化”しない!? 環境規制をクリアする「秘策」とは…受け継がれる“軽量・アフォーダブル”という価値(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/28f79eca9bb91dca0b74c8547ffad044486282f0?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-02T11:50:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "軽のミニから兄貴分のジュニア、イオまで大集合！ 日本中を虜にした「パジェロファミリー」の個性豊かな系譜ををイッキ見！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5ce40ee67d1446993d2f176b820dd0948d64829f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-02T11:05:53+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【バス運転士日誌】7月の営業所見学会は朝から汗だくだ！　取材をする側からされる側に回るとタジタジっす!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/d8cc06e16ad21d64011d516e6cc91e6c571924f2?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-02T11:00:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "SUPER GT 第4戦富士、日産勢は想定外の苦戦",
-      "url": "http://global.nissannews.com/ja-JP/releases/260802-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-08-02T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "フォルクスワーゲンはいつから｢高級車｣になったのか？　データで追う購入者10年間の構造変化",
-      "url": "https://toyokeizai.net/articles/-/952637",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-08-02T10:30:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "オーロラの「無人トラック」が第2世代に!!　ドライバー不足の米国で自動運転トラックの需要が急拡大？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3bcb87e404371dd4e38a1cf6f93022d7eba991dd?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-02T10:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "インドで不人気なのに日本で爆売れ？ 4日で5万台呑み込んだ「ジムニー ノマド」誕生の裏側(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/0174b8ac8cb1c26ed668d1530505f65e54000b31?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-02T09:00:23+09:00",
       "category": "news"
     }
   ]
