@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-09-05T07:48:25.817861+09:00",
+  "updated_at": "2026-09-05T09:38:29.250974+09:00",
   "articles": [
+    {
+      "title": "被災者の「足」、確保に奔走　支援団体が自動車業界に協力呼び掛け(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6b71876a978231b25312fcc1a49073f0670b33a5?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-05T09:20:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ランドクルーザーFJ」の受注再開はいつ？ 次回「入手のハードルは下がる」と販売店。“丸目追加”のウワサは本当か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/bac3f60919ff320d089114bf3b0ed4ca7cd55009?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-05T09:00:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "なぜ彼女は｢ヴェゼルは高い｣と｢より高価なRAV4｣を購入したのか？AIペルソナが明かす認知バイアスと顧客離反の真因",
+      "url": "https://toyokeizai.net/articles/-/956325",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-09-05T09:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "経営再建は順調？ 26年度第1四半期で“黒字決算”となった日産。評価できる点と、手放しで喜べない点(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/73dc24d8c45ca4aa0d5d8f516369e0bd92f11f98?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-05T08:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【上質セダンにも擬似変速】「プレリュード」譲りの「S＋シフト」を搭載か。ホンダ次期「アコード」が狙う“セダンの変革”(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/da991aae0ff8f379e3dc37b8390dec910c09f9c4?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-05T08:04:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "北米産の800万円級SUV「トヨタ・ハイランダー」「日産ムラーノ」「ホンダ・パスポート」で一番“買い”なのはどれか？(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/472658551546e8f36edc805e27d3a4b4501d6873?source=rss",
+      "source": "webCG",
+      "published_at": "2026-09-05T08:03:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マツダ6eを日本で目撃した!?　BEV延期の裏で進む「次の一手」が見えてきた!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e8b9ffe3ebaeff9d19672bd2784e32e4bd7cb872?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-05T08:00:59+09:00",
+      "category": "news"
+    },
     {
       "title": "シリーズ上半期1位の「ヤリス」。購入者は「走り」と「燃費」を高評価…「不満は一切ない」の声も(carview！)",
       "url": "https://news.yahoo.co.jp/articles/f215ee468ce397c2e0a658d44f4258e4b4aee913?source=rss",
@@ -8511,48 +8560,6 @@
       "url": "https://news.yahoo.co.jp/articles/1f2192d829a4e3571cef62b6467404e539dfcccb?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-06T10:01:12+09:00",
-      "category": "news"
-    },
-    {
-      "title": "かつてはフィット一強の時代もあったけれど……！　実は今なお熾烈な争いが続くコンパクトカーTOP3の最新勢力図！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5deb3dce92d411eeb373ebc4e06ab0bf47d3711f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-06T09:01:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【最安「X」はアリ？】新型「エルグランド」のグレード選び…「走り」「安全性」は同じ、違いは“フラッグシップ”としての「先進機能」(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/876809587638101cd672190aeff2835f7d1f93a3?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-06T09:00:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ネットで期待高まる「レクサス版ランドクルーザーFJ」は実現するのか？ 数々の“ハードル”と、想定される“1つの可能性”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/d9f3ae4c75dc7fb4d985bfd36394af4341ef9236?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-06T08:30:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "国交省と経産省、電動車から医療機器への給電マニュアルを改定　EVバイク交換式バッテリーなどを追加(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/f6a64c7fc3fd3286ffdd7d2910ecda54edf47e46?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-08-06T08:16:29+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「新たなトレンドになる」「なんちゃってMT」…DCTを“擬似MT化”したフェラーリ「12チリンドリ・マヌアーレ」が話題。デザインは絶賛(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/1eb8f75b935108d0f7e0eca6bf1be4e31b4ee5cd?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-06T08:03:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "航続距離の進化や補助金の拡充で話題だけど……!?　日本の日常でEVが当たり前になるのはまだ先か!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0cbba352e0616949633ce1cce1928c1fc7a03a98?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-06T08:01:08+09:00",
       "category": "news"
     }
   ]
