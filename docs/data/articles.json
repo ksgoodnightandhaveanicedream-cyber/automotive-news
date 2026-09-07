@@ -1,6 +1,153 @@
 {
-  "updated_at": "2026-09-07T08:32:39.944942+09:00",
+  "updated_at": "2026-09-07T12:17:15.915649+09:00",
   "articles": [
+    {
+      "title": "トヨタ、レクサスのコンパクトSUV「UX」の生産　2027年2月に終了　一部モデルは販売終了(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/f3621d423c6ebc0be870dbd35d3e33b16afa07fc?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-07T12:03:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタから「ガソリン車」が続々消滅!?　ノアなど主力車種で進む“ハイブリッド専用化”の狙いとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2bf5ad823e1c19271e1f319d1c3a0b7601562bf4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T12:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "NTTモビリティ、トヨタ「シエナ」「e-パレット」を活用した自動運転実証を愛知県豊田市で開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138678.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T11:59:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【GT-Rなき後の象徴へ】日産が56車種から45車種へ絞り込む中で次期「スカイライン」に託したブランド生き残りの役割(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/9deeec0598b077192aab6fddb67744b817ccd22d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-07T11:51:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "12万8700円で9インチ画面と通信機能を追加!!　ジムニー「5型」のメーカーオプションは買いか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3858834989f5faf269dd5e3071f6a9ef634778c7?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T11:45:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "EVなのに7速パドルシフト!?　スーパーワンの仮想有段シフト制御とは？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e1c87422e46b49a47aa66871d82f4495df421938?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T11:30:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ミニバンなのに悪路へ行ける!!　デリカD:5だけが持つ「SUVとの二刀流」を考える!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a41c7887c6c8425139c04917b76d712a423aba6e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T11:05:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【バス運転士日誌】大型車に乗っていて乗用車や二輪車に乗ってみると……ちょっと異次元の感覚が!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/53b00531cb1b33acf4da3e86b19be1423722b565?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T11:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "先週のアクセスランキング（8月31日～9月6日）、1位は新型「パジェロ」世界初公開 - Car Watch",
+      "url": "https://car.watch.impress.co.jp/docs/rank/2138642.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T10:58:18+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ハセガワ、1/12リアルフィギュアコレクションに「“エヴァンゲリオンレーシング”サーキットメイト 藤白玲華/綾波レイ」登場",
+      "url": "https://car.watch.impress.co.jp/docs/news/2136620.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T10:36:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マツダ、新型「CX-5」販売好調の要因は、昨年5月から推進している国内ビジネス構造変革の効果と三浦忠理事",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138573.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T10:17:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2026年8月の外国メーカー車販売、2カ月ぶりに増加　輸入EVシェアは過去最高(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/090a5fc4f7335bd256d438b8769c79b4ec807843?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-07T10:08:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランクル250より小さいから悪路で強い!? 「ランドクルーザーFJ」で本格4WDの走破性を試した(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e63f786d0e7785cb8686ca128e1558388d28a29a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T10:05:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "キャムショップ、PGC10からR35まで歴代GT-Rを描いた「NISSAN HISTORY OF GT-R Tシャツ」予約開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138614.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T10:02:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "歴史的な名車も登場!?　「トラック」誕生から130年でクラシック商用車がメルセデス・ベンツの工場に会する(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8553675112e402e23f03088bbbbf97d847754a86?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T10:00:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型「エルグランド」（4代目）公道試乗 快適性とともに走りを両立した唯一無二のミニバン",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2138567.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T10:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "〈熊本地震〉ネクスコ西日本、南九州道「妙見第一橋」復旧に少なくとも2年　南九州の輸送網回復へ早期開通目指す(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/76b94af0043709a812adaa32a796dee61db604e1?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-07T09:15:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "テスラ、「サイバーキャブ」日本初公開イベント開催 東京・大阪・名古屋でハンドル・ペダルレスの2名乗りロボタクシー展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138604.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T09:14:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「小さいSUV」がなぜこんなに売れる!? ライズから「ジムニーノマド」まで人気の理由を分析(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/53c1d2e3720bfce8c56eecbd9bf6d85b8fe3bd2f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T09:00:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【実は「トライトン」と違う？】新型「パジェロ」ディーゼルエンジンの秘密。ツインターボを見送った理由と「PHEV追加」の可能性を聞いた(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5af45861c6cc5624589964167776b7af2d5b6997?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-07T09:00:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「バランスが悪い」「残念」とネガティブな意見も…「ランドクルーザーFJ」のユーザーレビュー記事が話題。期待値とのギャップが原因？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/6d174d3806d26f18d8db7b604d1277dbae546ac5?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-07T09:00:13+09:00",
+      "category": "news"
+    },
     {
       "title": "2026年8月の新車販売ランキング、N-BOXが4カ月連続トップ　登録車はヤリスが24カ月連続首位(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/c38b1ebad99db25976860ef05fea74bac894fd80?source=rss",
@@ -8063,41 +8210,6 @@
       "url": "https://news.yahoo.co.jp/articles/3235c18d2ab08fd8b10b45d9699fca3637cb7f87?source=rss",
       "source": "carview!",
       "published_at": "2026-08-08T12:30:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "最廉価グレードで本当に困らない!?　スズキ ソリオ ハイブリッドMGの装備を徹底チェック!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/615dca585d61961072c183d9ff8bc2ecb7d042f3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-08T11:06:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "バスに乗ってパワースポットへGO!!　京急バスで森戸大明神と真名瀬バス停を巡る(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1272dd7bfbbd25fddd7c012f250574dd42fcd68c?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-08T11:01:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「車載イーサネット通信」でトレーラまでADASを拡張!?　ZFが高度な安全・自動化技術を先行公開！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e9c2f2de5bc3ac1b100486b017ad3b5ab8a37d6e?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-08T10:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「衝撃」「戦略的」「BYDの本気を感じる」と驚きの声…補助金込みで“100万円台”の「ラッコ」。ユーザーの不安とは？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/23eeffb948178405d404c3caf7722037ef19d698?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-08T09:00:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "コンパクトSUVで7名乗車･3列シートという唯一無二の個性…シトロエン新型｢C3エアクロス ハイブリッド｣が放つ世界観",
-      "url": "https://toyokeizai.net/articles/-/953469",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-08-08T09:00:00+09:00",
       "category": "news"
     }
   ]
