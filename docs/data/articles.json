@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-09-07T12:17:15.915649+09:00",
+  "updated_at": "2026-09-07T18:00:10.213239+09:00",
   "articles": [
+    {
+      "title": "ついに発売!! 新型「フェアレディZ NISMO」に待望の6速MT追加！ 価格は975万円から(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e89b7775d92aa7692ca7839eb73fd1034de94dd9?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T17:30:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型エルグランドはレクサスLM以上!!　ちょっと悩ましいモード選択をどう選ぶ？？　「キング」復権までのあと一歩とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/eb23c3e7cd0762f23dcea460c9cda0d2e8f589df?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T17:00:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レイズ、世界最大級の自動車アフターパーツ展示会「SEMA SHOW」初出展 ホイール展示や走行性能を体感できる「Driving Experience」実施",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138805.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T16:39:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "沖縄市主催「オキナワモーターショー」2027年1月23日〜24日開催 出展料無料で企業・団体を9月30日まで募集",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138808.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T16:34:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ランドクルーザーFJ」の受注再開はいつ？ “丸目追加”のウワサは本当か…「入手のハードルは下がる」と販売店(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/7427b4ae1d8ae65ba26df96c6b573c85b44b887f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-07T16:00:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日野、中型観光バス「メルファ」一部改良 クリープ機能付き6速ATや「ドア連動ニュートラルシステム」採用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138799.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T15:34:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ゴードンミラー、「ジムニー（シエラ/ノマド）」「ランドクルーザー」「ラングラー」専用ホイール",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138771.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T15:08:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "400psの5気筒マシンが574万円から!?　「最後のRS3」と噂される現行型は認定中古車が狙い目!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d7eb1b6fdc16f3402a46935d974e18a6bcc609bf?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-07T15:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "＜FIMモトクロス世界選手権＞ ジェフリー・ハーリングス選手がMXGP世界チャンピオンを獲得 ～Honda HRC PETRONAS加入初年度で世界王者に輝く～",
+      "url": "https://global.honda/jp/news/2026/2260907a.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-09-07T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "＜FIMトライアル世界選手権＞ トニー・ボウ選手がトライアル世界選手権で20連覇を達成 ～X-Trialと合わせて前人未踏の世界選手権 通算40タイトルを獲得～",
+      "url": "https://global.honda/jp/news/2026/2260907b.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-09-07T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「道の駅」が全国1234駅に 国交省「くらたけ天草戦国ミュージアム」など3駅を新規登録",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138756.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T14:16:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、一部改良で燃費低減と出力向上を同時に実現した新型「クラウン クロスオーバー」初展示イベント",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138725.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T13:18:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ・コニック・プロ、位置情報連動型音声ガイドサービス「TOYOTA CONIQ GUIDE」の実証実験を宮古島で実施",
+      "url": "https://car.watch.impress.co.jp/docs/news/2138716.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-07T13:16:51+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ、レクサスのコンパクトSUV「UX」の生産　2027年2月に終了　一部モデルは販売終了(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/f3621d423c6ebc0be870dbd35d3e33b16afa07fc?source=rss",
@@ -14,6 +105,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-09-07T12:00:52+09:00",
       "category": "news"
+    },
+    {
+      "title": "WEC 2026年シーズン 第5戦 ローン・スター・ル・マン ： 決勝\nTOYOTA RACING、首位快走も終盤のトラブルで勝利を逸す",
+      "url": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-lone-star-le-mans-race-jpn",
+      "source": "トヨタ自動車",
+      "published_at": "2026-09-07T12:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "NTTモビリティ、トヨタ「シエナ」「e-パレット」を活用した自動運転実証を愛知県豊田市で開始",
@@ -8168,48 +8266,6 @@
       "url": "https://news.yahoo.co.jp/articles/238224c08449fc8564d481b3546f249f340d10c3?source=rss",
       "source": "carview!",
       "published_at": "2026-08-08T18:02:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【2.5トン超なのにスポーツカーみたい】ボルボ新型「ES90」試乗。最上級1229万円のグレードに人気が集まる理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/adce0a8125ef553e48fdabef1c4a7296e00ee7f5?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-08T17:50:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【かわいいだけの「フィット」は卒業？】新グレード「Z」追加で精悍顔に。ライバル比較で見えた現在地(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/a5b86dcb417c700a87ce9ea739d86b98e8a6aeef?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-08T17:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダイハツムーヴ＆キャンバスが激進化！ セオリーとストライプのいいとこどり特別仕様車に注目!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b6ea9e14ab90e96520713ba548652539edd48c91?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-08T16:05:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "エアコン付きの3輪モビリティ!! 都市型小型EV「リーン3」の販売網に豊田通商が参加!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5faa496354ed816f00eb293b3211bc52295d53b8?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-08T15:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スーパーフォーミュラ 近藤真彦会長、2027年のスケジュールや熊本地震についての募金活動を紹介",
-      "url": "https://car.watch.impress.co.jp/docs/news/2131765.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-08T13:55:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「プリウス」離れは本当だった？ 国内も北米も販売減…それでも現行型が“選ばれるクルマ”になった理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/3235c18d2ab08fd8b10b45d9699fca3637cb7f87?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-08T12:30:01+09:00",
       "category": "news"
     }
   ]
