@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-09T22:28:53.868365+09:00",
+  "updated_at": "2026-09-10T02:37:35.118818+09:00",
   "articles": [
+    {
+      "title": "【まるも亜希子の「寄り道日和」】BMWの次世代モデル新型「iX3」",
+      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2138982.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-10T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "サンダーモータースって知ってる？ 127kgの軽量ストリートトラッカー「FT250」がかっちょええ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fecbe7120f2fc7878ce2c7f34caf0abcc2aabe15?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-09T22:30:59+09:00",
+      "category": "news"
+    },
     {
       "title": "ジムニーを買うならXG、XL、XCどれが正解？ 「5型」最新ベストグレード選び!!(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/eaea19e6f67391e6f4d4c90b9a95fc805683ec3d?source=rss",
@@ -8602,13 +8616,6 @@
       "url": "https://news.yahoo.co.jp/articles/18f7482c7602fb97876a86904cccbaeff4d38975?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-11T06:00:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "音質改善の秘密兵器!! 貼るだけで車内の音が変わるプレカット版デッドニングシートがスゴイ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b93620a485e271a3512e5f2dcea20ae38cb5b925?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-10T22:31:00+09:00",
       "category": "news"
     }
   ]
