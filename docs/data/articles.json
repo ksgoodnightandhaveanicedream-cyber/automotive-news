@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-09-11T12:23:17.773062+09:00",
+  "updated_at": "2026-09-11T17:39:36.882549+09:00",
   "articles": [
+    {
+      "title": "新型パジェロついに復活へ!! ランクル250と真正面から比べたら「欲しいのはどっち？」(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b8c12568b4e85af5199d7872027e3985098e2346?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-11T17:30:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【昔なら電球1個だったのに】なぜ現代車の修理は“丸ごと交換”になる？ 電子化で変わったクルマの「壊れ方」(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/da3d14eaf1c77907f90e5d5a4a57d6ca11aa71c0?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-11T17:30:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "すべてはクルマ好きを増やすため、トヨタが作り上げた入門用「GRカート」 38万5000円の低価格と子供たち向けに「乗って楽しく」を実現",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140280.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-11T17:21:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【V6ターボ＆“Lマーク”廃止】レクサス「LS」改良でハイブリッド一本化。走りと装備も刷新、全車に「パノラマルーフ」を設定(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/18315eadd0e94614bc6bedb6cb5f0b2d7dba4aab?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-11T17:10:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ふるさと納税返礼品にも登場！ 2000W電源を備えた軽キャンパーが災害時にも効く！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d1fda421fd2d2f5086abe28505461bb7a4d019b0?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-11T17:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【10月1日予約開始へ】新型「パジェロ」日本仕様をオーストラリア版4グレードから先読み！ 伝統の「スーパーエクシード」復活か？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4f2a2087c0e326dcca7b20977342b2d49f1dfd5c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-11T17:00:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "極太タイヤがよき！ 最長126kmも走る電動アシスト自転車が20％オフ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/674197f66ad7778806092b2a48990fea0ef44bb2?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-11T15:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型「メルセデス・ベンツCLA」に日本導入を記念した限定モデルが登場(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/f8bd59eaab6d2ec020bcd9ee61d03c5ee787a106?source=rss",
+      "source": "webCG",
+      "published_at": "2026-09-11T12:46:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【38万5000円で“カートデビュー”】トヨタ「GR カート」発売！ 「ノア／ヴォクシー」に積めて、子どもから大人まで1台を共有(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/0e73d39081f072c5bf493a100780cc38a9325081?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-11T12:40:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【796万円で日本発売】日産「ムラーノ」が12年ぶり復活も“左ハンドル”のみ。北米で「クラウン」超えの上級SUVは日本で売れるのか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/cdd6c152e620685e29bf2a9342794e6ea51c6cb2?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-11T12:30:02+09:00",
+      "category": "news"
+    },
     {
       "title": "EVへの負担が増えるってマジ!!？？　2028年からのEV重量税特例加算について影響を試算する(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/96b6780d9df1ce29842c243c8c53a5c5b3ca3b19?source=rss",
@@ -158,6 +228,13 @@
     {
       "title": "スズキ、「JPXプライム150指数」の構成銘柄に4年連続で選定",
       "url": "https://www.suzuki.co.jp/release/d/2026/0911/",
+      "source": "スズキ",
+      "published_at": "2026-09-11T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、「東京ゲームショウ2026」への出展概要",
+      "url": "https://www.suzuki.co.jp/release/d/2026/0911b/",
       "source": "スズキ",
       "published_at": "2026-09-11T00:00:00+09:00",
       "category": "press_release"
@@ -8882,69 +8959,6 @@
       "url": "https://news.yahoo.co.jp/articles/343181d69f4a1d67622cdb8438ed449036e46c85?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-12T18:00:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "高速燃費15％改善ってマジか!! 日産「第3世代e-POWER」が新型キックス＆エルグランドの反撃の切り札になる!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/96fa13f105c28c381e7c65e699575de584156ad9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-12T17:30:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "全車ディーゼル＆4WDのみ!!　なぜデリカD:5は割り切った車種構成を貫くのか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/19699bf7d18f43b65be19cfcddd556f321a02803?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-12T17:00:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "NTT、自動運転とオンデマンド配車システムを組み合わせた実証実験を名古屋市都心部で実施",
-      "url": "https://car.watch.impress.co.jp/docs/news/2132348.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-12T16:39:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【12月登場か】ホンダ「パスポート」が2026年後半に上陸。横幅約2mの“超大型”本格SUVの実力とは？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/d547b2ebf46386123dfb5e52aa34c765b325090f?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-12T16:00:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ジャガー、新型バッテリEVラグジュアリー4ドアGT「Type 01」のインテリア公開 10月6日に世界初公開を予告",
-      "url": "https://car.watch.impress.co.jp/docs/news/2132306.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-12T15:14:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "反射やひっかき傷を防ぐ！ スズキ車専用ディスプレイ保護フィルムが役立ちまくり(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4aefdb25f0b40ce6110be1ff0367e3aec6a0b6cc?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-12T15:00:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ディズニープラス、2026/27シーズンからフォーミュラEのグローバル配信プラットフォームに 複数年にわたる契約を締結",
-      "url": "https://car.watch.impress.co.jp/docs/news/2132102.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-12T15:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダンロップ、「アジアクロスカントリーラリー2026」で4台のハイラックスをSUV用タイヤ「グラントレック」でサポート",
-      "url": "https://car.watch.impress.co.jp/docs/news/2132279.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-12T13:52:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アウディ、新型「A6 e-tron」シリーズ PPE採用車初のフラットフロアコンセプトモデル",
-      "url": "https://car.watch.impress.co.jp/docs/news/2132246.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-12T12:51:36+09:00",
       "category": "news"
     }
   ]
