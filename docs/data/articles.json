@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-09-14T14:52:25.595939+09:00",
+  "updated_at": "2026-09-14T21:00:13.127033+09:00",
   "articles": [
+    {
+      "title": "スズキ、東京ゲームショウに出展　ストリートファイターとコラボした「キャリイ」を展示(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/c8b1624a35b323f2270a940ddd6d14f0b7dfb5c3?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-14T20:46:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ 水素ファクトリープレジデント 山形光正氏、「ハイラックスFCEV」でのダカール挑戦の意義を語る",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140830.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T20:01:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「パカッ」と開くロマンに胸熱！　おじさん感涙の「伝説のリトラ車」6選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9cb7d1c3d1e970396331dbf130793fb196be7525?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T20:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "第2世代GT-Rを胸に飾ろう!! ファン必見の新作Tシャツが登場！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9044641ab556bae9fda28652716fa340064fe1b3?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T19:05:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、燃料電池車「ハイラックスFCEV」でダカールラリーに挑戦することを発表  市販版は2028年の市場投入を予定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140768.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T18:19:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランボルギーニ史上最速の「レヴェルトSV」にブリヂストンの専用開発タイヤ「ポテンザ レースR」採用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140748.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T18:12:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「フェアレディZ」大幅改良で「NISMO」に6MT追加…古参ファンだけでなく若年層からの支持も獲得。納車は年明け、NISMOは27年3月以降(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/04e7915f3eb02345a77c890b5536ca82e6b2395f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-14T18:04:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "7人乗りか8人乗りか!?　デリカD:5の最適なシート仕様を考える!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7eecfce5607ebe907c625ddcd8247d86369e6cb8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T18:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "商用車なのに遊び心満載！ 2026年型プロボックスは普段使いでも楽しいか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/43991aa70e78e4ce4c825dd0e0412413be90ce01?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T18:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルファードよりデカいぞ!! スバルが「米国製3列SUV」の日本導入を検討…アセントは日本で本当に売れるのか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6146b5d004743f0f5e2a6459d4c6c71d09b32e6e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T17:30:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クアルコム、ゲームエンジン「Unreal Engine 5」を使ったデジタルメーターなど自動車向け製品を展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140720.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T17:10:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタWRCに真の黄金時代到来!!　6年連続の王座獲得も豊田章男会長は「熾烈な王者争い」を期待!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/847c4eb4664a24b006a9f6f07299ea1218fa3270?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T17:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "それマジでタイヤの寿命縮めます……知らずにやっている3つのNG行為(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2f1fc8a570cc066354410d1e024560ee1646a3f5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T17:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産、横浜市で2026年度に実施する自動運転モビリティサービスの実証実験 一般モニターの募集開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140681.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T16:05:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フレックスの新ブランド「FLEX FOUND」発足 アルパインスタイルとのコラボで作り出される個性派マシンが登場",
+      "url": "https://car.watch.impress.co.jp/docs/news/2140653.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-14T15:08:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "上級グレードじゃない新型パジェロの顔はこうなる!?　違いは一文字ライトの有無(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/31950126c2eb164ba8c37ccb563b1657b1862caf?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-14T15:00:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "よみうりランドと日産、グッジョバ‼「CAR factory」をリニューアルオープン",
+      "url": "http://global.nissannews.com/ja-JP/releases/260914-02-j",
+      "source": "日産自動車",
+      "published_at": "2026-09-14T15:00:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "藤島知子の「KYOJO VITA」参戦レポート",
       "url": "https://car.watch.impress.co.jp/docs/news/2140616.html",
@@ -100,7 +219,7 @@
       "category": "news"
     },
     {
-      "title": "1日限定のJALグループ×はとバスコラボ企画はJA773Jを間近に見られる夢のツアーだぜ！(ベストカーWeb)",
+      "title": "1日限定のJALグループ×はとバスコラボ企画はJA733Jを間近に見られる夢のツアーだぜ！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/e60366e44498c70af9d0e7359f8a2789e0f344e0?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-14T11:00:50+09:00",
@@ -8875,55 +8994,6 @@
       "url": "https://news.yahoo.co.jp/articles/6b23505406e21e0655fb1b2af8e5612eb26e3341?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-15T22:30:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "あまり長距離は走らないけれど……ハイブリッド車を選ぶ意味はあるのか!?　ハイブリッドとガソリン車で迷った時の後悔しない選び方！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/224d0ca47183f77d9d065520a192ab57389b29b5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-15T19:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【新車が2回連続で納車されなかった】工場での事故、そして雹被害…。還暦祝いを襲ったウソのような“まさかの実話”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e09877223265787600d662701953c0e3eb15a1a7?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-15T19:03:53+09:00",
-      "category": "news"
-    },
-    {
-      "title": "100万円そこそこで車重1トンちょっとのMT車。「プロボックス」はサラリーマンのためだけでなく「クルマ好きの味方」だった(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/a2f29c6cf18fd6d82e9ecd4491323551980f9791?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-15T18:00:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【普通のミニバンには乗りたくない】それでも三菱「デリカD:5」は欲しくなった。SUV乗りと家族が認めた実力(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/dc6adb1f39650337e54235ecc6bf780a7a2ff573?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-15T17:30:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【巨大ウイング仕様を捕捉！】トヨタ新型「GR GT」は“2モデル展開”？ 650ps超のV8ハイブリッドで2027年頃に市販化へ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/22b9fb17137fd596aa1dce1450de3aa6db123ef6?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-15T17:00:31+09:00",
-      "category": "news"
-    },
-    {
-      "title": "299万9700円の最安モデルで十分か!?　日産新型キックス「X シンプルパッケージ」の装備をチェック(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8d0b617cf4db518867c414fe234d22fe3aa9e179?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-15T16:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "早瀬佐近の愛した1台!! サーキットの狼「ポルシェ911 RS」が1/18精密モデルで登場!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/cf7f05c2135485643a5e90f369cc84a2efa492c1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-15T15:00:47+09:00",
       "category": "news"
     }
   ]
