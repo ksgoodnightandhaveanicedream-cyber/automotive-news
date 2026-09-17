@@ -1,6 +1,167 @@
 {
-  "updated_at": "2026-09-17T09:12:02.703213+09:00",
+  "updated_at": "2026-09-17T14:49:45.800131+09:00",
   "articles": [
+    {
+      "title": "ジープ、「コンパス」にスノーピーク製ルーフトップテントを装備した限定車「フィールドスタイルエディション」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141788.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T14:30:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ジープ、ブランド創設85周年記念モデル「コマンダーオーバーランド85thアニバーサリーエディション」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141771.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T14:10:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "Super-ONEのリコール（バッテリーチャージャー）",
+      "url": "https://www.honda.co.jp/recall/auto/info/260917_5882.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-09-17T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "LEXUS、ISに特別仕様車“F SPORT Mode Black VI”を設定するとともに、一部改良を実施",
+      "url": "https://global.toyota/jp/newsroom/lexus/44827680.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-09-17T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スバル、「インプレッサ」改良でナビゲーション機能全車標準装備 メーカーオプションも見直して価格は286万5500円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141753.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T13:09:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、「クロストレック」改良 全グレードにストロングハイブリッドe-BOXERを搭載して価格383万3500円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141728.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T12:50:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "MOZA RacingのPS5公式ステアリングコントローラ「東京ゲームショウ2026」で初公開 「グランツーリスモ7」にネイティブ対応",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141699.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T12:34:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【泥まみれにはしたくない？】復活「パジェロ」は都市のホテルも悪路も似合う「タフ・フォーマル」な40〜50代にアプローチせよ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e8d42d44e2b7fc759609f44cd9c37ee6d99099fd?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-17T12:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "350kWの超急速充電器、東名・海老名SAで稼働　東光高岳とeモビリティパワーが共同開発(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/3a6b04cf8d329093137606bc4b6db942101dbc58?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-17T12:08:30+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レッドブル、F1ドライバーのマックス・フェルスタッペン選手が100人とカートで対決!?  「マックスvs100」開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141698.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T12:07:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "エンジンオイル交換1年または1万5000kmって もう古い常識!?　夏が終わったこの時期に行う現実的な交換サイクルとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/780fda790a0c63435a02ac7f9f20533ee2bac46a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T12:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【試乗したら注文してしまった】ホンダ新型「スーパーワン」は何がスゴい？ 95psのブーストモードが楽しい“新感覚EV”(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/2342b05112806aee837ecc4b246c7a44955fc78f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-17T11:52:41+09:00",
+      "category": "news"
+    },
+    {
+      "title": "光岡、11月26日発表予定の新型オープンカーのティザーサイト公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141692.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T11:51:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "CX-30を買うなら20C、20S、20Gどれが正解？　300万円以下の3グレードを比較(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4cc265899bec94848c452453d7fb227c52474778?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T11:45:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ストロングハイブリッドが消えた!?　ソリオがマイルドハイブリッドに一本化した理由とは？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6e1de5cad99008ae853aafe03a889a7f22ddda25?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T11:30:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、ランドクルーザー300を一部改良　国内初のHVを導入　ガソリン車は廃止(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/767192c1175248f8f7de75ff458f5b710ccbe2a8?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-17T11:15:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "走り自体は快適なんだけどなぁ……改良型アクアを2500km乗って気づいた惜しい弱点(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b1e11bc52891672889c066722fa9952f74646a92?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T11:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "祝・『九州号』運行開始60周年!!　このアニバーサリーに西鉄天神高速バスターミナルで記念写真展を開催!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/39026414f800dabc84f5c3d96aa92cb9f727aa23?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T11:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SUBARU　クロストレック改良モデルを発表",
+      "url": "https://www.subaru.co.jp/news/2026_09_17_104044/",
+      "source": "SUBARU",
+      "published_at": "2026-09-17T11:00:01+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "SUBARU　インプレッサ改良モデルを発表",
+      "url": "https://www.subaru.co.jp/news/2026_09_17_104236/",
+      "source": "SUBARU",
+      "published_at": "2026-09-17T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、特別仕様の軽トラ「キャリイ Blanka Base Camp」を東京ゲームショウ2026で公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141622.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-17T10:42:42+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アウトランダーPHEVを買うならM、G、Pどれが正解？　2026年最新ベストグレード選び(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8504d9bb9a0e9fa3e8e9f187b9da42af1ec4d3d4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T10:05:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "作業性と高精度計量を両立！　極東開発工業が計量装置付ごみ収集車「新型ビーム式 スケールパッカー」を発売(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c03aacc02135e2f8fa49471ef97fcd0e4e39980e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-17T10:00:58+09:00",
+      "category": "news"
+    },
     {
       "title": "Z33が「シルビア」の後継ってマジ!? AE86ならトヨタ86が本命！ 高騰した名車の代わりを探してみた(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/e999da0589fbd27cc88a80501a48f94821ee7dc2?source=rss",
@@ -9113,146 +9274,6 @@
       "url": "https://news.yahoo.co.jp/articles/e764f1ac8dd87ace883a2154c184be7472c5fe8e?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-18T15:01:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パイオニア、カーナビアプリ「コッチ」のサービスを11月30日で終了",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133494.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T14:31:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、三春町のミライハウスで水素エネルギーの夏休み学習イベント",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133327.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T13:06:14+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産、「フェアレディZ」マイナーチェンジモデル 「まもなく発売」と公式SNSで予告",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133432.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T12:56:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、本社敷地に新たな事務所棟を建設 新たな価値創造を推進する拠点として2029年の竣工・稼働を予定",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133429.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T12:36:17+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三菱自動車、鴻海からOEM調達する新型EV「ASX VR-e」　2026年内にオセアニアで発売(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/1c4d06c5cc2bb72a5023bfc7200bf1edf537a688?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-08-18T12:22:36+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ベントレー、新型「フライングスパー」日本初上陸 8月21日より展示イベント「New Flying Spur Debut Showcase」開催",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133405.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T12:11:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シフトノブに手を置きっぱなしにしてない？ MT全盛期にはありえなかった愛車のNG操作5選！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0b21c79cb1db84ee072661b6c8f926629d3f8a7f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T12:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "1.8Lディーゼルが消えた!?　2026年型CX-30はガソリンだけでも魅力十分か？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/024c42f6dcf0bd59e1218ed6f678021b85f759f5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T11:56:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フォーミュラE最終戦、日産は連覇ならず　年間王座は欧州勢の手に(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/cf367fbe03b0cee6b021bec40fa3169a5ee16f39?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-08-18T11:32:31+09:00",
-      "category": "news"
-    },
-    {
-      "title": "約35万円高でも選ぶ価値あり!?　日産キックスのe-4ORCEは本当に必要か？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5db51cdb96dafcd6c0035af9bea6b0456f2bb4a1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T11:31:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "横浜ゴム、サッカー伊名門「ユベントス」とパートナー契約 欧州でのブランド力強化へ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133378.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T11:27:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "プロの目から見ても驚きの連続!?　四駆のスペシャリストがガチで解説する「ランクルFJ」最大の注目ポイント！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/42b13822d1fbd9e5b83d5edcfd513b47d994fab4?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T11:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【バス運転士日誌】8月の営業所見学会では記者提案のイベントが初採用！　その内容とは？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/39460e480b1e625048760122702a417e23473c1a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T11:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "Hondaキャンプ ぼくが隊長！秘密基地をつくるぞ！",
-      "url": "https://www.honda.co.jp/outdoor/try/secretbase.html?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-08-18T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Honda Kids たたき染め・こすり染めで、世界に一つの旗をつくろう！",
-      "url": "https://www.honda.co.jp/kids/jiyuu-kenkyu/challenge/c-15/?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-08-18T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "日産、デザイン部門を率いてきたアルフォンソ・アルバイサ氏が退任 マシュー・ウィーバー氏が後任",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133362.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-18T10:57:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "えええ、後席リクライニング機能なしのまさか!!　新型レヴォーグレイバックS:HEVの後席の快適機能を犠牲にしたワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0ad1c4d8bd7fdadbc0a3fd4d5759d320b5845b8f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T10:46:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "新車のタンドラを残クレで買える日が来るとは!!　北米トヨタの巨大モデルがいいぞ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/13953489a4b3da28310c19d5cb94ad59e793236f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T10:26:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アクアGR SPORT対ノート オーラNISMO!! 国産スポーティハイブリッドの本命はどっち？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/105b59b55274c277ca23f391f8fcdae000c58b2d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T10:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "2030年までに「ロボトラック」が10万台!?　中国ポニーが自動運転トラックの見通しを明らかに(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3585d4b29521c5fca684ced059408ae9694c9e09?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-18T10:01:05+09:00",
       "category": "news"
     }
   ]
