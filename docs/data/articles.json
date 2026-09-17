@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-09-18T05:03:33.513300+09:00",
+  "updated_at": "2026-09-18T08:25:01.809301+09:00",
   "articles": [
+    {
+      "title": "スバル、「クロストレック」を一部改良　ストロングHVのみに　「インプレッサ」も単一グレード化(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/eedadd35662e395ab23053e447c0ab283227f065?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-18T08:08:28+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【国産軽の“いいとこ取り”？】BYD新型「ラッコ」に試乗して分かった実力。寄せ集めでは片付けられない完成度(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d96cad079158e021c15fcb91d4ae152709fab20a?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-18T08:04:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "荷室最大幅1150mm!!　フィットのセンタータンクレイアウトは今もスゴい!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d87714ec6294f7c0de830a0ec8ae7d64676d3177?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-18T08:01:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "MotoGP日本グランプリと「ウマ娘 プリティーダービー」がコラボ、オグリキャップ役の高柳知葉さんがMoto2/Moto3クラスのチェッカーフラッグを担当",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141571.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-18T08:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【見た目だけじゃない？】ボルボ「XC40／EX40／EC40」大幅刷新！ トールハンマーデザイン新採用、安全装備も進化(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/7c26a8a638374fb3c159949fca7147ec41ed9943?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-18T07:31:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルファードよりもVIPカーらしさ溢れるクラウンマジェスタを復活してほしい！　銀座で「マジェ」と呼ばれてモテた理由とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/54f4637bf41b918afa7e1453bf3bdcb862cf2389?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-18T07:31:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「パジェロ」復活に大反響！「待っていた」「内装が高級」と喜びの声多数。一方「全幅1925mmは扱いにくい」、電動化を望む声も…再び三菱の柱になれるか？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/08cdcdd7c78ebefd742b3c4d7ae22250f82e6fd2?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-18T07:04:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "コメリ、カー用品「クルザード」などの2026年秋冬新商品を紹介 洗車時に便利なエプロンや拭き上げクロスが登場！",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141578.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-18T07:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタは間違いなく良くなった!!　でも劇的進化の一方で「もう一声」な部分も……？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/97eb596a2b90bf58f43f08ca4656f3fc85af0911?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-18T06:01:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデスの新型「CLA」に試乗 余裕があって軽やかでスムーズな走りと最新インフォテインメントを堪能",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2141186.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-18T06:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ、毎年1兆円を投資し工場とロボットを更新 40万台をフィジカルAIであるLarge Behavior Models搭載ロボなどに",
       "url": "https://car.watch.impress.co.jp/docs/news/2142008.html",
@@ -9351,55 +9421,6 @@
       "url": "https://news.yahoo.co.jp/articles/c6a01b1154cbb527bae70428c3e846ac3f5f8bff?source=rss",
       "source": "carview!",
       "published_at": "2026-08-19T08:30:10+09:00",
-      "category": "news"
-    },
-    {
-      "title": "国交省、バイクの「希望ナンバー」スタート　10月19日に申し込み受付開始(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/2a950b704fa533b8de2f15ebe1bdefb87a7b6c52?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-08-19T08:09:26+09:00",
-      "category": "news"
-    },
-    {
-      "title": "レクサス「RC」と「LC」は1台に統合される？ 生産終了で見えてきた次世代スポーツクーペの正体とは(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/15f10c1dee23f4cfc2a1b6d6d9cf6f30480cdf69?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-19T08:05:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "テスラもついに自動運転レベル4へ!?　避けては通れない法整備の問題も待ったなしか(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/422f267b1ae98ea3aa90e809ae938050ebfed3d4?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-19T08:01:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "韓国発「ヨアジョン」とコラボしたヒョンデの体験型イベント「ヒョンデテラス」 CXC大阪で8月20日～23日開催",
-      "url": "https://car.watch.impress.co.jp/docs/news/2133664.html",
-      "source": "Car Watch",
-      "published_at": "2026-08-19T08:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダ株式会社毛籠勝弘社長インタビュー【前編】　マツダに足りなかった「ブランド価値」に正面から向き合った日々(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c9ea34a360a254b1885f1db0065276aaeaa76a13?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-19T07:06:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "前年比61.9％でも「フロンクス」の販売が“堅調”と言えるワケ…急に供給を増やせないインド製ならではの“ジレンマ”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/914083f2cf74a1958e243d23ad516fbb770dd7d8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-19T07:01:39+09:00",
-      "category": "news"
-    },
-    {
-      "title": "なぜあのクルマはすぐ消えた？　短命に終わったクルマと長寿命のクルマを分けた意外な「決定的な違い」とは？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/af3bffc7b0a1707ee5b550a09db1ffa29f1682b8?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-19T06:01:05+09:00",
       "category": "news"
     }
   ]
