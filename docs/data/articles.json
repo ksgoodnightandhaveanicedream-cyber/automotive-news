@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-27T21:49:39.210776+09:00",
+  "updated_at": "2026-09-28T02:33:34.209553+09:00",
   "articles": [
+    {
+      "title": "【日下部保雄の悠悠閑閑】ハイブリッドラリーカー",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2142920.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-28T00:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "F1のハイブリッドって市販車と何が違う!?　回生、空力、燃料まで市販車とは別次元の技術が詰まっていた！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/394f76f1899055801fb81456f898b7cde45130fb?source=rss",
@@ -8245,20 +8252,6 @@
       "url": "https://news.yahoo.co.jp/articles/3caeca5d073dd40838e9be96b9cd2b1c5bda9564?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-08-29T06:00:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "白と黄色を切り替え可能!! 光量もアップした2色切替LEDフォグランプ用バルブがすごい!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1ec2ba46a5c34d3b6d7cead1c86510a24243eed1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-28T22:30:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "bZ4X対テスラ モデルY!!　補助金と充電性能で選ぶ人気BEV対決!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8667846df37d9a6fc22ec26d2b98c712e0c3a580?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-28T22:05:58+09:00",
       "category": "news"
     }
   ]
