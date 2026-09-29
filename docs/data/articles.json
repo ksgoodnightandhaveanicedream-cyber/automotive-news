@@ -1,6 +1,174 @@
 {
-  "updated_at": "2026-09-29T09:13:34.285679+09:00",
+  "updated_at": "2026-09-29T15:37:29.594175+09:00",
   "articles": [
+    {
+      "title": "MINI、ロンドンの品格を表現した特別仕様車「スローン・ストリート・エディション」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2144108.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T15:03:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "営業スタイルが激変!? 今やLINEが主流に！ 令和のクルマ販売で求められる接客とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ff3bf4ed4c145c86eec65236ea6da43420ca6151?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T15:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2026年8月度 四輪車 生産・販売・輸出実績",
+      "url": "https://global.honda/jp/news/2026/c260929.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-09-29T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "日産自動車2026年8月度　販売・生産・輸出実績（速報）",
+      "url": "http://global.nissannews.com/ja-JP/releases/260929-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-09-29T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "2026年8月度 生産・国内販売・輸出実績",
+      "url": "https://www.subaru.co.jp/news/2026_09_29_113235/",
+      "source": "SUBARU",
+      "published_at": "2026-09-29T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "フォルクスワーゲン、新たな電動SUV「ID.ティグアン」の公開予告 「ID.4」「ID.5」の後継車",
+      "url": "https://car.watch.impress.co.jp/docs/news/2144088.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T14:12:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2026年8月 販売・生産・輸出実績",
+      "url": "https://global.toyota/jp/company/profile/production-sales-figures/202608.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-09-29T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "史上初、2台の「MAZDA 787B」が富士でデモ走行 10月3日～4日開催のマツダファンフェスタで",
+      "url": "https://car.watch.impress.co.jp/docs/news/2144017.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T13:21:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【FF最速陥落】「シビック タイプR」が「ゴルフ」にコンマ5秒負けた…王座奪還に向け標準車＋200万円の「HRC」登場に期待(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/181a9f8002bec11fbdff7c50eca3541515bae686?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-29T12:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【次期エクストレイルの姿が見えた？】日産「ローグ ハイブリッド」発表！ 第3世代e-POWER＆全車電動AWDで225馬力(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/156638e0b1738b354f1aaa32541f68af0f6346a2?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-29T12:20:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ、四輪ユーザー向けの公式コミュニティサイト「スズキヴィレッジ」を公開　愛車紹介などで交流(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/12fd712f60ecf4bff4e885ad3f0075e8fae6a8a0?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-09-29T12:13:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スマホホルダーの取り付け位置で違法になる!?　ドラレコや盗難対策まで最新カー用品の正しい選び方をチェック！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9481a9354344fb35bbf656aa6692c832427f1b86?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T12:00:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「クラウンクロスオーバー」改良でリアデザイン刷新＆燃費向上…「スッキリ」「まとまりが出た」「前のほうがインパクトが強かった」と賛否(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/dfe5353022179aacbde5f64a4a409c6f337c30d8?source=rss",
+      "source": "carview!",
+      "published_at": "2026-09-29T11:52:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型スポイラーに20インチホイールも!! 改良型ランクル300のモデリスタ仕様がすごい！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/723669028aef3cfb989b06ee0c93653a56467396?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T11:45:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「正直、脅威です」ホンダ営業マンも警戒!?　200万円切りの中国車「ラッコ」はN-BOXの牙城を崩すか(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f024eb99a65efedf24041cc75f9c342d49a9249e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T11:30:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "BYD、新型「ATTO 3 EX」一充電航続距離620km、四輪駆動モデルも設定し、価格437万8000円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2143973.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T11:08:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "最近のクルマから「泥よけ」が消えた!? 昔は“当たり前”だった「マッドガード」標準装備されなくなった意外な理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4d5be2a58719cb1e66ae5ef8669edef53b6251d7?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T11:05:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "定期観光バスでパワスポはには行けないの？　　いやいや…ちゃんと行けますって！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/56d6ae1e1aaa4a010b393fa1427f3769b156f341?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T11:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SPORTS DRIVE WEB 佐藤琢磨と塚越広大がサーキットで乗って、語るBEAT",
+      "url": "https://www.honda.co.jp/sportscar/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-09-29T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ホンダとオニツカタイガー、二輪車のコラボモデル「オニツカ・タイガー・ホンダ・ミッド・スポーツ・コンセプト」世界初公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2143950.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T10:33:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ボルボのバッテリEV「EX30クロスカントリー」にRWDモデルが登場 真骨頂はしなやかな動きを操る楽しさにあり！",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2143573.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T10:31:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「いすゞの乗用車」覚えてる!? 117クーペにピアッツァも名車だった！ 110年続く老舗メーカーの知られざる歴史(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1cce34ce9f613aad2744da29416f492db212a13b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T10:05:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スカニアが新たなBEVトラックを発表!!　航続距離はなんと720kmに達する(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/80744f2becfea30fca0fdbcbe6ceee0e8f0cd922?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-09-29T10:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フォルクスワーゲンと新潟自動車産業、バッテリEV「ID.4」を新潟県に寄贈",
+      "url": "https://car.watch.impress.co.jp/docs/news/2143942.html",
+      "source": "Car Watch",
+      "published_at": "2026-09-29T09:56:58+09:00",
+      "category": "news"
+    },
     {
       "title": "マツダのこだわりスゴいぞ!! 直6ディーゼルにロータリー復活も！ CX-60/MAZDA3/MX-30の独自メカが凄い(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/8f41f803e054ae1becceeb43156db18efe73d581?source=rss",
@@ -63,6 +231,27 @@
       "source": "ベストカーWeb",
       "published_at": "2026-09-29T06:00:52+09:00",
       "category": "news"
+    },
+    {
+      "title": "マツダ、2026年8月の生産･販売状況について",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260929a.html",
+      "source": "マツダ",
+      "published_at": "2026-09-29T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ 2026年8月 四輪車生産・販売・輸出実績",
+      "url": "https://www.suzuki.co.jp/release/d/2026/0929/",
+      "source": "スズキ",
+      "published_at": "2026-09-29T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "Astemoの「機能協調設計」を具現化した次世代フロントエンドシステム搭載マシンが国内レースでポールポジションを獲得",
+      "url": "https://www.astemo.com/jp/news/20260929-01/index.html",
+      "source": "Astemo",
+      "published_at": "2026-09-29T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "ジムニーがアメリカンに激変！ 安全装備が向上したノマド2型のコンプリートカーがステキ！(ベストカーWeb)",
@@ -8371,55 +8560,6 @@
       "url": "https://news.yahoo.co.jp/articles/6d507f381d6ce9be132e46733124b4b4d7a00d58?source=rss",
       "source": "carview!",
       "published_at": "2026-08-30T16:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "洗車後の水滴を吹き飛ばせ!! 掃除にも使える強力エアブロワーが便利すぎた!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4fe4a33448b1151fab3155186581c5decaf2889d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-30T15:00:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【スクープ】600ps級のモンスターSUV「RX モリゾウRR」を捕捉。新開発2.0Lターボで2028年登場か(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/d1a426a437517a1e4aad7f71cea750eba1342460?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-30T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【“マクラーレンF1”以来のMT復活】新型「McL 6GT」世界初公開。V8×3ペダルのスーパーカー、2028年量産へ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/a6c795562af5540ef430ee3ede25b4b371e792fa?source=rss",
-      "source": "carview!",
-      "published_at": "2026-08-30T11:50:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「普及車から」つまりカローラ/ヤリス級に搭載か!?？ “自動運転時代”にトヨタが2028年からAI運転支援を搭載宣言(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9516aef98b82fe7c60b2523927a3a21c87658040?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-30T11:45:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「パワーか軽さ」あなたはどっち!? 爆速4WD「GRヤリス」と超軽量「ロードスター990S」！ 走る楽しさを極めた2台(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2f2e67d49c4afceeb925a55fb2335e1cfd8d8c85?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-30T11:05:48+09:00",
-      "category": "news"
-    },
-    {
-      "title": "あれ？　前からこんなだったっけ？　2度目のバス旅で景色が変わっていた場所　〜引田駅〜(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b67e6e37084c15589d0071e05f072d9dd9bf4dbc?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-30T11:00:48+09:00",
-      "category": "news"
-    },
-    {
-      "title": "停まっていても次々現れる「ヤバい奴」!! 米国在住のトラックドライバーに聞いてみました【後編】(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e744fab4a2cbbde17da026e2fd1749e4883bdf36?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-08-30T10:00:48+09:00",
       "category": "news"
     }
   ]
