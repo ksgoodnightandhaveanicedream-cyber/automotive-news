@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-10-02T06:35:09.594679+09:00",
+  "updated_at": "2026-10-02T10:19:28.866032+09:00",
   "articles": [
+    {
+      "title": "ハイブリッド買って後悔のまさか!!　ガソリン車にすればよかったとなる前に確認すべきポイント(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e9b11d511deea03b6e1729ecaa1d55c350b05a47?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-02T10:06:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "物流最適化システム「NeLOSS」を提供!!　日野が国土交通省「デジタル技術を活用した荷主・物流事業者の行動変容促進事業」に参画(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e5c496060aa89bd6440df87dd38216c296cfd86d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-02T10:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型メルセデスの「顔」はなぜ2種類ある？ CLAの“一文字ライト”とGLCの“光るグリル”、新世代デザインを読み解く(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/fdb30695235198cb97591a10b3b816e356729020?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-02T09:00:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「LS」も改良でハイブリッド車に一本化！ 走りの熟成が進む一方「先進装備の進化」を望む声も…“ミニバン化”までのつなぎなの？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/9239812ca59e33330c8d6f7038b10c6f6246db68?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-02T08:30:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "冠水で止まったエンジンを再始動したらダメ!?　水没車をさらに壊すNG行動に要注意！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/37208e4bbaaecffe02a1bfd7bbac3215905470c5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-02T08:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日本信用情報機構、信用情報へ注意喚起を行う「本人申告」のスマホ申込を停止　パーク24の情報漏えいで殺到(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/14eec1746b1053e565b8bd5236aa66e1de214138?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-02T07:55:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【前輪駆動をやめた！】BYD「アット 3 EX」大幅刷新。後輪駆動化＆航続620km、449psのAWDも追加(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/11fbcefcee726dcffc27b04a7e07511912789136?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-02T07:30:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「スーパーワン」購入者のリアル評価…総合4.5点、「力強い加速」「軽快で安定感がある」と「走り」が好評。“BOOSTモード（補助金）”で販売も絶好調!?(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/19ba9314aabce0eb1201b80280fb13c2de6b290e?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-02T07:30:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "小林可夢偉が考えたWEC富士の秘策はまさかの銭湯!?　トヨタ・レーシングの異色PVが文句ナシに楽しい！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/499f5df9d16fc3190cd4998cf083c0e8c95f8268?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-02T07:06:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「EVは冠水に強い」は本当だった？ 水深60cmでも日産「リーフ」は走破！ ガソリン車は途中停止(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b6ee487cef578dedbba33cbd8c1820db3dc63235?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-02T07:04:16+09:00",
+      "category": "news"
+    },
     {
       "title": "クルマにかぶせて延焼防止!? 車両火災の初期対応に役立つ「ファイヤー消化ドーム」が画期的！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/55813ca54fd31860985fe348408868ff7d35fe5b?source=rss",
@@ -8707,97 +8777,6 @@
       "url": "https://news.yahoo.co.jp/articles/7f937c1a2bdcc10a9294297bd65be72145731f27?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-02T11:01:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ファミリーカー感覚で使える居住性と1.5Lエンジン×5MTの軽快感！　 昭和の走りを感じさせるジムニーノマドのシフトチェンジが心地よぎる!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/80fc7cace3b77674a64a3d2bb3b5ea971062c1d0?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-02T10:06:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日野の中型トラック「レンジャー」が一部改良！ 240PSエンジンへの一本化でシャシー架装性もアップ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/23221f073debc85f0bff9eed84e8e5ba6d2433d9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-02T10:01:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アステモ、グローバルサプライヤーとしての成長を目指し本社機能を東京駅前の八重洲に移転 3つのフロアを報道公開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2137454.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-02T09:06:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "約559万円「新アルファード」登場！ 1000万円超えグレードも!? 王者「アルヴェル」の最新ラインナップ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/da6094690c9661a147796896f7f6c2241641aae5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-02T09:01:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ今あえて進化？】市販化を見送ったコンセプトカーがゲームで復活。マツダが“570psのロータリー車”にこだわる理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/59e9c15307adebe8fa3893232a2bc696309fb6c6?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-02T09:00:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "東京オートサロン2027、1月15日～17日に幕張メッセで開催",
-      "url": "https://car.watch.impress.co.jp/docs/news/2137434.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-02T09:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【プレ値崩壊＆新型車ラッシュ】新型「エルグランド」の転売相場下落が話題に！ 8月の月間アクセスランキングトップ3(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/2c9cb0135327a7c9999108047d1911a42e3119e7?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-02T08:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、レクサス「NX」大幅改良　前後デザイン一新　ボディー剛性向上　HVインバーターにSiC採用(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/dd0b1498c4500f33a0312de0de562f829d007470?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-02T08:11:30+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【迷う…】「車両保険」には入る？ 入らない？ 加入した方がいい“ケース”と判断の“目安”…想定外の事態に備えた方がいいの？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/3d9158def1a3ad16ad5c1edf077c3a12e3de3e35?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-02T08:05:40+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ロードスターにもCX-5にも弱点あり!?　マツダ現行モデルを忖度なしでマルバツ採点!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/32eb95489303bfaa15bd78e3011b306b8a310ce3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-02T08:01:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【ビフォー･アフター】ハイエースにヤマハ｢パフォーマンスダンパー｣を自腹装着！走りの劇的変化をレビュー",
-      "url": "https://toyokeizai.net/articles/-/956054",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-09-02T07:30:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アウトランダーPHEV対RAV4 PHEV!!　電動4WD SUVの本命はどっち？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/670fa6fd1a64ae65f72a61420217db188f6944e4?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-02T07:06:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産がインドで発表した小型SUV「テクトン」。“絶妙サイズのタフ系スタイル”で日本導入に期待高まるも、その可能性が“かなり低い”理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/d977aef69cd77e3b85593e42fa0f4d3c2c3d1ca8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-02T07:04:52+09:00",
       "category": "news"
     }
   ]
