@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-04T13:41:01.663785+09:00",
+  "updated_at": "2026-10-04T19:56:34.890362+09:00",
   "articles": [
+    {
+      "title": "高齢者の運転技能検査「93％合格」は甘すぎる!? 事故率最大4.5倍の調査結果で改正へ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5ac7f979074617dba5360129c7b0f64d3323a002?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-04T19:05:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【11月24日登場か】ダイハツの5ナンバーSUV「ロッキー」が一部改良。5万円前後の値上げと最新安全装備で何が変わる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/98e013fa86c379d254eb483fcc578e1d38808968?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-04T18:03:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日本でセダンが売れなくなった理由はSUVだけじゃない!!　国産車に足りなかったのは「後席」の視点だった!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a369cfa2ed6591c12a00f75208fc933086705a40?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-04T16:10:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「国産車」は燃費がよい、壊れにくい、安っぽい。「輸入車」は高級、走りがよい、壊れやすい…このイメージはなぜ生まれた？ 言葉以上の意味とは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b6dbf67c5ee3a26f9d0fbab398ab31bc6f5dcef9?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-04T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "欧米自動車メーカー｢防衛費拡大｣を追い風に新たな収益源を模索､ピックアップトラックやオフロード車を軍用に改修",
+      "url": "https://toyokeizai.net/articles/-/960086",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-10-04T16:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "モニター裏を小物置き場に!! 新型RAV4の収納問題を解決する専用トレイが再登場！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c7dd75e997fccf9aa8f0615c2550937460585710?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-04T15:00:50+09:00",
+      "category": "news"
+    },
     {
       "title": "【なぜ市販しないのか？】専用Tバールーフまで開発した日産「Z Kaze」が買えないコンセプト留まりの理由(carview！)",
       "url": "https://news.yahoo.co.jp/articles/198b4a6df5018d334e6a40bb24f1371b542d9099?source=rss",
@@ -8280,160 +8322,6 @@
       "url": "https://news.yahoo.co.jp/articles/01c5a07d7accec7f85d3f48869358e8da7408d85?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-04T20:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "新型RAV4をアウトドア仕様に！ ライノラックの本格ルーフラックがキマリすぎ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/817cc93d9904ee7986909f30757d254cb6b7883d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-04T19:06:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【“安いだけ”のSUVから脱却？】ホンダ「WR-V」改良の噂。4WD＆トレイルスポーツで一気に本格派へ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c71aaf90c7369a312e19898b2cf88a13473c48d6?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T19:04:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニデック、品質不正844件　調査委の報告受け会見　承認なく材料変更　自動車部品で産地偽装(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/0f42f5882cf7da3a87ca3737db14afd11dc6b10f?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-04T19:01:51+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ちょっと写真で見る　ホンダ「プレリュード 2027リミテッドエディション」",
-      "url": "https://car.watch.impress.co.jp/docs/news/photo/2138448.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T18:34:17+09:00",
-      "category": "news"
-    },
-    {
-      "title": "改良から1か月、「タフト」の販売が好調。人気の理由は「装備の充実」と販売店…新カラーで「ハスラー」との熾烈な争いは続く？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/1440e8700959c7893978d2030708fe5c3cc3bf6a?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T18:30:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【700万円級で1.5Lの3気筒】新型「エルグランド」は本当に非力？ 実は“エンジンで走らない”高級ミニバンだった(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/652345473bef6eadb49aab14aa856aaa6b33bd0c?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T18:05:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "純正でここまでゴツくていいのか!!　エクストレイルの「ソトアソビパッケージ」は買いか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/79d17cc8241ce280dd04f2af60e4b243e2121072?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-04T18:01:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "昨日まで普通だったのに…猛暑明けの「12Vバッテリー突然死」!! EVも動けなくなる理由(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/ba761022c4dc7382d71dc506f4b3cc531a79135d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-04T17:31:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【2027年登場か】日産最小BEV「ウェーブ」を初捕捉。2万ユーロ以下でマイクラより18cm短い街乗りハッチの実力(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/a686da94daca25e04d1549860122e43037db7bda?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T17:30:10+09:00",
-      "category": "news"
-    },
-    {
-      "title": "改良型プロボックスにKINTOが対応！ 月間5000kmもOK！ 商用車こそサブスクがピッタリなんじゃね？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/60bc46cde0ddecfde1e632746e09b67ea4c129c6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-04T17:01:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "前月の“ほぼ倍”、前年比131.4％と改良版「フィット」が好調。売れ筋は「e:HEV Z」、“スポーティ顔”で若年層の支持も獲得？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e65e6f91633e3523a44189e5a91d8f7b33c6460d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T17:00:22+09:00",
-      "category": "news"
-    },
-    {
-      "title": "WRC 第12戦 ラリー・チリ・ビオビオ プレビュー\n南米グラベルラリー2連戦の2戦目となるチリで今季11勝目とマニュファクチャラーズタイトル決定を目指す",
-      "url": "https://toyotagazooracing.com/jp/wrc/release/2026/rd12-preview/",
-      "source": "トヨタ自動車",
-      "published_at": "2026-09-04T17:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スノーピーク、新型ルーフトップテント「フィールドライズ」 エアフレーム構造でスピーディな設営・撤収を実現",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138355.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T16:36:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "WEC富士6時間、F1世界王者ジャッキー・スチュワート氏が名誉スターターに決定 MIYAVI氏の国歌演奏も実施",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138381.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T16:22:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【400万円以下は消滅】日産「エクストレイル」仕様変更でSグレード廃止。上級Gグレードは19インチ標準＆黒アクセントで印象を一新(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/5ee8fa618731bd5f7c5cfd1805b2cda33367d140?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T16:20:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダイハツの2代目「コペン」生産終了 最後ではなく「コペンの歩みを進める日」と井上雅宏社長",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138345.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T15:18:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "キント、商用車「プロボックス」のサブスクサービス開始",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138341.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T15:11:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "この手があったか!? サンバイザーを収納場所に変えるサングラスクリップが便利すぎ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4bb090b54efee153785238c11acc2df4a071ab22?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-04T15:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【第5世代ハイブリッドに進化】トヨタ「クラウン」3モデル一斉改良。クロスオーバー＆スポーツ刷新、セダンに新「G」グレード追加(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/acdd2400f5d45c812cd0134222b0b8415d211039?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-04T14:50:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダンロップ、2027年末をもってカート用タイヤの供給終了",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138334.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T14:31:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、「プロボックス」一部改良で全車T-Connect対応 価格196万5700円から",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138312.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T14:12:21+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ドゥカティ、マルケス＆バニャイア選手へ敬意を表したシリアルナンバー付き限定モデル「パニガーレV2 MM93」「パニガーレV2 FB63」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2138292.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-04T14:09:14+09:00",
       "category": "news"
     }
   ]
