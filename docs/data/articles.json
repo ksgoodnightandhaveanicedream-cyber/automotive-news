@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-10-05T10:40:23.543774+09:00",
+  "updated_at": "2026-10-05T17:29:23.024183+09:00",
   "articles": [
+    {
+      "title": "ホンダ、「ジャパンモビリティショー ビズウィーク 2026」出展概要発表 VRによる仮想同乗体験「Honda DIVE」など出展",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145721.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T17:01:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "天井を切らずに装着!! 40系アルファード用の13.3インチ後席モニターなら家族も大喜び！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/87454942fc4230246c148347bd2ccbea8045a1fd?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T17:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アストンマーティン、新型「DBX GT」 最高出力727PSとエレガンスを兼ね備えた超高級ラグジュアリーSUV",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145712.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T16:43:42+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「普通すぎるEV」が実はスゴい!? 26kWhで310km走る！ スズキ初の軽EV「eスカイ」に乗ってわかった実力(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a49a7121b290bf84cedbf89e4b75f2c284d3c878?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T15:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダと大成建設グループ、EVへの走行中無線給電の基盤技術開発 2027年度以降に高速道路で実証実験実施へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145663.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T14:48:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「トミカオーナーズミーティング」東京・大阪で12月開催決定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145638.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T13:54:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、「ジャパンモビリティショービズウィーク2026」出展概要 「インフラ協調型自動運転 試験車両」など展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145632.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T13:21:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルパイン、後席からエアコンを操作できる「リアコン」に日産キャラバン用が登場",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145602.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T12:51:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いすゞ初の燃料電池路線バス「エルガFCV」発売 トヨタと共同開発で航続距離は300km以上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145593.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T12:38:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いすゞ、EVバスを全車リコール　インバーターに不良　7月の発火事故は電池起因ではないと推定(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/38d1b625fd6f4829768fec18e97e578d077ef454?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-05T12:25:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、いすゞと共同開発した新型燃料電池路線バス「SORA」発売 航続距離300km以上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145574.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T12:15:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "高齢ドライバーの事故はどう防ぐ？ 技能検査を厳しくするだけでいいのか!? 「安全装備付き車限定」という考え方(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6425982891b7b2a01177baf55d1f8e9e9370a363?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T12:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "六本木にF40やエンツォが降臨！無料で見られる｢フェラーリ･フェスティバル東京｣とCEOが明かすブランドの本質",
+      "url": "https://toyokeizai.net/articles/-/959538",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-10-05T12:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "WRC 第13戦 ラリー・イタリア サルディニア デイ4\nソルベルグが今シーズン3勝目を手にし\n総合5位フィニッシュのエバンスが初の世界王者に輝く",
+      "url": "https://toyotagazooracing.com/jp/wrc/release/2026/rd13-day4/",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-05T12:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "【災い転じて福となす】車外騒音規制を乗り越えた改良版「ロードスター」は、従来型よりも走りが良い!? 当たり前に買える“奇跡”と取り巻く厳しい“現実”(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/1b84d71d9df389435e4f457f8b02efc15d80ce5d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-05T11:52:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "WLTCモード22.0km/L!!　ソリオのマイルドハイブリッドは家計に優しいか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e478ea4fb84b9ab115aad25731a064d3e805abec?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T11:50:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、レクサス「LX」を一部改良　新グレード「Fスポーツ」を追加(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/805d215d9a6c18188afd906a17f93fe64a314472?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-05T11:46:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "デジタル速度計に大変身!!　2026年型エブリイ/エブリイワゴンの新メーターは見やすいか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/188d8f6efafcaaeb9afcadfcf2e17160c12a2b23?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T11:30:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ×「頭文字D」コラボで「コップの水をこぼさない高速走行」をリアル検証",
+      "url": "https://car.watch.impress.co.jp/docs/news/2145546.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T11:23:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "先週のアクセスランキング（9月28日～10月4日）、デンソーと日本特殊陶業の事業譲渡中止に注目集まる - Car Watch",
+      "url": "https://car.watch.impress.co.jp/docs/rank/2145554.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T11:21:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ世界王者!!　究極のチーム内バトルを制したエバンス初戴冠(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b68dc1f39b6f3bf219efe7f3047c09a8d996ac47?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T11:15:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "航続距離は計算上1000km超え!?　63Lタンクを守ったレイバックS:HEVの長距離性能!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2216db0eb952650e61e4c7331f57d69c4902c624?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T11:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "名古屋SRTの新ルートである「名古屋城ルート」はブルーリボンハイブリッド連節バスで走る!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6da28a151f76f2964177e3b4b977b7fc11b8ce19?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-05T11:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "JEITA「CEATEC」と自工会「Japan Mobility Show Bizweek」併催で目指す日本産業界の「Transformation」とは？　10月13日から始まるイベントの詳細を聞く",
+      "url": "https://car.watch.impress.co.jp/docs/news/2141603.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-05T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、新型燃料電池路線バス「SORA」を発売\n-水素社会の実現に向けて、公共交通における水素の利活用を推進-",
+      "url": "https://global.toyota/jp/newsroom/toyota/44711967.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-05T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "Honda釣り倶楽部 20cm級の「デカハゼ」は釣れるのか？",
+      "url": "https://www.honda.co.jp/fishing/enjoy/report/shizuoka-haze/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-05T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "SUBARU　「Japan Mobility Show Bizweek 2026」出展概要",
+      "url": "https://www.subaru.co.jp/news/2026_10_05_171759/",
+      "source": "SUBARU",
+      "published_at": "2026-10-05T11:00:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "高いオプションを付けたのに結局ほとんど使わない!?　クルマ購入は“盛りすぎ”でも後悔する！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/0d64ba052f0ca3e256179477cd51bdc004ac4890?source=rss",
@@ -77,6 +266,27 @@
       "source": "Car Watch",
       "published_at": "2026-10-05T00:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "損保ジャパンとスズキが能登町と連携し高齢者の自力避難を支える地域防災の取組みを実施",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1005b/",
+      "source": "スズキ",
+      "published_at": "2026-10-05T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、スズキ部品センター大阪を新設",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1005a/",
+      "source": "スズキ",
+      "published_at": "2026-10-05T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「第3回ハマロボ展2026」への出展概要",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1005/",
+      "source": "スズキ",
+      "published_at": "2026-10-05T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "高齢者の運転技能検査「93％合格」は甘すぎる!? 事故率最大4.5倍の調査結果で改正へ(ベストカーWeb)",
@@ -8217,62 +8427,6 @@
       "url": "https://news.yahoo.co.jp/articles/f27e920ebbc7c3e021cbc1e2920a12f400d88ca9?source=rss",
       "source": "carview!",
       "published_at": "2026-09-05T17:30:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "販売首位を支える「ヤリスクロス」。購入者は「デザイン」と「燃費」に高い支持…派生モデルから中核モデルへ【オーナーの本音】(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/bf2b15baea68b965e2158eadfde54042afcc6c48?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-05T17:00:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ルーフキャリアだけじゃない!! スーリーの多目的バッグ「パラマウント7」がドライブにもビジネスにもよき！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9ea7e907f1733f17b9be7f76f25634ac43a64a4a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-05T16:05:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "車内装備はキズも心配!? 場所ごとに使い分けられる洗車ブラシ3本セットなら安心!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/d8e1ed75a467640965565f7bd058429c0eac4738?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-05T15:00:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【10月1日から値上げ】首都高の料金が改定へ！普通車の上限は2130円に。下限料金据え置き＆割引継続のポイントを徹底解説(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c56042a209a73278a721cbe661380c06550e9c27?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-05T13:00:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ新V8があるのに不採用？】メルセデスAMG「C 63」が伝統のV8復活を見送り“直6”化へ舵を切る理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/16c95b783ef239742d62744374fea4b04cdd0bf1?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-05T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ「ノア／ヴォクシー」次期型は新1.5Lハイブリッド採用か。人気ミニバンはどう進化する？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/9de046362ccfd9370cc2d3deab6cd462459435bf?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-05T11:50:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "雪道だけじゃない!!　デリカD:5の4つのドライブモードはどう使い分ける？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/67ad95e9145005de709ea2ce650011d7fbca63d1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-05T11:05:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【バス運転士日誌】え？　たった1日限りっすか？　田町ルートの空車教育が始まる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c9c165bf2202a4846b57bd98a2ecedb30d2e0050?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-05T11:00:57+09:00",
       "category": "news"
     }
   ]
