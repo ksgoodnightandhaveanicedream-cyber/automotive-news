@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-08T03:32:33.178046+09:00",
+  "updated_at": "2026-10-08T08:28:14.375387+09:00",
   "articles": [
+    {
+      "title": "個人情報保護委員会、多発する情報漏えいに注意喚起　利用終えたデータは遅滞なく破棄(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-08T08:14:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【約7年ぶりの全面刷新か】ダイハツ次期型「タフト」が2027年後半に登場する可能性。燃費20%向上を見込む最新ハイブリッド搭載の可能性も(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/846c3ed4d276cd803452d05b51d271e9314766de?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-08T08:04:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新車310万円が中古「430万円」のロードスター!? 超希少なNB型「ロードスタークーペ」の中古事情(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e82cd0bba20eaf1ced0098c7674696b068cd4233?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-08T08:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "こりゃ売れそう！　9年ぶり全面刷新の新型ジープ コンパスに試乗！　日本で大ヒットしそうな理由とは？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/23878846810efe1f902deba67ef7a6bb27b83223?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-08T07:31:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "えっ、これ違反なの!?　ベテランドライバーでも間違えやすい交通ルール5選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/cb9c294fa015949a1a3cfb9ba5b9facbf5a40c27?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-08T07:06:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "値上がりは痛い？ それとも便利？ 「プロボックス」改良で“全車DCM標準装備”に対するネットと販売店の“リアルな声”(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/adc5509871cbc17145a54921b9e2ed877a662d3c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-08T07:03:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「前のクルマが行ったから大丈夫」は危険!!　タイヤ半分まで水に浸かると一気に危険度が上がる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0601ff5c2e67c59d9c99e94cff42dee046ced2a4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-08T06:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "利益ではフォルクスワーゲンを抜き､トヨタに次ぐ世界第2位に…ヒョンデを要する韓国･現代自動車グループ躍進の裏側",
+      "url": "https://toyokeizai.net/articles/-/959569",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-10-08T05:30:00+09:00",
+      "category": "news"
+    },
     {
       "title": "【まるも亜希子の「寄り道日和」】レジェンドドライバーもやってきた「マツダファンフェスタ2026」",
       "url": "https://car.watch.impress.co.jp/docs/column/marumo/2146228.html",
@@ -8756,41 +8812,6 @@
       "url": "https://news.yahoo.co.jp/articles/4388ed0be7b916d573705712e6298736096e0466?source=rss",
       "source": "carview!",
       "published_at": "2026-09-08T08:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "前年比66.2％でも計画超え！ スバル「フォレスター」販売の現状。「プレミアム S:HEV EX」が人気のワケは“あの装備”⋯ターボ車も好調(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/b34f7340ae00e2529d739b15a5b3467f364eb5a3?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-08T08:03:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ ルーミーVSスズキ ソリオ比較!!　スーパーハイトワゴン同士の熾烈な戦いを10項目で採点!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1bfeacbbf0b41eae801391a7aa29b579cb4776b1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-08T08:00:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "CEV補助金の申請受け付け、早ければ12月上旬にも終了　販売好調なEVは反動減に警戒(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/4285d17e8085ac384596b6aeaab42c456deff9be?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-08T07:55:29+09:00",
-      "category": "news"
-    },
-    {
-      "title": "bZ4X対日産アリア!!　補助金130万円で選ぶ国産電動SUVの本命はどっち？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/dc78963c123a498e2881494c0087c2b88776fcca?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-08T07:05:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【最短2028年登場か】次期ホンダ「N-ONE」でもあの丸目が継承されそうな理由。6速MT専用RSはどうなる？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/09a2913609a27836981fb5f14b5a561cf38e70cf?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-08T07:05:10+09:00",
       "category": "news"
     }
   ]
