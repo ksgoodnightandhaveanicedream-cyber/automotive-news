@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-10-09T08:39:40.461773+09:00",
+  "updated_at": "2026-10-09T13:56:02.107415+09:00",
   "articles": [
+    {
+      "title": "【ピックアップなのにPHEV】日産が中国開発モデルを世界へ！ 新型「フロンティア プロ／ナバラ プロ」は350馬力＆EV走行75km(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e16c31f604836e5d952e950154d54d131c0bfe65?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-09T13:10:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、次世代ハイブリッドシステム「Honda Hybrid」搭載車を2029年度までにグローバルで15車種投入へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147052.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-09T12:07:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クルマが沈み始めてから考えたのでは遅い!?　水没車のドアを力ずくで開けるのは難しい!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e2b56ed9a25946ab8d0dc9ce1bd2137682cc50be?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T12:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【10月登場か】「ヴェゼル」にトレイルスポーツ追加？ ハントパッケージ後継で「ホンダS＋シフト」採用の情報も(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/01f511b016afb794789ef8eb1c0131406c7713c8?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-09T11:55:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ新型「ジムニー」6型は長年の顔を刷新か。発売9年目の大幅改良で最上級モデルは230万円前後に達する可能性(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/123d490960987b8217cd3150b034ed87ee87a5c5?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-09T11:53:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "JBL、新型ワイヤレスイヤホン「WAVE」シリーズ 3つのスタイルから選べるエントリーモデル",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147018.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-09T11:51:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "N-BOXより19万2500円安い!!　N-WGNは日常使いの賢い選択か？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e2c84eca19a41c29b7f62bf7ca3aebde3e9dc4a2?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T11:45:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱自動車、「デリカD:5」の2026年度上期販売台数が2期連続過去最高を更新 前年同期比24％増の1万6798台に",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147037.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-09T11:43:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スライドドアじゃないからいい!?　ハスラーがスペーシアとは違う“遊べる軽”であり続ける理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3ef4b13d90f5507d77732871f2be87da3c7d1caf?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T11:30:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ソリオ対ルーミー!!　スライドドアコンパクトの本命は燃費のスズキか広さのトヨタか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1200d2cf05a9c6d6b48ab88649d3fda76eff1ca4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T11:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【バス運転士日誌】東京営業所見学会で運転士の提案で新たな試み！　ここでしか乗れないバスを運転してもらう？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7c0ff820cc89530cf1d355b6450d5f1962386229?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T11:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "次世代ハイブリッドシステムの名称を「Honda Hybrid」に決定 ～Honda Hybrid搭載モデルを2027年からグローバルで順次展開～",
+      "url": "https://global.honda/jp/news/2026/4261009.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-09T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "若者はどうして納車をゴールだと思ってしまうのか？　新米のら猫コンサルが見た自動車ディーラー「若者のリアル」（30）(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6ee5d416ca2f08a8355616593fa706b63a42a20d?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-09T10:20:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "一番欲しいのは軽!? GRヤリスを抑えてN-ONE RSが100点！ 編集部員が選ぶ“乗って楽しかったクルマ”5選(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/bb6efbcc2bea59b50aa46044d6b4269a843a7e25?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T10:05:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "国内販売機能統合の第一弾「いすゞ近畿」が始動!!　いすゞ・UDトラックスの新統一ユニフォームも導入(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a0b650212ace22ce28a1340ed4cb48b8654c172f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T10:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "JMSビズウィーク2026カウントダウン（中）産業の垣根越え未来モビリティ会議　4日間通じ自工会正副会長・理事が登壇(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/4fc376b0f3bc448a18956cad4c08f01ce18569eb?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-09T09:10:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "警告灯が4つ点いても普通に走る!? イタ車の警告灯は本当かウソか!? マセラティでABSを無視した結果(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fcf9168942328579721a53c42cdec1c834a1346d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-09T09:00:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「静かで扱いやすい」。26年上半期輸入車1位の「モデルY」の魅力とは？ ユーザーが評価するポイントと実際の評判(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b01abe6d96dac68637bb62b86d07fc755ef41b10?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-09T09:00:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "100kgの軽量化を実現!? ｢5年先のスズキ車｣の姿が開発中の技術から見えてきた《技術戦略説明会2026》",
+      "url": "https://toyokeizai.net/articles/-/960061",
+      "source": "東洋経済オンライン",
+      "published_at": "2026-10-09T09:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "CRF250Rなど4機種のモトクロス競技専用車の無償修理（ハンドルホルダー）",
+      "url": "https://www.honda.co.jp/recall/motor/other/261008_KC70.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-09T09:00:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "【セミの鳴き声より静か？】スポーツカーの咆哮を奪うフェーズ3騒音規制。EVの実測値と同等の静かさが求められる厳格な基準(carview！)",
       "url": "https://news.yahoo.co.jp/articles/10a2c3b2786f388081bddcd87aa0d7fff3eeb51b?source=rss",
@@ -200,6 +340,13 @@
     {
       "title": "合弁事業の新たな章を切り拓く\n中国一汽、トヨタ自動車、広汽集団、新たな戦略提携の枠組み協定を締結",
       "url": "https://global.toyota/jp/newsroom/corporate/44911302.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-08T17:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "[トヨタイムズ記事] 日本の自動運転「技術的には負けていない」自工会、社会実装加速",
+      "url": "https://toyotatimes.jp/toyota_news/1118.html?padid=ag478_from_newsroom",
       "source": "トヨタ自動車",
       "published_at": "2026-10-08T17:00:00+09:00",
       "category": "press_release"
@@ -415,7 +562,7 @@
       "category": "news"
     },
     {
-      "title": "テインの新製品「4×4 スポーツプラス」、ゴビ砂漠で開かれたクロカン4WDの祭典「アラサン英雄会」で試す",
+      "title": "テインの新製品「4×4ダンパー スポーツプラス」、ゴビ砂漠で開かれたクロカン4WDの祭典「アラサン英雄会」で試す",
       "url": "https://car.watch.impress.co.jp/docs/news/impression/2146565.html",
       "source": "Car Watch",
       "published_at": "2026-10-08T10:10:30+09:00",
@@ -8798,153 +8945,6 @@
       "url": "https://news.yahoo.co.jp/articles/8abf314dc2a5f43f2f4fa09170a907c2e7251ff4?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-09T15:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホンダ、交通安全評価指標「FIA Road Safety Index」の製品・サービスの安全関連評価領域で世界初の5スター獲得",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139437.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T13:16:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホシノインパル、 スカイラインGT-R（BNR34）向け新型「フロントバンパー」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139421.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T13:12:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ新型「エルグランド」には4人乗りがない？】歴代「VIP」グレードには2列仕様が存在。「アルファード／LM」対抗の切り札になるか(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/29bb2a12b234144dbe4eccf8044e9f0d05861e19?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-09T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "デウォルト、新型コードレス掃除機「18V XRクリーナー」車内もガレージもキレイにできるアクセサリー6種を付属",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139370.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T12:03:28+09:00",
-      "category": "news"
-    },
-    {
-      "title": "残価設定ローンは本当にお得なのか？　最終回に待ち受ける現実を知っておくべき(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9c2c0588617d78fb8c6a99e24d5e761800b56295?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T12:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホンダ、熊本製作所で「ホームカミング熊本2026」10月11日開催 名物カツカレーうどんの提供や操業50周年記念展示など",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139381.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T11:53:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【開発費と期間を半減へ】ホンダがプラットフォーム開発をインド企業へ委託か。2028年〜導入のインド向け戦略車で採用か(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/60aea32a297e98940ee3620f163a32040f7d88ce?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-09T11:53:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "新型パジェロはナビの設定ありません!!　全車ディスプレイオーディオに(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b2b601d8d606597fa065f7f46af9cd64625d099f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T11:46:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "670万100円でも選ぶ価値あり!?　アウトランダーPHEVのPエグゼクティブパッケージを検証!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/88ced5286d06b519d006845d0a2430c80b17be4b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T11:31:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日本の軽自動車規格参入で存在感を示す…新型BEV｢ラッコ｣投入の真相､BYDオートジャパン社長が語る日本戦略の本音",
-      "url": "https://toyokeizai.net/articles/-/957099",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-09-09T11:30:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "3代目「日産リーフ」をベースに製作したNEWリリーフカーを横浜スタジアムでお披露目",
-      "url": "http://global.nissannews.com/ja-JP/releases/260909-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-09-09T11:30:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "アウディ、新型コンパクトEV「A2 e-tron」欧州発表 一充電走行距離は最大646km",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139360.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T11:26:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "手書きの行き先がインパクトありすぎる!!　岩手県を走る2大事業者の方向幕がまさに“幕”だった!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8187be50d1072419b8c4b95f8bed47c33a805440?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T11:06:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【新型パジェロの真相】アイコン的要素を捨ててもボディサイズ拡大を選んだワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c65cdf6ca6534387482c4d220ef87f5edd03220b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T11:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「Honda モーターサイクル ホームカミング 熊本 2026」を開催",
-      "url": "https://global.honda/jp/topics/2026/2_2026-09-09.html?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-09-09T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Honda モーターサイクル ホームカミング 熊本 2026",
-      "url": "https://www.honda.co.jp/homecoming-moto/?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-09-09T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "キャムショップ、歴代ランサーエボリューションを描いた「三菱ランエボ HISTORY Tシャツ」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2139326.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T10:50:11+09:00",
-      "category": "news"
-    },
-    {
-      "title": "排気量は小さくても走りは軽快!? エルフと同じ3Lエンジンを搭載するいすゞ「フォワード」4JZ1型エンジン搭載車の実力を検証!!！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/996c8adc51748b0afbb947fe804ce67e3e2c6c82?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T10:01:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BMWの新エントリーモデル「オリジナル」イッキ乗り 「1シリーズ」「X1」「X3」で真価を探る",
-      "url": "https://car.watch.impress.co.jp/docs/news/impression/2138911.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-09T09:32:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "e-POWERと充実装備で約233万円でしかも燃費もいい!?　ノートは走りも安全装備も燃費も欲張れるお宝コンパクトだった!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2bfe204e94a3bf96e079c0e9d0fb6d1d75a94529?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-09T09:01:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【国内に続き北米にも登場】トヨタ「カローラ」60周年記念車が米国で発表。2500台限定の特別仕様の中身(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/895ed3787c97483e0c09e76eb7017f76368fbbdd?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-09T09:00:12+09:00",
       "category": "news"
     }
   ]
