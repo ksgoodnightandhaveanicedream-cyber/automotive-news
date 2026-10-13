@@ -1,6 +1,216 @@
 {
-  "updated_at": "2026-10-13T11:26:44.289270+09:00",
+  "updated_at": "2026-10-13T19:11:27.189359+09:00",
   "articles": [
+    {
+      "title": "懐かしい姿を手の中に！ 限定3000個！ ランドクルーザー60の限定キーリングが登場！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a3db3d36e125be120bf52c19269b46e1424cfc9d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T19:05:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "電車が止まったときに使える!?　覚えて損はない便利な逃げ道のバス路線を調査してみた〜横浜周辺:編〜(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e0cd0dd728096879449bdddbadf6f69d3f647b0c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T19:00:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "現行クラウンに覆面パト登場!!　まさかの「遅いほう」のハイブリッド？　ベールに包まれたクラウンクロスオーバーパトに迫る(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e629809c911e9bf07d3500008b8cecaba51a5dbf?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T18:30:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ「ハイラックスBEV」を本気で破壊!? 高さ9mから落下したキャンピングトレーラーを振り払って走り出すワイルドな映像が話題に(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/296f641db86205bcdd60d08de19733c1f2af1e15?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-13T18:03:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「足先がぶつかる!?」新型エルグランドの助手席と2列目、オットマンを同時に使ってみた(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9c42dc63c0d9b4169ce1eb1a34100087eb59f8b6?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T17:30:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】マツダ「共感型AI」の技術進捗について次世代人間中心システム研究部門の岡田健太氏が詳説",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147729.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T17:24:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アクティブなイメージを強めた「ジープ・アベンジャー」の限定車発売(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/6ce1cbcb52976bf2fb6b29f269099d0a45a820f4?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-13T17:17:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「アウディA3スポーツバック／A3セダン」に装備充実の特別仕様車(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/a21e16bc5fbf2b3b20354b650e307de616a923d0?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-13T17:13:33+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱が「人型ロボット」を作る!? 動くほど賢くなる人型ロボットがスゴい!! 2027年に京都工場で生産開始へ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/21005be2be0a124649a6b79463d42ba932a5f4e3?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T17:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】三菱自動車、「車両データ連携APIサービス」など7つの新規事業を紹介",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147712.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T16:28:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ジープ、170台限定車「アベンジャー 4xe ハイブリッド エディション エックス」 価格は524万円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147685.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T16:19:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【過去に例のない大改良へ】マツダ「CX-60／CX-80」はどう変わる？ 「スカイアクティブZ」を直6に展開か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/75b2c38da374964c1de057b556e308fe705169fe?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-13T16:00:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】ダイハツブースで見つけたちょっとおもしろいもの 歴代ダイハツ車の中から似合う1台を選んでくれるAIフォトスポットを試してみた",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147689.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T15:58:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ソフトがどれだけ進化しても、価値は“動かす力”を超えない」――JMS特別セッションで語られた日本の勝ち筋(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d91a0b7f71da808e108e2dbf3a5f6328b382d6e3?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T15:45:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フォルクスワーゲン、新型バッテリEV「ID. ティグアン」世界初公開 航続距離最大600km",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147664.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T15:29:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】日産、先ごろ1万台の受注を突破した新型「エルグランド」展示中",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147657.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T15:23:28+09:00",
+      "category": "news"
+    },
+    {
+      "title": "開発目標は「筑波1分10秒切り」だった!!　プロドライバーが語るコルト・ラリーアート・バージョンR開発秘話とワークスの本気(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d71bc731d16ecc2c977ea9c5c11f95c945483ad5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T15:00:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】自工会による合同展示 ホンダのバイクやシート表皮の端材バッグで「日本型エコシステム」を紹介する「サーキュラーエコノミー」エリア",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147659.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T14:50:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】ホンダが「走行中無線給電」のモックアップ初公開 チーフエンジニアの佐藤哲氏が技術を解説",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147620.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T14:05:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】自工会による合同展示、「共同物流」に向けた取り組みを紹介",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147595.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T13:42:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】CRI・ミドルウェア、スマホでデジタルメーターの表示を“推し仕様”にできる「中痛車」初展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147597.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T13:22:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【JMS2026】自工会による合同展示、マツダ「2ローターエンジン」やダイハツ「アンモニア/水素混焼エンジン」が目を引く「マルチパスウェイ」エリア",
+      "url": "https://car.watch.impress.co.jp/docs/news/2147588.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-13T13:15:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "223万8500円で燃費29.1km/L!!　フィットe:HEV Xがいちばん買い得か？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/768953e3bfc9f7d65841b425c47d795ac80ed354?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T13:10:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、次世代ハイブリッドシステムの名称を「ホンダハイブリッド」に決定　2027年から順次投入(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/71de2c97496c8117655b489ab700632afa169e46?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-13T12:15:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "水素が軽自動車に!!？ ダイハツが突如として軽自動車用水素エンジンを発表!! 驚きの新技術は近い将来に登場か(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/96a6e548bafacb12b4e04f55f18f1dcec10c8528?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T12:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アンダーパスだけ避ければ安心じゃない!?　豪雨で近づいてはいけない「NG道路」は意外と多い！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ac7c34eb2f7e9834655b9484559b05dbd6fc18b0?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T12:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： プレビュー\nTOYOTA RACING、タイトル獲得に向け重要な一戦に挑む",
+      "url": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-preview/text",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-13T12:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ホンダ「次期CR-V」2027年にも生産が始まる可能性。燃費10％向上＆コスト30％減の“新世代ハイブリッド”第1弾か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/714210a86b87642b6eb0d6257790cc53250852fb?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-13T11:53:33+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ジャパンモビリティショービズウィーク2026」幕張メッセで開幕　異業種と共創で未来モビリティ　16日まで開催(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/8bdf059f1b74f4253be6b546f1104d11ccc67270?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-13T11:52:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "7カ月連続でSUV販売1位!!　トヨタ ライズはなぜ今こんなに売れている？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6ae2279d76099c30c0179111340dac24aaacde51?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-13T11:45:51+09:00",
+      "category": "news"
+    },
     {
       "title": "発売12年で100万台突破!!　ハスラーはなぜ一発屋で終わらなかった？(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/01202f79c683839940d2bc37be3ca960e06436d2?source=rss",
@@ -8434,55 +8644,6 @@
       "url": "https://news.yahoo.co.jp/articles/1b820cd9717d8cc9c1b9af6f969d24628c03b382?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-13T22:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産「プリメーラ」約20年ぶり復活!? 新型はまさかのEVに！ 中国「N7」ベースで登場(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/ef08652cb81309ebb6de6ba7fe2396cc66d6ee1f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-13T19:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「すごい時代！」「日本にも導入してほしい」「不安」…米で“完全無人自動運転タクシー”のテスラ「サイバーキャブ」が運行開始。9月11日より日本でも初公開(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/327603326868b78a4d5d52399a9c764cfa74470c?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-13T18:03:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "エクストレイルを買うならS、X、Gどれが正解？　価格と装備で選ぶベストグレード(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/40d3798fe1e6a7076bca8e78e30334b3304d1572?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-13T16:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "なぜ最近のクルマはボンネットフードが高い位置に？　歩行者保護基準を徹底解説(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/7ca7b77a24cb44cc43cc8982b643d8bf5bd39a36?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-13T16:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【軽高価格化の時代に】6万3272台を出したダイハツ「ムーヴ」。通勤・買い物メインのユーザーに150万円台が選ばれる理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c4a893a1955a30117e2f85f1ad4de9023d11ba8b?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-13T16:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "話題の軽EV「eスカイ」初公開も“価格未発表”のためユーザーの反応は控えめ？ 期待も大きいが、補助金を含めた“トータルコスト”が鍵に(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/80a576c4de088aa9caeb4e774f9566a658eb0d73?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-13T11:50:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ハチロクの祭典「86/BRZ STYLE2026」開催、GR86＆BRZ開発者が次期型に言及「まだ挑戦したいことがある」(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/73c135e7f6ef8de13605a116cdcea79d07e4299a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-13T11:30:46+09:00",
       "category": "news"
     }
   ]
