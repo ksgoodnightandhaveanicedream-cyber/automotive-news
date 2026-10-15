@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-16T03:02:50.336390+09:00",
+  "updated_at": "2026-10-16T06:58:25.376975+09:00",
   "articles": [
+    {
+      "title": "なぜ国産車はウインカーレバーが右にあるのか？　その理由を探るぞ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/745dcf25db049d40e9e5c1f1f650453d9db91e08?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-16T06:01:05+09:00",
+      "category": "news"
+    },
     {
       "title": "【自動車研究家“山本シンヤ”が聞いた「MORIZOがニュル24時間へ挑む理由」】第23回：成瀬氏の言葉「心があれば技術はついてくる」を実践で証明した2011年のニュル24時間レース",
       "url": "https://car.watch.impress.co.jp/docs/series/morizo-nur24h/2147383.html",
@@ -8770,13 +8777,6 @@
       "url": "https://news.yahoo.co.jp/articles/8de8b095f3b77f43b6663afbbb33d78525d2df46?source=rss",
       "source": "carview!",
       "published_at": "2026-09-16T07:03:43+09:00",
-      "category": "news"
-    },
-    {
-      "title": "いつもの道が30km/hに!!　知らずに飛ばせば一発免停!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4145b55dfbc3d88fd1da74dfe516c026a97953a6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-16T06:01:02+09:00",
       "category": "news"
     }
   ]
