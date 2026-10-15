@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-10-15T07:04:38.253041+09:00",
+  "updated_at": "2026-10-15T10:15:13.876809+09:00",
   "articles": [
+    {
+      "title": "ランクル300までついに電動パワステ採用!!　電動化してもランクルらしさは健在!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a684648b99e1d85704f6ac472fb6619e885319f8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T10:06:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "小型、中型、大型トラック勢揃い！　東京ビッグサイトに集結したトプレックの最新冷凍車に迫る！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/677d726db87d61e2656673e854a7c581aba0817c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T10:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "夜の東京に映える深紅のプレリュードが色気ありすぎ!!　特別仕様の専用カラーは内装までボルドー統一だぞ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f9d5d723ebac8b82ad747e32235d1b0066d0bd41?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T09:01:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【価格の逆転現象】500万円の「プラド」は300万円のSUVよりお得？ 中古で570万円の値が付くリセール力(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/acf37cf0bd143e53c001371ffd89a007a64c3328?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-15T09:00:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜN-BOXに大差をつけられたのか】6672台に低迷するダイハツ「タント」が抱えるハイブリッド不在と価格上昇の課題(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/149c0fc9512cad8bb695b346add3fe5c1727d0eb?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-15T08:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【海外は巨大な300系へ】発売22年目の「ハイエース」が今も圧勝する日本市場と60周年で見せる次の一手(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/931a549931ef033abf999090cbfbc35c5794accd?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-15T08:03:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "カインズ コーナン コメリの激安500円以下コーティング剤は安物買いの銭失い？　それともコスパ抜群？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8fc5f27bafd248c71672c88f223f5190c21dfa0f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T08:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ルノー、新型「キャプチャー エスプリ アルピーヌ フルハイブリッド E-TECH」 よりパワフルで低燃費に進化",
+      "url": "https://car.watch.impress.co.jp/docs/news/2148179.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-15T08:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "東日本三菱、社内業務ソフトに不正アクセス　一部顧客の氏名やメールアドレスが漏えい(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/9ab9e297c2f2f93af2b39e3b80f3660d3ea26a78?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-15T07:52:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "4WD＆HICASは競走馬からひらめいた！　実録・5代のスカイラインGT-R開発主管の金言「今だから話せる開発秘話」(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/efc572bf9f58046df22e592aa50488c246d904af?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T07:31:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フィット対ノート!!　ホンダe:HEVか日産e-POWERか、電動コンパクト対決!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4453f56bf5204c61be9b70c72c862ec7eb02fef4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-15T07:06:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型「スカイライン」が12月発表…丸目4灯や伝統デザインに歓喜の一方、「価格」や「キャラ変」を心配する声も？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/2176e5f927706452dad4cee473511e6de28a8036?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-15T07:04:52+09:00",
+      "category": "news"
+    },
     {
       "title": "JBL、新世代ホームオーディオ「COVE」シリーズ サウンドバー連携やマルチルーム再生にも対応するWi-Fiスピーカー",
       "url": "https://car.watch.impress.co.jp/docs/news/2147438.html",
@@ -8630,62 +8714,6 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2140774.html",
       "source": "Car Watch",
       "published_at": "2026-09-15T10:30:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三菱「GTO」はなぜGT-Rに勝てなかった？ 280馬力に4WDも「1.7トン」の重量が足かせに!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0312fc3673b06d932209cbdbab5b7d4e05205cbf?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-15T10:06:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フェラーリにM3、V12サルーンも!? 本家の魅力を格安で味わえる中古車6選(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/bf0bc5ffcd3a4f821d3e597cf8390b8e629f6c8b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-15T09:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "好調が続く新型「CX-5」。上級「L」が人気、他社SUVからの“乗り換え増”のワケ…27年フルハイブリッド投入でさらなる支持拡大なるか？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/8d8604452771a7888ed61e760510c7ff5d59f4f9?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-15T09:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ米国で大苦戦？】車両価格の約7割を補助してもトヨタ「ミライ」が売れない謎。水素インフラ不足が招く低迷の要因？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/564d9486106180785866bea93bb7255cac7c36d8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-15T08:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「RX」が10月1日に改良。乗り心地改善と機能装備の標準化で“約40万円値上げ”も「問題なし」の声…“補助金効果”でPHEVに予約殺到？【販売店情報】(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/6f7dbeb88921e044873683e8529599919e5db79c?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-15T08:04:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "間違い探しレベル!?　フルモデルチェンジしても「激似」なクルマ5選(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/60686350424036ccc42a3a1172ae9325e671fd77?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-15T08:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ホンダを愛し続けるAIペルソナ｢48歳 年収1000万 既婚男性｣の選択——なぜトヨタではなくホンダを選び続けるのか？",
-      "url": "https://toyokeizai.net/articles/-/957612",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-09-15T08:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フィット対ヤリス!!　広さのホンダか燃費のトヨタか、コンパクトカー頂上決戦！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3ded69e79ccd35f6c8fcf16ffeec0a7aa7e69d12?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-15T07:05:57+09:00",
       "category": "news"
     }
   ]
