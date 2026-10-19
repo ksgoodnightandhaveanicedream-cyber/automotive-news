@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-10-19T09:52:25.254983+09:00",
+  "updated_at": "2026-10-19T14:48:11.941515+09:00",
   "articles": [
+    {
+      "title": "ヴァレンティ、ランドクルーザー250用新製品「ジュエルLEDテールランプULTRA」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149234.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-19T13:11:17+09:00",
+      "category": "news"
+    },
+    {
+      "title": "コメリ、車内の光沢樹脂や液晶画面の小傷を目立たなくするコーティング剤「ピアノブラック艶出し保護剤」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149240.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-19T13:06:28+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ポルシェが未来のミドシップスーパースポーツカー「ミッションS」を発表(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/5c1af5351aea641e9649b0146413dcf0cf8dc18c?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-19T12:50:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "先週のアクセスランキング（10月12日～10月18日）、カーメイトのヘッドライト用防雪フィルムに注目集まる - Car Watch",
+      "url": "https://car.watch.impress.co.jp/docs/rank/2149217.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-19T12:15:39+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「人とモビリティのテクノロジー展」パシフィコ横浜で2027年5月26日～28日、Aichi Sky Expoで7月21日～23日開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149205.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-19T12:15:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "災害時の車中泊は「場所選び」がキモ!? 地震・洪水で異なる危険な駐車場所とは！ 知っておきたい避難の注意点(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c6083493dbc2a267ca22d68bb1189ba89ceb209b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T12:00:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "WEC 2026年シーズン 第7戦 バルセロナ6時間 ： 決勝\nTOYOTA RACING、1-2フィニッシュでマニュファクチャラーズタイトルを決める",
+      "url": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-6-hours-of-barcelona-race/text",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-19T12:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「コスパ高」と言われるが…OP込だと「ヴェゼル」とほぼ同じ？「WR-V」の販売状況が話題。「乗り出し価格」や「装備」に不満の声(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4b5e1e8fe27a27ab72a6f35550a25f914710940b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-19T11:53:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツとNVIDIAが戦略的パートナーシップ拡大 将来のレベル4ロボリムジン開発を視野に「MB.OS」にNVIDIAの「Hyperion」「Alpamayo Stack」「Halos」を統合",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149182.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-19T11:49:42+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型CX-5ディーゼルなしのまさか!!　中古で狙うなら何年式!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/40a2257d35426266d736fcd7dd3ad04301fc1b19?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T11:45:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型エルグランドは燃費カタログ値を超え!?　2.4t超のミニバンとは思えない結果に驚愕！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1e1c9ad3ca49a2ef43c55bdb83b5dc1060eceaea?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T11:30:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "自宅に充電設備ないなら軽EVは推せないと断言していたプロが一転!?　新型eスカイならオススメしたいワケって!?!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f9ef4ffe70d385c9057202489f7c95a8f14bf0e8?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T11:05:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "福岡・福岡空港〜別府線「ノンストップとよのくに号」と福岡・福岡空港〜日田線「ひた号」が10月1日からダイヤ改正してるぞ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0a43ae7e3dff44eab801006692e29542e3c3822b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T11:00:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産「セレナ」に意外な弱点!? 快適な3列シートは魅力！ それでも気になる不満点とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/64d457549f6772a5a958e67e723b79c402dcb5b1?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T10:05:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "材料置換で積載量10トン超も可能に！　フルモデルチェンジしたカヤバの新大型ミキサー車の進化に迫る！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/357f13ffa663f5e9fe136ab89e9ae90a21b78eae?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-19T10:00:47+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ、ジャイアーノ（中嶋裕樹副社長）メッセージ 「新たな一歩を踏み出した最初のシーズンで、このタイトルを獲得できたことを心から誇りに思う」",
       "url": "https://car.watch.impress.co.jp/docs/news/2149110.html",
@@ -182,6 +287,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-10-18T11:00:52+09:00",
       "category": "news"
+    },
+    {
+      "title": "SUPER GT第7戦、#23 MOTUL Niterra Zが3位表彰台を獲得",
+      "url": "http://global.nissannews.com/ja-JP/releases/261018-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-10-18T11:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "最新のトラック装備の〇と×!?　アメリカントラッカーに聞いてみました(ベストカーWeb)",
@@ -562,7 +674,7 @@
       "category": "news"
     },
     {
-      "title": "なんと燃費は15％向上ってマジかよ!?　次期カローラに搭載される1.5Lハイブリッドが凄いぞ！(ベストカーWeb)",
+      "title": "次世代は12％、第7世代は15％向上ってマジかよ!?　新型カローラに搭載される1.5Lハイブリッドが凄いぞ！(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/cb3a4dc4fac6034b5b2d9ecbc02746f49ef0c802?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-10-16T16:06:04+09:00",
@@ -8301,55 +8413,6 @@
       "url": "https://news.yahoo.co.jp/articles/18ef1f5a852a261a1c203df105f1dabbefafc5c4?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-19T15:00:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタは人型ロボットを40万台つくるのか？　トヨタ製フィジカルAIであるLBM（大規模行動モデル）が強みに",
-      "url": "https://car.watch.impress.co.jp/docs/news/2142443.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-19T14:16:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "高速道路の｢スマートIC｣導入から20年で160超へ急増中！安価でコンパクトな出入り口が沿線地域を変える理由｣",
-      "url": "https://toyokeizai.net/articles/-/958255",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-09-19T14:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【海の向こうでも深刻な問題】トヨタが豪州で「ランクル300／250」向け純正イモビライザーを発売。日本でも“多重防御”で盗難対策(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/191a357df632756d190f821733e179747e82e910?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-19T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【価格差わずか5万円】「ジュニア」「600」「2008」を比較！ 約440万円の輸入SUV、買うならどれ？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/f409047cb5ed01adcbc913f96898ff161ee325e8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-19T11:50:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "東京都民なら79万200円もあり得る!?　ホンダ スーパーワンの補助金が強烈すぎる件!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/47bd432745bb32091c0729d9983f643cf41e8b34?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-19T11:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "西鉄バス北九州特別企画　バススポッターツアー第3弾！「NEO ROYAL LAST RUN TOUR〜ありがとう9607・9632〜」開催!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e881fb980dcd4562b637b7b352977ed40b763305?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-19T11:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "エンジンから架装物まで丸ごと「再生」！　いすゞが「冷凍車のリマニユニット車」商品化に向けトプレックと協業開始！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/137f76302fe99ffb8e88d0341515936b041dedd3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-19T10:01:00+09:00",
       "category": "news"
     }
   ]
