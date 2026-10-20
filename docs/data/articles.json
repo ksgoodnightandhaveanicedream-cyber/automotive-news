@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-10-20T12:45:15.637142+09:00",
+  "updated_at": "2026-10-20T18:12:21.099005+09:00",
   "articles": [
+    {
+      "title": "トヨタ「ライズ」の7人乗り「ライズ スペース」は次期型で登場? 「シエンタ」があるのに3列コンパクトSUVを出す狙いとは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b886f7a602533f856e351be689a0a31811dfb5a4?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-20T18:05:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "強力なライバル出現で国沢親方大ハッスル！　吸気改善でさらなる速さを手に入れた国沢ミライース!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8fd8bb0a5048e5d934a2f7cc59efef6f5b983536?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-20T18:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "EVなどのCEV補助金、2027年1月以降も継続へ　補助額は6～8割ほどに抑制　切れ目ない補助で買い控え回避(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/5ee95790e0a12235b90dd02450c6360da4c83c5d?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-20T18:00:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レクサスRXも顔が変わるのか!? NXの大幅改良から考える「次の進化」(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dc47b8a951b89538315f5a7a5db72fff7c07854b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-20T17:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【装備が少ないほど楽しい？】マツダ「ロードスターS」を試乗！ 約296万円の“素うどん仕様”が侮れない理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/cdf1966dc588a8e8b15930afc3e858ff8219d6b9?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-20T17:30:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【次期型は当分出ない】「ロードスター」と「GR86／BRZ」。日本を代表する庶民派スポーツが“超・長寿モデル化”する理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4be3beea48c492dcc19a621c448ca230fa647aab?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-20T17:02:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "夏バテ気味の愛車を放置するな！　クルマを長持ちさせたいなら絶対守るべき4つの点検習慣(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dc6b24aad1dce6aa042ce570555eacf1c3f067bc?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-20T17:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "＜FIMロードレース世界選手権 MotoGP＞ 2027年シーズン MotoGPクラスのライダー体制を決定",
+      "url": "https://global.honda/jp/news/2026/2261020.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-20T16:45:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "通学や買い物でシビック愛をアピール!! 初代から現行モデルまでを描いたトートバッグが涙もの！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/6b69c9f3f1a6e2b124dceacfba93b2260ae02397?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-20T15:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マセラティ、新型「グレカーレ」「グラントゥーリズモ」「グランカブリオ」日本導入",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149648.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-20T14:59:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クアルコムとトヨタ、トヨタ向けV2X車載半導体として760MHzと5.9GHz帯デュアルバンド1チップソリューション展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149601.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-20T14:23:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツ、グラフィックアーティストVERDY氏とのコラボアイテム第2弾を10月24日より発売",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149593.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-20T13:23:58+09:00",
+      "category": "news"
+    },
     {
       "title": "なぜ最新のBEVや高級車は「フラットドアハンドル」を採用する？ 中国ではすでにオワコン…“安全上の課題”も(carview！)",
       "url": "https://news.yahoo.co.jp/articles/e6fcc954a89456c6067d9f2e6368947bd3c6c849?source=rss",
@@ -194,6 +278,13 @@
       "title": "「スーパー耐久シリーズ2026第6戦 スーパー耐久レースin岡山」のイベント広場で開催される「S耐横丁」への出展概要",
       "url": "https://www.suzuki.co.jp/release/d/2026/1020/",
       "source": "スズキ",
+      "published_at": "2026-10-20T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「マツダ統合報告書2026」を発行",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261020a.html",
+      "source": "マツダ",
       "published_at": "2026-10-20T00:00:00+09:00",
       "category": "press_release"
     },
@@ -8567,41 +8658,6 @@
       "url": "https://news.yahoo.co.jp/articles/c7b02b41fed588209a71eb2fe217685992d2df67?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-20T19:05:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【500万円でドイツ御三家を狙う】「A3スポーツバック」「1シリーズ」「Aクラス」を比較。実はアウディがかなり買いやすい？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/1b983f2983c4d14018042e000c275a91455cff07?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-20T18:00:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「タイヤ無交換」で超猛攻!! GT-Rはジェントルに舞う？ 劇的表彰台は狙っていなきゃ無理っしょ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4b9b9b2652b77f030444212f944babf313abfc5d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-20T17:40:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マニアも唸るメカがてんこ盛り!!　新型アウディA6の最新ライトは感動モノの賢さだった！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a81b4fc93e418a5a141ba563a068a63a31c0a464?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-20T16:05:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「クラウンスポーツ」改良。新HEV搭載でパワー&燃費向上…約85万円安い「PHEV Z」追加も、“補助金次第”で悩ましい“HEVとの価格差”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/5bf4dd3d674be59284beceb9703d7a2673710409?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-20T16:00:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "今見てもカッコいい!! Z32フェアレディZを描いたTシャツがAmazonで予約開始！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/dd69814c52a006ee65bd26eec7dd957f920b4499?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-20T15:00:47+09:00",
       "category": "news"
     }
   ]
