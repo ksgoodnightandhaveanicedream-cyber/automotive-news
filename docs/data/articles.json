@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-10-21T10:20:57.548715+09:00",
+  "updated_at": "2026-10-21T16:09:37.241496+09:00",
   "articles": [
+    {
+      "title": "スライドドアはいらない!!　ルークスではなくデイズを選ぶと日常がちょうどよくなる理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3510ff39715b341d3f848c5c2e09cf52ffa8bc68?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T15:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「SUBARU Share the Love Event」を日本で開始",
+      "url": "https://www.subaru.co.jp/news/2026_10_21_151139/",
+      "source": "SUBARU",
+      "published_at": "2026-10-21T15:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "【車内がまるでリビング】ルノー新型「Eスペース コンセプト」世界初公開！ 6人乗りの回転シートと幅1.1mの巨大ディスプレイを採用(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/9b274049df67b655ac0fc1a9f9151843563e0258?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-21T14:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタのE2E自動運転機能搭載車は、SDVとして「Arene（アリーン）」上の構築に 「アリーンが非常に効率のよい開発につながっていく」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149984.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-21T13:59:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【本当に空を飛んだ！】テスラ新型「ロードスター」世界初公開！ ロケット技術で空中回転、0-96km/h加速0.81秒の衝撃(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/393983e6b63e81adba0c70d8f99f96caebcf00b1?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-21T13:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "リクルート、カーセンサーへの不正アクセス　最大370万件の情報漏えい　業務委託先に影響及ぶ懸念も(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/e509742927cbbd475baae6336da3b7817fb13b2a?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-21T12:52:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アウディ、「Q5」「Q5スポーツバック」に前輪駆動モデル導入 価格749万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149942.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-21T12:50:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【画面だらけの巨大SUVを尻目に】2013年登場から10年超。日本の道に合う黒いレクサス「IS」の隠れ家感(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/2ab70792ba6df73a201e929ed946b376cad07fef?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-21T12:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダF1参戦通算500戦 アメリカGPで「AMR26」に記念ロゴ掲出",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149913.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-21T12:15:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "保険料の変化に注意!!　自動車保険の家族限定特約を外すタイミングって結局いつ!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0132dd1b51f3611e01d3061c84ff7f767689538f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T12:01:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【それ違反です！】スマホだけじゃない。走行中の飲食やナビ操作はNG？ 知っておきたい「ながら運転」の法的リスクと罰則(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/dfb829c419485b4602227de3e95505d7164bad86?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-21T11:53:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "車重わずか750kg!!　ワゴンRの5MTは隠れたライトウェイトスポーツか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2edb1aa818ceb73aa6c2aa6a75fc16c2019703a9?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T11:46:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "軽なのにブラインドスポットまで全車標準!!　2026年型ハスラーの安全装備がもはや小型SUV級(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4820c3f6c175203b62e741d4ee6804ae9c2fb102?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T11:31:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ATと同じ305万8000円!!　マツダ3「25S」の6速MTは今こそ買いか!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/27544dbcfe0ef688b7999bc5b2c75b28be07527a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T11:01:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "こんなにカオスなバスメーカーとバス社会!!　今の日本のバスメーカーの常識は大きく変わりつつある!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/cd199188611c44204a6465073751e9985bb69867?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-21T11:01:02+09:00",
+      "category": "news"
+    },
     {
       "title": "151万4700円から買えるハイブリッド!!　スズキ ラパン最安Gは実はかなりお買い得か(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/bc92694282b2363bcacee118587659512d14b1bf?source=rss",
@@ -105,6 +210,20 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-10-21T05:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "スズキ部品富山、富山県小矢部市と災害時における避難所施設の提供に関する協定を締結",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1021a/",
+      "source": "スズキ",
+      "published_at": "2026-10-21T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、スズキ自販富山ならびにスズキ部品富山、富山県小矢部市と災害時における車両貸与等に関する応援協定を締結",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1021/",
+      "source": "スズキ",
+      "published_at": "2026-10-21T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "特定小型原付が欲しい人に最後のチャンス！ヒットモデル「ENNE ZERO」の特別価格が終了間近!!(ベストカーWeb)",
@@ -8687,48 +8806,6 @@
       "source": "トヨタ自動車",
       "published_at": "2026-09-21T17:00:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "【なぜ今2.5Lなのか】トヨタ・ホンダがHV主力の中で逆方向？「マツダ3」と「CX-30」があえて排気量を拡大した狙いを探る(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/beaf077c1906442035606a6177e6bde02bcbaac7?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-21T16:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【F1カメラマン熱田護の「気合いで撮る！」】第137回：スペインGPの初開催コース初優勝はメルセデスのアントネッリ選手！　マドリンクのレースを振り返ります",
-      "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2142546.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-21T15:22:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "捨てられる運命だった商用バンが「秘密基地」に!?　鈴木優香が愛する軽キャンパーの正体(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c97771d9a0561b90843bf8d14bc7ac01a50e3664?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-21T15:00:41+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【2028年の投入計画】ホンダ「N-BOX」のBEVモデルは現行型の追加か、それとも次世代型での刷新か(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c60909eecec6ad55a5063d449cec8dab271712ff?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-21T11:51:29+09:00",
-      "category": "news"
-    },
-    {
-      "title": "レヴォーグ レイバックを買うなら1.8LターボかS:HEVか!?　価格、燃費、走りで徹底比較(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/7fa009bb76fd0038311b76067f5b6e1c5297ccb9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-21T11:00:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "路線車で夜行だと？　日本旅行が「初の八木新宮線夜行運行と酷道・険道を行く十津川村営バス」を企画!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/13d8a689a01e4a776eda542c8aecf853cadbd0c6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-21T11:00:42+09:00",
-      "category": "news"
     }
   ]
 }
