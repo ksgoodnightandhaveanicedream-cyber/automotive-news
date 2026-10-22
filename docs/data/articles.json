@@ -1,6 +1,174 @@
 {
-  "updated_at": "2026-10-22T10:17:20.678682+09:00",
+  "updated_at": "2026-10-22T16:11:48.663257+09:00",
   "articles": [
+    {
+      "title": "自動車手続きのOSS、緊急メンテナンスで一部サービスが停止　PHPセキュリティー対応で(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/12183362f75f4ad6ef4bcac5542403c9f2bf2b7a?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-22T15:57:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダアクセス、マイチェンした「ヴェゼル」用純正アクセサリーに「ブラックスポーツスタイル」新設",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150337.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T14:16:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "リクルート、中古車サイト「カーセンサー」再開　来店予約など一部機能は休止続く(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/978021a991198091c56b4f48d2494655e2ba207b?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-22T14:15:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レクサス、「LBX」一部改良 新色「ソウ」採用など価格445万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150347.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T14:05:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ステップワゴンなど8車種のリコール（ボディコントロールモジュール）",
+      "url": "https://www.honda.co.jp/recall/auto/info/261022_5891.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-22T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ODYSSEYのリコール（ボディコントロールモジュール）",
+      "url": "https://www.honda.co.jp/recall/auto/info/261022_4248.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-22T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ACCORDのリコール（ボディコントロールモジュール）",
+      "url": "https://www.honda.co.jp/recall/auto/info/261022_4249.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-22T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "LEXUS、「LBX」を一部改良",
+      "url": "https://global.toyota/jp/newsroom/lexus/44911793.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-22T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ・ダイハツ・スバルの中古車サイトが緊急メンテナンス　PHPセキュリティーで予防的措置　サービス提供元のプロトも(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/e23d52bdb8d92e06ef9c0c48aba22624a4e362aa?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-22T13:21:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "UDトラックス、「コンドル」に消防車・ミキサー車など特装系シャシー追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150326.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T13:18:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ルノー、バッテリEVになった「ルノー5」11月19日発売を予告",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150325.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T13:13:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "シトロエン、「C3ハイブリッド」にトリコロールを配した限定車「フレンチタッチ」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150291.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T12:48:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【いつのまに？】ミドルクラスSUVのお手頃モデルが消滅。「RAV4」は450万円、「フォレスター」は385万円…通称“素グレード”が消える理由とは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/02300e31882352c8c7545241eda2ed82ad4cfd2c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-22T12:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキの新型クロスオーバー「SV-7GX」に試乗してみた",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2150146.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T12:21:17+09:00",
+      "category": "news"
+    },
+    {
+      "title": "BMW、「M135」「M235 グラン クーペ」に各50台の限定車「アペックス・エディション」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150259.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T11:54:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【次期「CX-3」は2027年に登場へ】「マツダ2」から主役交代か！ スカイアクティブZは直6＆ロータリーにも展開？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/7812131353560dfb4e3d4048c6f9092a6d2076fc?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-22T11:53:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "背が高くないからカッコいい!!　N-ONEは“軽=スーパーハイト”に違和感がある人のための1台だ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f51bcad98345d9a025aa8873bf22f5c2c3543a75?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-22T11:46:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルピーヌ、初のEVホットハッチ「A290」日本導入を予告 11月19日発売へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150249.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T11:36:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "駐車が苦手な人ほどルークス!?　360度“見える軽”が街中で頼もしすぎる(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4cb6c6c128ffa63a10f8e63e479738f845a15f33?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-22T11:31:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ラパンを買うならG、L、Xどれが正解？　2026年最新ベストグレード選び(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/015a518f5d2744c0fbdc758b0011c27a286a64ba?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-22T11:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "試験運行の結果が好調だった……に違いない!!　　上州富岡駅発着の無料送迎バスの通年運行確定！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0fb4d8e6737fb9dac0c5fee9e022535f140255e6?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-22T11:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、コンパクトSUV「ヴェゼル」マイナーチェンジ 日常での快適性と利便性を向上し277万7500円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149055.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-22T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「VEZEL」をマイナーモデルチェンジし発売",
+      "url": "https://global.honda/jp/news/2026/4261022-vezel.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-22T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "よりプレミアムになったNEW VEZEL 登場！",
+      "url": "https://www.honda.co.jp/VEZEL/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-10-22T11:00:00+09:00",
+      "category": "press_release"
+    },
     {
       "title": "三菱「パジェロ」は何がスゴかった!? 世界初の4WD技術も！ 日本が誇る本格SUVの歴史とは(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/8aa434f53d4d09a3ecfd3927b9e2c97c293211f3?source=rss",
@@ -8896,48 +9064,6 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2142609.html",
       "source": "Car Watch",
       "published_at": "2026-09-22T17:06:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ日本で売らない？】2023年に姿を消したトヨタ「C-HR」、欧州で「GRスポーツ」を追加。日本再導入の可能性はあるのか(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e287924d9c903e1a723cb6577efd3ca4bfeef1d2?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-22T16:00:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "EV軽トラックついに登場！ 225km走るフォロフライFKTは物流や農業の新しい「足」になるか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/700302e3cbc4f8828207863b2a53810575ff554d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-22T15:00:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "米では前年比+32%と絶好調。ではなぜ「アコード」は日本で影が薄いのか…“セダン離れ”と「大柄ボディ」がネック。“600万円級”の価格も要因に(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/fd4305b27f40194708b4c12a473df0baf5193a3c?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-22T11:50:26+09:00",
-      "category": "news"
-    },
-    {
-      "title": "まだ売ってるの!? デビューから20年以上の「超ご長寿車」！ 90万円前後から狙えるトヨタ プロボックスが実は面白い(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e53abe600780c7476d2c1f7f9ea71b1ff7647853?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-22T11:00:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【へっぽこバスガイドの珍道中】ずっと現役でバスガイドを続ける理由ってなんだろう？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/164627c42f630b4abaec7b2d2c8d07da212a606b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-22T11:00:42+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産、米国で第3世代e-POWER搭載の新型「ローグ ハイブリッド」公開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2142589.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-22T10:34:31+09:00",
       "category": "news"
     }
   ]
