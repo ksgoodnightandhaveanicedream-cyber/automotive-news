@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-24T23:17:32.275088+09:00",
+  "updated_at": "2026-10-25T02:53:47.812500+09:00",
   "articles": [
+    {
+      "title": "チェリー（奇瑞汽車）、2027年に日本市場へ参入か オモダ＆ジェイクーのイベントで発表",
+      "url": "https://car.watch.impress.co.jp/docs/news/2150920.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-25T00:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "実際に見ると印象変わる!?　新型アクアGRスポーツが想像以上にカッコよかった!!(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/e974dbba4fee274e72afd1d2acee3ac753f086b2?source=rss",
@@ -9303,20 +9310,6 @@
       "source": "Car Watch",
       "published_at": "2026-09-25T06:00:00+09:00",
       "category": "news"
-    },
-    {
-      "title": "【自動車研究家“山本シンヤ”が聞いた「MORIZOがニュル24時間へ挑む理由」】第20回：トヨタの量産開発陣の思考さえも変えた東京オートサロン2010で発表した「G's」「GRMN」とは？",
-      "url": "https://car.watch.impress.co.jp/docs/series/morizo-nur24h/2142470.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-25T00:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、10年先を見据えた技術戦略2026を発表",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0925/",
-      "source": "スズキ",
-      "published_at": "2026-09-25T00:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
