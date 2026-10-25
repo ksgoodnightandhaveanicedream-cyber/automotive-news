@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-25T23:51:44.479645+09:00",
+  "updated_at": "2026-10-26T03:11:59.318039+09:00",
   "articles": [
+    {
+      "title": "【日下部保雄の悠悠閑閑】パンダ",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2150854.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-26T00:00:00+09:00",
+      "category": "news"
+    },
     {
       "title": "トヨタ「GR GT」は早くも争奪戦!? 元LFAオーナーに優先案内か！ トヨタGRモデルの最新動向(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/f4401c1572e4de4c5b7b209f43466557badfd3eb?source=rss",
@@ -9043,13 +9050,6 @@
       "url": "https://news.yahoo.co.jp/articles/83d0e5741718e92adc50ee3fc2dc48c40cc6eddd?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-26T06:00:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「フェラーリ フェスティバル東京2026」開催　フェラーリ初の電気自動車「ルーチェ」も国内初披露(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/786e6392c66c80487346480d5af6dc2e1f473617?source=rss",
-      "source": "webCG",
-      "published_at": "2026-09-26T00:09:13+09:00",
       "category": "news"
     }
   ]
