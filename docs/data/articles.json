@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-10-27T10:13:08.077814+09:00",
+  "updated_at": "2026-10-27T16:23:59.342407+09:00",
   "articles": [
+    {
+      "title": "【疑問】なぜ日本のパトカーは「白と黒」なのか。ツートンカラーになった意外な理由…実は「T型フォード」のせい？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/3e4deb3ddc8ef2df532fe165f0aeca5b63a68c29?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-27T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ピボット、スロコン新製品「3-drive・EVO2」 アクセルレスポンスを18段階で調整可能",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151517.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-27T15:35:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「ランドクルーザー“250”」の印象を変える「ヘッドランプデザインカスタマイズ（丸目）」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151508.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-27T15:31:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スポーツカーのメーターみたい！ レッドブル×ルミノックスの500本限定クロノグラフがカッコよき！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1f4d0cedff0cc29f7bda2925b52b52e251e7e374?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T15:00:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「メルセデスAMG A35 4MATIC」の集大成となる限定車発売(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/912d3c8a848839a2b512cfc603300fe177b186ed?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-27T13:26:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "京商、ミニカーと冊子をセットにした「MINI CAR＆BOOK」第26弾は“ワイスピ”仕様のR34 GT-R",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151447.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-27T13:18:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデスAMG、限定100台の特別仕様車「A 35 4MATIC ファイナルエディション」 価格890万円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151393.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-27T12:47:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【ディーゼルをやめても売れる？】新型「CX-5」が好調！ 2.5Lガソリンの実力と最上級「L」が63％選ばれる理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/0ea99604bd07671a6e542bb0e0bcf6fc15b81dd4?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-27T12:30:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ズルッとタイヤが滑ったらどうする？　ブレーキを踏むのは正解？　スリップした瞬間の正しい対処法とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/151a499ae6e59be8a6ae74f176ddc9fdfe0c6e13?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T12:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【噂の真相】「アルファード」中古相場が“崩壊寸前”は本当か。1000万円級プレミアム価格は崩れても「新車より高い」理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e64aae2ac22d5fddd7b32761936e068ae5c54266?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-27T11:53:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ケンメリRチューンドをデスクに飾れ!! KPGC110スカイライン2000GT-Rの1/18モデル登場！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e9485347e1a4d687b7694199b2d624b06dc606ac?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T11:45:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「デリカミニ」買うなら4WDターボが正解!? 先代の中古車が安い!? 上級グレードがおすすめな理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0805eb5abcc8302b0ba10178b0b0358d3da10d7e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T11:30:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランクルFJ登場でFJクルーザー中古も再注目!?　狙うなら走行距離と仕様を要チェック！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/74f759e1bb9202f442e1a4b4d4ee1b4daef9226b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T11:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "宮城交通「挑戦を、運ぶ。」プロジェクトで「いぎなり東北産」がオフィシャルパートナーに就任だと!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dfcb13468b64795d840854d7dc593025c406e92c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-27T11:00:55+09:00",
+      "category": "news"
+    },
     {
       "title": "新型「ハイラックス」が想像以上にスゴい!! 乗り心地が劇的進化でトライトンに肉薄！ 王者対決の結末とは(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/2cb0363e6b080ab9730cea753e350580f8be4b9d?source=rss",
@@ -98,6 +196,13 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-10-27T05:30:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "新型「MAZDA CX-5」で採用の「Google搭載」がAIアシスタント「Google Gemini」に対応",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261027a.html",
+      "source": "マツダ",
+      "published_at": "2026-10-27T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "な、なんだこの商用バンは!? プロの仕事を支えるフォロフライF11VSに大容量タイプが登場!!(ベストカーWeb)",
@@ -9218,41 +9323,6 @@
       "url": "https://news.yahoo.co.jp/articles/b37e920378cec0bdec246bcdb2f15ffd1e32b49a?source=rss",
       "source": "carview!",
       "published_at": "2026-09-27T18:02:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "25台限定オプカン×カングーのコラボ車爆誕!!　年度内に登場予定のカングー限定車の話も!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8c603f7d826f21554fc4ec22cb4604a8bde0c8af?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-27T16:05:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "至高のカーボンモデル!! ニンジャH2カーボンが低中速トルクを強化して激進化!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e36536fef5ef645dd7aea03dac8f178a6c0e89f4?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-27T15:00:47+09:00",
-      "category": "news"
-    },
-    {
-      "title": "まもなく生誕20年…でもなぜ「デリカD:5」は“フルモデルチェンジ”しない？ “ご長寿モデル”になれた「たったひとつの理由」(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/0aefdbda654a5a5cbba4dc40d1e2fd1a7bb9e3d8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-27T11:50:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "バッテリーを積んでも荷室429L!!　レイバックS:HEVのワゴン実用性をチェック!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9228edc16a913aaa48a70727a3e0681c35715303?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-27T11:00:48+09:00",
-      "category": "news"
-    },
-    {
-      "title": "福岡〜下関線高速バス「ふくふく号」博多駅発着を増便！　博多エリアでのお買い物が超便利に!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/244ae1df7db3b6e8e9844b3c3631b6386060b4c5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-27T11:00:48+09:00",
       "category": "news"
     }
   ]
