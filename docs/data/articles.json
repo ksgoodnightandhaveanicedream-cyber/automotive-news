@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-28T20:01:27.730453+09:00",
+  "updated_at": "2026-10-29T02:57:45.332758+09:00",
   "articles": [
+    {
+      "title": "【まるも亜希子の「寄り道日和」】家族で学べる「ファミリー交通安全パーク」",
+      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2151339.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-29T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "乗車を検知してチェック忘れを通知！ プロの仕事を支えるアルコール検知器が進化してる件！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d9192dd31c5af8c65b11a44f46b20f7d04ce5a55?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T22:30:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "4年乗ったeKクロスEVはいくらで売れた!?　「EVはリセールが悪い」のか実際に確かめた！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4a89b669be9c285802488cee78afec1654565160?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T21:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "走ることが目的のドライブがあっていい！ 楽しい道を8400本も入れたスマホアプリが沼すぎる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/019d01a12f81fbb8bcfe1079af5a0582506e637e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T20:00:55+09:00",
+      "category": "news"
+    },
     {
       "title": "大型のディーゼル車にも対応!! 充電不要でバッテリー上がりを救うジャンプスターターが驚愕モノ(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/9a174bbda5beb667f4444cba6a4ed454daf6432c?source=rss",
@@ -9281,41 +9309,6 @@
       "url": "https://news.yahoo.co.jp/articles/2399eab71f380b9b7b07d4b006bae300e830fda1?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-09-29T06:00:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダ、2026年8月の生産･販売状況について",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202609/260929a.html",
-      "source": "マツダ",
-      "published_at": "2026-09-29T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキ 2026年8月 四輪車生産・販売・輸出実績",
-      "url": "https://www.suzuki.co.jp/release/d/2026/0929/",
-      "source": "スズキ",
-      "published_at": "2026-09-29T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Astemoの「機能協調設計」を具現化した次世代フロントエンドシステム搭載マシンが国内レースでポールポジションを獲得",
-      "url": "https://www.astemo.com/jp/news/20260929-01/index.html",
-      "source": "Astemo",
-      "published_at": "2026-09-29T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "ジムニーがアメリカンに激変！ 安全装備が向上したノマド2型のコンプリートカーがステキ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/bd2f48ee9f59819e7eaa8aa224125d1faddf597a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T22:30:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "R34 GT-Rのワイドボディに極太深リムが激ハマり！　ワーク「マイスター S1 3ピース」が放つレーシングスピリットと不朽の美学(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/cae086020584a89962983e81e682dbd91e25a6a3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T21:00:52+09:00",
       "category": "news"
     }
   ]
