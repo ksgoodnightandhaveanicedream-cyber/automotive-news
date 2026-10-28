@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-28T13:24:27.002613+09:00",
+  "updated_at": "2026-10-28T20:01:27.730453+09:00",
   "articles": [
+    {
+      "title": "大型のディーゼル車にも対応!! 充電不要でバッテリー上がりを救うジャンプスターターが驚愕モノ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9a174bbda5beb667f4444cba6a4ed454daf6432c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T19:05:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「レヴォーグ」シリーズが8月販売でスバル首位に。SUVとストロングハイブリッドで攻める「2本柱戦略」の実力(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e78fb7533fc9831070e29149787823607cb1f1ec?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-28T19:02:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ「デリカD:5」を米国で？】三菱が北米未販売のミニバンを初展示！ 次期デリカの海外展開につながる可能性も(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b97ba4d7daff5391c213efcea6884009a67689af?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-28T18:04:41+09:00",
+      "category": "news"
+    },
+    {
+      "title": "インテグラの日本価格は4桁近くに!?　しかも限定250台ゆえ争奪戦必須の予感しかない(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/68329f2f124f8abd7a61bd5ec84a11493fa91634?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T18:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "紅葉ドライブの下り坂でブレーキが効かない！ 「踏みっぱなし」が危ない理由と正しい減速(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dc36cf4edda56e50f1954d7615a996faf9030f04?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T17:30:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【トヨタ「クラウンエステート」が約70万円安くなる？】年末の改良で「G」追加か！ 本革シートやベンチレーションは省かれる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/bffeb6e9af822863abdbb1bcccc73764262fdd97?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-28T17:30:42+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【人気衰えず】トヨタ「ライズ」11月24日改良へ。発売7年でも“顔はそのまま”…安全装備を強化、価格は約5万円アップか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/65b6888eda75aae275539c3e9f917fc28fadba4d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-28T17:02:47+09:00",
+      "category": "news"
+    },
+    {
+      "title": "4WDハイエースの高速安定性を改善!! 床下の空気を整えるグランドエフェクターがすごい(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/019dfd49a14fa83aad308793c7212c201950d51e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-28T17:00:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ日本はFFのみ？】新型ジープ「コンパス」は520万円から。全幅1.9m超の巨体にリッター19km台(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/3515d1d69548a0e80bb0da2e1c23c7d149de5b4b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-28T16:00:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "GAZOO Racingと安川電機、AIを活用した自律化ロボット生産技術を共同開発 「蒲郡GRカート工房」で導入開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151902.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-28T15:31:35+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツ、新型バッテリEV「electric GLC」デビュー 価格は913万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151891.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-28T15:13:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "BMWモトラッド、新型アドベンチャー「F 450 GS」の新規注文受付を一時停止 計画台数を大幅に上まわる受注のため",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151871.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-28T13:47:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いすゞ、中型トラック「フォワード」のラインアップ拡充 特装系シャシーの追加と車輪脱落予兆検知システムを新たに搭載",
+      "url": "https://car.watch.impress.co.jp/docs/news/2151852.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-28T13:40:30+09:00",
+      "category": "news"
+    },
     {
       "title": "【実際どうなの？】「ワゴンR」オーナーのリアル評価…「カスタムZ」への一本化は正解？ ヒンジドア×MTを残した“独自価値”(carview！)",
       "url": "https://news.yahoo.co.jp/articles/860e227a03a29ba9d68931d6f083ebd531b190e5?source=rss",
@@ -9226,111 +9317,6 @@
       "source": "ベストカーWeb",
       "published_at": "2026-09-28T21:00:52+09:00",
       "category": "news"
-    },
-    {
-      "title": "藤原拓海の父ちゃんのほう！ 『頭文字D』藤原文太ZIPPOが150個限定で出た！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c0c39f5b2a74819ddbd5973a96681dfb8523dd4d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T20:00:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ隼がストリートファイターとコラボ!! ジュリ仕様の限定モデルがド迫力！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/340b719b4f84aabc601ded404becb5eb9364e90f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T19:05:50+09:00",
-      "category": "news"
-    },
-    {
-      "title": "世界最大の鉄道見本市「イノトランス」を支えるシャトルバス……働きすぎだろ!?(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5f4e85e53408e33e64d267b91f641b7269d5963d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T19:00:50+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【10月の60周年にサプライズの噂も】次期「カローラ」は“全部入り”？ 「クラウン」のような“カローラファミリー化”を大胆予想(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/d232050d6e075e2bd6c25d65ff4bcaca00641ce0?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-28T18:04:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "クルマの揺れを「アクセル」で抑える!? モーターのトルク制御がスゴい！ 意外と知らない「バネ上制振制御」の正体(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6a9836c5e907dbd8003ca61d3f101c3fc13e9182?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T18:00:51+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、コミュニティWebサイト「スズキヴィレッジ」公開 スズキ車を楽しむオーナーやファン向けにコンテンツを展開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2143825.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-28T17:37:51+09:00",
-      "category": "news"
-    },
-    {
-      "title": "次期ハリアーは2027年登場か!? それとも現行型を大幅改良して延命か!?？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0d609e64f8d600fd661a31f130e6e66c5236f537?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T17:30:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "いすゞ、中型観光バス「ガーラミオ」一部改良 6速AT採用や安全性と燃費性能を向上",
-      "url": "https://car.watch.impress.co.jp/docs/news/2143819.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-28T17:16:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産、英国で自動運転モビリティサービスの実現に向けた研究プロジェクト「ADventure」を開始",
-      "url": "https://car.watch.impress.co.jp/docs/news/2143813.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-28T17:14:18+09:00",
-      "category": "news"
-    },
-    {
-      "title": "N-ONE e:より航続距離が21km短い!?　高性能スーパーワンが電費の代わりに得たもの(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/f7cfa3035d9bbba0d97238266d5dd607c9070f97?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T17:00:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ自動車、第48回技能五輪国際大会にて5職種で敢闘賞を獲得",
-      "url": "https://global.toyota/jp/newsroom/corporate/44882825.html",
-      "source": "トヨタ自動車",
-      "published_at": "2026-09-28T17:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "メルセデスAMG、新型「GLC 53 4MATIC＋」追加 導入記念限定モデル「Edition Dark Performance」も設定",
-      "url": "https://car.watch.impress.co.jp/docs/news/2143788.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-28T16:23:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜ？】スペアタイヤに代わり「パンク修理キット」が主流になったワケ…環境・道路状況の変化も一因(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/da231e9ad5c4dd3ae698abc7956202a3599d7490?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-28T16:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パナソニック最高峰バッテリー「ブルーカオス」が誕生20周年!!　富田鈴花とオールナイトニッポンで特別企画もスタート！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/726164234544da2eec532260960c348e1f2e2ec6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-28T15:00:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産、英国で自動運転モビリティサービスの実現に向けた研究プロジェクト「ADventure」を開始",
-      "url": "http://global.nissannews.com/ja-JP/releases/260928-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-09-28T15:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
