@@ -1,6 +1,188 @@
 {
-  "updated_at": "2026-10-30T10:37:03.268488+09:00",
+  "updated_at": "2026-10-30T17:10:17.857445+09:00",
   "articles": [
+    {
+      "title": "【新型「パジェロ」はなぜこうなった？】タイ生産、ディーゼルのみ、背面タイヤ廃止…開発陣に聞いた「本当の理由」(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/88b3aa2709ed883d9803796d4d14f7557fce5553?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-30T17:02:18+09:00",
+      "category": "news"
+    },
+    {
+      "title": "併売ってすごくないか!!　デリカスターワゴンって何がそんな人気だったの？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/44aada9cd412597c9d8d2aa5759793ce770c0658?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T17:00:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ウェイモの無人タクシーはbZ4X！ 2027年に登場！ トヨタがロボタクシーを日本で作る！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fe09d327146c849f5616e3fd4292ca4f048648ed?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T16:05:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、ウェイモの無人タクシーを生産開始　国内運行は2027年　bZ4Xベースに右ハンドル地域に順次展開(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6c0328a08718b41c063021fa12d0006ac70d1a68?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-30T16:00:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152645.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T16:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ自動車とWaymo、安全な交通社会とすべての人の移動の自由に向け、自動運転分野における協業を拡大\n-Waymoの自動運転タクシーに使用するトヨタbZ4Xの運行を、2027年に日本で開始-",
+      "url": "https://global.toyota/jp/newsroom/corporate/44960910.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-30T16:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "日産フォーミュラEチーム、シーズン13においてサム バードとアビー プリングを継続起用",
+      "url": "http://global.nissannews.com/ja-JP/releases/261030-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-10-30T16:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "HRC US、新型「ホンダ・パスポート・バハ・スペック」公開 1300HP超ハイブリッドパワートレーン搭載",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152636.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T15:49:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "政府、ガソリン補助金を12月から段階的に縮小　基準価格を月5円ずつ引き上げ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/766f1704e2660dcc17162ed5ec9501a589d14f4c?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-30T15:33:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "JALと豊田自動織機、羽田空港の自動運転トーイングトラクター走行ルート拡大",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152661.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T15:32:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【F1カメラマン熱田護の「気合いで撮る！」】第139回：メルセデスのアントネッリ選手がアメリカGP圧勝でチャンピオン王手！　ホンダはF1参戦500戦目になりました",
+      "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2152633.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T14:45:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トムス、レクサス「LM」用に「TOM’Sスタイリングパーツセット」発売 フロント、サイド、リアのセット展開で価格は54万8900円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152605.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T13:28:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "GReddy×RAYS、トラスト50周年記念ホイール発表 GT-R向け専用オフセットで各色200本限定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152594.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T13:24:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "キャデラック、エスカレードに日本限定モデル「ノアール エディション」 20台だけの設定で価格は2100万円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152575.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T12:53:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アウディ、F1マシン「R26」を日本で一般初公開 新型「RS 5 アバント」とともに都内3か所で展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152557.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T12:48:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ありがとうDUNLOP」 スーパーGT参戦の64号車「Modulo HRC PRELUDE-GT」特別カラー公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152566.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T12:43:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ドアパンチ被害は駐車場所で防げる!? 意外と知らない愛車をキズから守る5つの対策!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/74eb6dc838b58d6f34af5dfdfb34c4150cab62e1?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T12:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アルファ ロメオ、120台限定車「ジュニア ピロタ バイ サベルト」 サベルト製スポーツシート採用など価格532万円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152545.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T11:58:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツ、新型EV「エレクトリックGLC」日本初公開 新世代EV専用プラットフォーム「MB.EA-M」初採用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152480.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T11:51:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "終売しても値段が全然下がらない!?　150系ランドクルーザープラドの中古相場がスゴい！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/effb70f99efafe4dc74af959397fbeb404d1f91f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T11:45:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【上位グレードなのに画面が小さくなる？】新型「パジェロ」の装備差を徹底解剖。ほぼ800万円より693万円仕様を推す理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5d821f8d1c0d2e01195ef961485664686f868182?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-30T11:31:47+09:00",
+      "category": "news"
+    },
+    {
+      "title": "駐車場ガラガラなのになぜ隣に!? わざわざ隣に停める「トナラー」4つの理由とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/286dc2327594224fd43b6fa6747c45e2525dbf6e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T11:30:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱自動車、新型「パジェロ」について岸浦恵介社長がコメント 社長就任後初の新型車がパジェロで「私はツイている」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152500.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T11:29:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型エルグランドはアルファード超のお値段!!　だったら中古アリじゃない!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ebd35c575cd94ea7305c2593f5e68d917c248b7d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T11:05:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ丸目レトロにしなかった？】新型「パジェロ」が“ディフェンダー路線”を選んだ理由。「ランクル250」とのガチンコ勝負開始(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b957de65600a404e50b1f908c46c3e1c7e2f96ac?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-30T11:02:27+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ウィラーが12月限定で「東京レストランバス 　クリスマスプラン」を発表!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5f506afde3d2da345372fb619a408bef04f8eb9d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T11:00:56+09:00",
+      "category": "news"
+    },
     {
       "title": "【元2代目パジェロオーナーが直言】安東弘樹さんが新型に試乗！ 超豪華な室内と2.4Lディーゼルを忖度なしで語る(carview！)",
       "url": "https://news.yahoo.co.jp/articles/cdac6e21fd6ac32e6e2dd5a7fb72d2ecb2d1ac92?source=rss",
@@ -112,6 +294,20 @@
       "source": "Car Watch",
       "published_at": "2026-10-30T00:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "人事異動",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261030b.html",
+      "source": "マツダ",
+      "published_at": "2026-10-30T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "マツダ、地域連携による再生可能エネルギーの導入を拡大",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261030a.html",
+      "source": "マツダ",
+      "published_at": "2026-10-30T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "新型パジェロのグレード別装備まとめ!!　エクシードはリアデフロックなし、2トーンは最上級グレードのみ(ベストカーWeb)",
@@ -9156,188 +9352,6 @@
       "source": "carview!",
       "published_at": "2026-09-30T17:30:10+09:00",
       "category": "news"
-    },
-    {
-      "title": "【ベースグレードでも装備十分】525万円のBMW「X1 オリジナル」は買い？ 42万円高い「Mスポーツ」を選ばなくても満足できる理由とは(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/fd336ff67ebdb474ed4fed146452e5d846cfac15?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T17:03:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "総額150万円でドヤれる!!　今こそ買い時な中古輸入車4選(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/057d870e64152bb6e324d47e6a7a65b1f621b008?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T17:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "世界初、3台の「MAZDA 787B」がそろうマツダファンフェスタ うち2台が富士スピードウェイでデモ走行",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144515.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T15:48:12+09:00",
-      "category": "news"
-    },
-    {
-      "title": "車載充電器は強力じゃなくちゃ!! PC+スマホの同時充電できるカーチャージャーが頼もしすぎ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/02ba198c7c35d28089d826540f526c73983b05f5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T15:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "都営バスが大雨被災の千葉に!! 東京都が運転士経験職員を車両と派遣の大英断(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fb087d65f3b4311e5222e0055499bd4f9f8391ef?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T15:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "レクサス、秋限定の極上モンブラン「和栗×焼酎×ほうじ茶」10月1日発売",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144498.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T14:40:28+09:00",
-      "category": "news"
-    },
-    {
-      "title": "レクサス、「RX」一部改良 ニュルブルクリンクを走り込み“ドライバーがクルマと対話できる走り”をさらに追求",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144471.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T14:02:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "LEXUS、「RX」を一部改良",
-      "url": "https://global.toyota/jp/newsroom/lexus/44845649.html",
-      "source": "トヨタ自動車",
-      "published_at": "2026-09-30T13:30:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "出光興産、モビリティサービス拡充を見据えて「アポロステーション」のサービスブランド体系を再編",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144454.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T13:27:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ・コニック・プロ、ランドクルーザーとブーツブランド「Danner」がコラボ！ ブーツやTシャツ、バンダナなど展開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144399.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T12:48:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ博物館、日本の高度成長期のクルマが見られる企画展「日本のモータリゼーション －マイカー元年から60年－」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144408.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T12:38:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「NX」が新デザイン採用&ハイブリッドを大刷新…「カッコいい」「別のクルマ」と好評も、最終評価はやっぱり“価格次第”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/ebb1d8e572a6fcbad3cd49b595bd2404f8dd6a09?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産横浜工場で「日産YY祭り×日産車フェア」開催 US仕様アルマーダNISMO登場の予感",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144388.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T12:16:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "新車の慣らし運転って今でも必要なの!?　満タン給油やタイヤ交換までカーライフの“常識”を見直す！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1d076338ea0f4eb0928bb825952abbc27ce0f2fa?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T12:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【新型公開で現行が狙い目？】次期型発表で悩ましいメルセデス・ベンツ「GLA」。653万円でフル装備の現行モデルをあえて選ぶ理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/380217dc75cea392c5ff25410de2544e52dd32c4?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T11:52:29+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【1週間まる分かり】レクサスGXの改良やスズキの技術戦略説明会など、自動車業界まとめ　(9/24-9/28朝)(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a42aaae26d0a85447f15d64604c6bb660a97e74f?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:51:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パジェロ復活で国産SUV戦国時代突入!?　ランクルとパトロールの立ち位置はどうなる？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/12bbe5890ea2054ad0ebf21165482cc55df38445?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:46:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スライドドアはいらない!?　N-BOXではなくN-WGNがちょうどいい人(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/21522308a82be9025ba21d4d63d31d5255bd993b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:36:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【【セール情報】本日のPICK UP】早めに準備しておこう！ SUVのタイヤサイズに対応した布チェーンがAmazonでタイムセール中",
-      "url": "https://car.watch.impress.co.jp/docs/series/sale/2144289.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T11:35:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "プログラミングなんて知らなかった!! 自動車整備を学ぶ専門学校生が「AI自動運転」に挑戦中!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/76fd6a5b37041602028b1849d3e774782eeb6197?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:26:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BYDオートジャパン、アット3を改良し「EX」に　前輪駆動から後輪駆動へ変更　4WDも初設定　437万円から(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/4dfa9943a225816288793fd9ef8a14bbf79a4949?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-30T11:09:19+09:00",
-      "category": "news"
-    },
-    {
-      "title": "カタログでは小さな差でも半年後には大違い!?　新型RAV4のZ専用装備は日常でかなり効いてくる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8f9b96be6c9e3a99f0b9581e3f1dddede54f9c64?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「トミカ ジョブレイバー TJB11 トリップブレイバー はとバス 観光バス」発売！　仕様がヤバすぎ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c834cb358d6fff236ba47bbd5b6d3e246955bc23?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T11:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "Hondaキャンプ ぼくらの親子キャンプ大作戦",
-      "url": "https://www.honda.co.jp/outdoor/try/familyproject.html?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-09-30T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "Honda Magazine 開発責任者が想うN-BOXが拡がる理由",
-      "url": "https://www.honda.co.jp/magazine/article/202609vol01/?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-09-30T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "パワープロダクツヒストリー 暮らしを楽にする。Honda芝刈機の進化と変わらない思い",
-      "url": "https://www.honda.co.jp/powerproducts-brand/powerproducts-history/lawn-garden/?from=RSS#sec3",
-      "source": "Honda",
-      "published_at": "2026-09-30T11:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
