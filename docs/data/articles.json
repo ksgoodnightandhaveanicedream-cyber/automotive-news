@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-30T17:10:17.857445+09:00",
+  "updated_at": "2026-10-31T00:36:59.309516+09:00",
   "articles": [
+    {
+      "title": "メッキパーツをビッカビカに!! ジェルタイプで使いやすい「めっき職人 匠」が重宝すぎ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c3ff2bcb012c6e146fd482ae22b74a73518be206?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T22:30:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "タカラトミー、セブン-イレブンと自販機付き小型駐車場をリアルに再現した情景ジオラマシリーズ「tomica VIEW」第1弾 12月26日発売",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152796.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T21:45:19+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「現行N-BOX」が総額130万円から!? 新車より安い未使用中古車も豊富!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d127906ab9a17ad1b68358f8a9e4768d82e5ed0b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T21:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "エンジンかければ自動で接続!! 車内をエンタメ空間にするワイヤレスAIボックスが便利すぎる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b3b26d6e524790fe3c9eb9c8a31f168c01e33e33?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T20:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "キント、35歳以下向け「はじめてのクルマおためしキャンペーン」再開 「GR86」「アルファード」など対象車種を拡大",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152735.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T19:31:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランドローバー、「レンジローバー SV ULTRA」をデザイン・インスタレーション「響き」として展示 KK線で開催中の「DESIGNART TOKYO 2026」で日本初公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152783.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T19:28:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "最高の黒を演出　キャデラックの日本限定モデル「エスカレード ノアールエディション」上陸(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/f3f587cd5168ba0fa9445d158eaba1d4dd245a83?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-30T19:19:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フォルクスワーゲンが一部モデルの仕様変更を発表　車両価格とオプション価格も改定(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/22de856b36cad0ddaeb40265c392c45e77f26427?source=rss",
+      "source": "webCG",
+      "published_at": "2026-10-30T19:13:48+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【新車を買った後もお金がかかる？】トヨタが2030年までに全車SDV化へ。通信費＆機能追加の“追加課金”はどうなる(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/342fdc9f93ef2c2269d4ea17ea66f149438f086b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-30T19:04:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【予想CG】次期「ランドクルーザー300」は2029年以降に登場か。パワーユニットと価格はどうなる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d4ac484cb8ebcb436c044a76540cbdf3954fee30?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-30T18:05:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "今期中に出るぞ!! 次期スカイラインはV6・FRを守るのか!? 公表情報とオーナー目線で考える「次の走り」(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/c67d8e7f582de0e82a5c38a67c7347fbf2ce4f9f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T17:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ×ウェイモの無人タクシーには思わぬ壁がある？ 自動運転の最大の壁は「技術」じゃない!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d653b8e1bc1255759009f4c7b6eeaed6e84127ba?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-30T17:16:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "キャンプや行楽、普段食や非常食に「パックご飯」と「レトルトカレー＆牛丼」はいかが？ Amazonでタイムセール中",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152717.html",
+      "source": "Car Watch",
+      "published_at": "2026-10-30T17:14:32+09:00",
+      "category": "news"
+    },
     {
       "title": "【新型「パジェロ」はなぜこうなった？】タイ生産、ディーゼルのみ、背面タイヤ廃止…開発陣に聞いた「本当の理由」(carview！)",
       "url": "https://news.yahoo.co.jp/articles/88b3aa2709ed883d9803796d4d14f7557fce5553?source=rss",
@@ -306,6 +397,13 @@
       "title": "マツダ、地域連携による再生可能エネルギーの導入を拡大",
       "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261030a.html",
       "source": "マツダ",
+      "published_at": "2026-10-30T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "弊社委託先における個人情報漏洩の可能性について",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1030/",
+      "source": "スズキ",
       "published_at": "2026-10-30T00:00:00+09:00",
       "category": "press_release"
     },
@@ -9190,167 +9288,6 @@
       "url": "https://news.yahoo.co.jp/articles/52c7978ad8918a127431fa557f343f7b7595a6e3?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-10-01T06:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【まるも亜希子の「寄り道日和」】城ヶ崎へのドライブ",
-      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2144267.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "組織改革と人事異動",
-      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202610/261001a.html",
-      "source": "マツダ",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキおよびスズキ自販鹿児島、鹿児島県鹿児島市と災害時における車両貸与等に関する応援協定を締結",
-      "url": "https://www.suzuki.co.jp/release/d/2026/1001/",
-      "source": "スズキ",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "スズキ、新型クロスオーバーモデル「SV-7GX」を日本で発売",
-      "url": "https://www.suzuki.co.jp/release/b/2026/1001/",
-      "source": "スズキ",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "当社の資本構成変更の完了に関するお知らせ",
-      "url": "https://www.astemo.com/jp/news/pdf/20261001-01.pdf",
-      "source": "Astemo",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "社員一人ひとりの多様な能力開発を支援する人事施策を強化",
-      "url": "https://www.suzuki.co.jp/release/d/2026/1001a/",
-      "source": "スズキ",
-      "published_at": "2026-10-01T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "ブロワーだけど掃除機にもなる！ 16Lタンクが自慢の乾湿両用掃除機が便利すぎ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8d528f772ce65f1c26b9f3591f76c25e3e8cabf1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T22:31:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "85万円の補助金込みならHEVとわずか1万6800円差!! 2026年型クラウンスポーツに“手頃なPHEV”登場(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/051883b4a5e982317f9fc731720781ef0edebaa6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T21:01:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "エンジン音も楽しめる!! カワサキNinja GPZ900Rが1/4スケールモデルで復活！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a09b6734da592b448fe9b028d62117aab3c5a604?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T20:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニデック、有価証券報告書を締切日に提出　監査法人は意見不表明　「虚偽説明の役職員が担当」(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/cb9d56da53b7e8e1dc79b82e80fa38f4fd48485b?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-30T19:26:36+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニデック、2026年3月期は5600億円の最終赤字　6300億円の減損響く　車載事業も大幅赤字(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/88863aff9296790cc94629aa475f91b0e2aa874c?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-09-30T19:24:10+09:00",
-      "category": "news"
-    },
-    {
-      "title": "車内の匂いって超大事!! カーメイトの秋冬フレグランスで秋の訪れを感じよう！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1f2baca38824193ae63e79ebd8c6dd0bcc601155?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T19:06:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【21万円差のスポーツバックは買いか？】全高40mm低くても荷室容量が変わらないアウディ新型「Q3」の選び方を検証(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/338cbf5df751d7ce63daff7bf11869afa3eeb5a8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T19:05:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "千葉県豪雨による鉄道代行バスの運行に東京都が都営バス10台を派遣意向(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/042376536afe2bb86a176dadb432d7c1a4782404?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T19:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ソニー損保、森永康平氏をゲストに新商品「ソニー損保の長期自動車保険（3年契約）」発表会開催",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144576.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T18:43:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニュルで鍛え直して装備も充実!! レクサスRXがいぶし銀のように進化するも価格は値上がり！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/bbe9580d3de83f712b0f6ad3f099c58a8078f238?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T18:31:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【GM協業から独自開発へ移るはずが…】アキュラ「ZDX」短命化と「RSX」開発中止に透ける北米BEV市場の急変(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/af92ef016b172ce139db76d9839132378a4a729b?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T18:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BYD、新型「ATTO 3 EX」解説とともにコンパクトクラスの新PHEV「ATTO 2」導入を予告",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144578.html",
-      "source": "Car Watch",
-      "published_at": "2026-09-30T18:17:19+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【改良型発表のいま】Gemini搭載の新型登場でもあえて熟成の現行ボルボ「XC40」（509万円〜）がアリな理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/0f448f469d9a088cf9f3c211f6973ca97332342a?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T18:05:28+09:00",
-      "category": "news"
-    },
-    {
-      "title": "カローラがついに「還暦」!! 60年で5700万台を販売！ 世界一の大衆車になったトヨタの“国民車”の軌跡(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fc0e9b3291f945ee321ceba1f1119998949dd2ea?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T18:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ルーミーより燃費いいのに!? スズキ「ソリオ」がもっと売れてもいい理由(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/967d6445e478ce8b3a0c801de093bc3a1da5688e?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T17:31:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "全日本ラリーでジャイキリだ〜　国沢ミライースがセミウェットで爆走　ヤリスを凌ぐ速さを見せた!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fa82268b9a82d18683892e7a1d8a03a8e10b4572?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-09-30T17:31:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【どれを選べばいいのか】420万円の「LBX」から2100万円の「LX」まで…レクサスSUV群から自分に合う1台を見極める基準とは？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/0147ce890a1e48a5ede2dc7e7382145216fa4f94?source=rss",
-      "source": "carview!",
-      "published_at": "2026-09-30T17:30:10+09:00",
       "category": "news"
     }
   ]
