@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-31T15:42:14.785598+09:00",
+  "updated_at": "2026-10-31T22:22:52.556709+09:00",
   "articles": [
+    {
+      "title": "スズキ、6種類目のインドベジタリアンレトルトカレー「ココナッツ野菜」を発売　パッケージに「GSX-8T」採用(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/84d5d6ac04b07bc030abd1c36be1536f2b4f9bc7?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-10-31T19:12:34+09:00",
+      "category": "news"
+    },
+    {
+      "title": "えぇっ……パジェロミニならまだ20万円台から狙えるの!?　2代目はいま狙いやすいお手頃な軽クロカンだ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4fc4b703d2d74728d38e1c0b121eaec22b60a29c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-31T19:05:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ドライブ中に“ゲリラ豪雨”や“雷”に遭遇したら？「車内避難」が安全な理由と注意すべきポイント(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/f097e2b9c08ebb3014956731da9dc812a6e7804a?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-31T19:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "少しでも安く！「中古車購入のベストタイミング」はわかる？ 株の投資手法「テクニカル」と「ファンダメンタルズ」を当てはめてみると…(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/f783745a94e22fe317304716f0fc218521585c0b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-31T18:03:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【スバルからボクサーが消える？】欧州で2028年からBEV専業化へ！ 次の切り札は「STI」の高性能EVか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/490198156b387cf7c0b50d872b57e54c638985e2?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-31T17:00:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ヤマハが開発した「電動お散歩カー」が画期的!! 保育士の負担を大幅軽減へ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a4f1dfcf4e2fdf803d14c75c326f24753a06ee13?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-10-31T16:05:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【新型「スカイライン」にV6ハイブリッド？】日産が新技術を計画！ V6ターボ＋MTと電動化は両立するのか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/81620f0894591189ef69c2736275acf3dbb86fcb?source=rss",
+      "source": "carview!",
+      "published_at": "2026-10-31T16:00:02+09:00",
+      "category": "news"
+    },
     {
       "title": "日産の自動運転がスゴい!! 新型リーフのロボタクシーが東京を走る日(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/afb892baa0cd34b939300528b2c507ba5b19a959?source=rss",
@@ -8973,153 +9022,6 @@
       "url": "https://news.yahoo.co.jp/articles/76daef38a1cb15661da5db7ed86351bb0dcc752f?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-10-01T22:31:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "いまどき6速オートマ!?　ランドクルーザーFJが新しさより信頼性を選んだワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a3663dddb4b58d37a3fb326eb046e678ea40e3b6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T21:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シックな色が仲間入り!! パナソニックの電動アシスト自転車に1000台限定の特別カラー登場！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1dbf7e4e498083039e0b675ed22cb97222052df3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T20:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BMWがハイパフォーマンス4輪駆動モデル「M2 M xDrive」を発売(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/39a94c2c92c194773b566d86a2375a33cec664fe?source=rss",
-      "source": "webCG",
-      "published_at": "2026-10-01T19:25:17+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニュルブルクリンクで走りを磨いた「レクサスRX」の一部改良モデルが登場(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/652ccdce363350878c9447ed7f0e6aca572ffdbe?source=rss",
-      "source": "webCG",
-      "published_at": "2026-10-01T19:18:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダの伝説がクマ型フィギュアに！ マツダ787BとBE@RBRICKがル・マン35周年記念コラボ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3a7d661cd10321a7f42d5589e657e5b45b47f3ad?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T19:06:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フォルクスワーゲンが「Tクロス」に300万円を切る限定車を設定(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/46ffb8d9e6fe52a2d0314eb698c8734a3bd368e9?source=rss",
-      "source": "webCG",
-      "published_at": "2026-10-01T19:05:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【同じ2.5Lでも別物】新型「CX-5」vs改良型「CX-30」の乗り味はどう違う？ 最新受注データから選ばれ方も比較(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/2a89af61489d113193abd7e3924ea63da3be7d49?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-01T19:03:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ランドクルーザー開発責任者 内山征也氏、FJを含むランクル群について語る 「75年間信頼というものを磨き続けてきた」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144951.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-01T19:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、レクサス「RX」を一部改良　シャシー改良や制御最適化で乗り心地や走行性能を追求(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/bec9c9f2a7cc60b0181c72fabe3bd0ce888445a6?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-01T18:29:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「トレイルシーカー」購入者のリアル評価が“かなり高い”ワケ…総合4.6点、走行性能4.8点！ 「価格」は賛否も「レガシィアウトバック」からの乗り換え多数(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/f211db3ccf5e75f0f07b026143df3cbcb49b054d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-01T18:04:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ソリオかバンディットか!?　価格、装備、デザインで選ぶ2つのベストグレード(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/09c429aa3b7a741743dee5d952729b96b0b88be3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T18:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ソニー損保、ダイレクト初の3年契約自動車保険を発売　ディーラーとの協業も構想(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/8c192239248bf99c4491299b781976e8c6dde094?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-01T17:41:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シボレー、日本限定15台の特別仕様車「コルベットV8ツアラー」 ボディカラーに深みと濃厚感を持つレッドミストを採用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144928.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-01T17:35:43+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「シボレー・コルベット コンバーチブル」に日本専用の限定モデルが登場(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/2fe0fcb639c66a527b07fab787bb959fbe9997bd?source=rss",
-      "source": "webCG",
-      "published_at": "2026-10-01T17:35:23+09:00",
-      "category": "news"
-    },
-    {
-      "title": "後席シートベルト、一般道の着用率は45.8％!! 違反なのに点数が付かないのはなぜ？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1e66bb68956032f60c82a8f8f333be4f144c477a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T17:31:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "欧州で大人気のVW「Tロック」が全面刷新！ 大型化＆“全車ハイブリッド”で何が変わった？ 日本導入にも期待(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e409cc2a094c86c71cf27b1c661f6f3d5bc581d9?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-01T17:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニデックが新体制で会見　会計・品質不正と最終赤字を陳謝　車載など不採算事業のリソースを成長領域へ(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/0dacc81787f66bb8cd3b3e03771432c93b31265e?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-01T17:19:24+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ヒョンデ、第5世代となる新型「TUCSON（ツーソン）」を米国で世界初公開",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144913.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-01T17:12:49+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【何がどう違う？】スライドドアでフル装備の「ラッコ」とシンプル追求の「eスカイ」に見る軽乗用EVの使い勝手の差(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/50d0e392c95073171a4105e73381191f5c4933b6?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-01T17:03:36+09:00",
-      "category": "news"
-    },
-    {
-      "title": "サンバイザーに干渉しない!! 軽・コンパクトカー向けのミラー型ドラレコ登場!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e08558333ba288f226400a2128d410044257c382?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-01T17:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ヴァレオ、日産の次世代「プロパイロット」のシステム・ティア1サプライヤーに",
-      "url": "https://car.watch.impress.co.jp/docs/news/2144892.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-01T16:13:14+09:00",
       "category": "news"
     }
   ]
