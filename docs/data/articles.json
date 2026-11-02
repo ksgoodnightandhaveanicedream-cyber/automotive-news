@@ -1,6 +1,209 @@
 {
-  "updated_at": "2026-11-02T09:20:16.839932+09:00",
+  "updated_at": "2026-11-02T16:19:56.101477+09:00",
   "articles": [
+    {
+      "title": "トヨタ、「RAV4」を一部改良 オフロードでの走破性向上を支援する「マルチテレインセレクト」新搭載",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153153.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T16:10:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【実際どうなの？】「GRカローラ」オーナーのリアル評価…「走行性能」「デザイン」に高い満足度。一方で燃費と装備への本音も？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/3ae5d89605791d1ff3997f85b497b50a8fb810e8?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-02T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "自己株式の取得状況に関するお知らせ",
+      "url": "https://www.subaru.co.jp/news/2026_11_02_174134/",
+      "source": "SUBARU",
+      "published_at": "2026-11-02T15:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ルノー、「カングー ジャンボリー 2026」開催 発表前の新型バッテリEV「ルノー5（サンク）」のサプライズ展示も",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153101.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T15:22:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「クラウンエステート」一部改良でエントリーモデル「ESTATE G」追加 価格570万200円から",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153098.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T15:06:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "大小パジェロが選び放題！　三菱が生んだ「最強ファミリー」を振り返る(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8496c4cbf1ffbe4ebe67888a2e4c8afde57eda3d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T15:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「日本カー・オブ・ザ・イヤー2026-2027」10ベストカー発表！ 33台から選ばれた10台は？ 大賞決定は12月3日(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/df0eb3f668c80099d801164d07399d8834f61d7b?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-02T14:47:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「日本カー・オブ・ザ・イヤー2026-2027」10ベストカー発表",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153052.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T14:29:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「今年の10台」出揃いました!! イヤーカー戴冠は一体どのクルマに？ 日本カー・オブ・ザ・イヤー2026-2027(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/aeb1893de91807299f7a6c1ae5d4750e2a0c2dc1?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T13:55:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、丸目ヘッドランプの「ランドクルーザー“FJ”」登場 2027年1月上旬以降発売へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153084.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T13:55:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランドクルーザー“FJ”に丸目ヘッドランプとアドベンチャーバンパーを外装オプションとして新規設定",
+      "url": "https://global.toyota/jp/newsroom/toyota/44936636.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "クラウン（エステート）を一部改良",
+      "url": "https://global.toyota/jp/newsroom/toyota/44936557.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "RAV4を一部改良",
+      "url": "https://global.toyota/jp/newsroom/toyota/44936457.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-02T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "カーメイト、非金属タイヤチェーン「バイアスロン・イージーフィット」に「ヤリス」や「アルファード」に対応する新サイズ追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153039.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T12:57:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "豊田章男会長、平川亮選手のF1決勝レース走行についてコメント 「平川、私の夢も叶えてくれてありがとう」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2153022.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T12:32:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "首都高には追い越し車線がないから右側車線に居座ってもOK？　東名高速とどう違う？　知らないと切符を切られる意外な交通ルール！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d4a8b8d63f81751440e144561eabc322b6b53bf4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T12:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "NMC、インフィニティ「QX80 Sports」や「キックス ROCK CREEK」も展示した「オーテック 湘南里帰りミーティング2026」開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152933.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T11:52:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "3つの顔を捨てて一本化!!　ワゴンRがカスタムZ顔だけを残したワケ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9e076d522251371b92097b5800f8fa8e2fd29d49?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T11:45:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型アクアGRスポーツだけなぜ付かない!?　Z並みの豪華装備なのに意外な省略がちょっと残念……(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/cfef85faf01d8c3aac81e6839ca439c14bafa8c4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T11:30:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツ、「ハイゼット カーゴ」「アトレー」一部改良で燃費性能を向上",
+      "url": "https://car.watch.impress.co.jp/docs/news/2152993.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T11:24:20+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ダイハツが軽商用車「ハイゼット カーゴ」「アトレー」を改良　燃費を改善(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/b18e2effae246264c04e402bbd78c45bca8eafa3?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-02T11:08:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "古いランクルほど値落ちしない!?　120系プラドの中古、まだ200万円以上!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/83d21408025ddad21611e55ff17f8cadcc343e1d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T11:05:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "“アレ”と被って今年は控えめに？　ドイツの鉄道見本市・イノトランスのバス展示(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7ba641c90606c3458876bd8968eda2b77d69ac34?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T11:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SUBARU　組織改正について（2026年11月1日付）",
+      "url": "https://www.subaru.co.jp/news/2026_11_02_112946/",
+      "source": "SUBARU",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "先週のアクセスランキング（10月26日～11月1日）、1位はルーキーレーシングのSUPER GT GT300クラスの参戦車両が「GR GT3 concept」に - Car Watch",
+      "url": "https://car.watch.impress.co.jp/docs/rank/2152982.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-02T10:54:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いつもデスクにジムニーを！ ウェット＆ドライ対応のJIMNYティッシュケースが可愛すぎる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5ef6e374105de11e5d6df2d57309be36ba36eefc?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T10:40:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "中古「タント」は安さだけで選ぶな!! Xグレード以上を選びたいワケ！ 総額100万円から探せる(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d4905b49c0606524247f24aad9edf14c3937274e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T10:05:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「フォレスター」と「CX-5」は本当に買い!? 人気SUVにも弱点！ 購入前に知りたい改善ポイント(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8414e37d7b7619a6527c457ed8b4eb04c5a94e3e?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T10:05:51+09:00",
+      "category": "news"
+    },
+    {
+      "title": "北米トヨタに「移動式水素ステーション」!?　燃料電池トラックの燃料供給体制を強化(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/83537dfeb1a6c229df1f114b5b3272671cdbfa13?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-02T10:00:51+09:00",
+      "category": "news"
+    },
     {
       "title": "新型スカイラインにも期待大!! 日産がクルマの開発期間を20カ月も短縮!? 中国メーカーに対抗へ(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/a7c7ceb166d44ab312e5649c918591c3fac72af5?source=rss",
@@ -49,6 +252,13 @@
       "source": "Car Watch",
       "published_at": "2026-11-02T00:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "軽乗用EV新型「e SKY」が2026-2027 日本カー・オブ・ザ・イヤー「10ベストカー」に選出",
+      "url": "https://www.suzuki.co.jp/release/a/2026/1102/",
+      "source": "スズキ",
+      "published_at": "2026-11-02T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "新型パジェロ投入で三菱の販売戦略が変わる!!　都市型店舗と旗艦店構想の中身と考察(ベストカーWeb)",
@@ -406,6 +616,13 @@
       "source": "carview!",
       "published_at": "2026-10-30T18:05:08+09:00",
       "category": "news"
+    },
+    {
+      "title": "WEC 2026年シーズン 第8戦 モンツァ6時間レース ： プレビュー\nマニファクチャラーチャンピオンとして最終戦に挑む",
+      "url": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/6-hours-of-monza-preview/text",
+      "source": "トヨタ自動車",
+      "published_at": "2026-10-30T18:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "今期中に出るぞ!! 次期スカイラインはV6・FRを守るのか!? 公表情報とオーナー目線で考える「次の走り」(ベストカーWeb)",
@@ -8665,69 +8882,6 @@
       "url": "https://news.yahoo.co.jp/articles/3fe6a8ef4c8139c1a9dee4b102b48eb39e3d2d19?source=rss",
       "source": "carview!",
       "published_at": "2026-10-03T17:00:38+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シフト操作まで人馬一体!!　マツダ3の「SKYACTIV-MT」は何がスゴい？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/185e26fd4d7b7d2fd95f96e8ba44a58aeeede705?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-03T16:05:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "リセールまで考えるならバンディット!?　ソリオとの価格差を取り戻せるか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6f542b16565c432a10cc05be02441f3f908edc46?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-03T15:00:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダ、ファンフェスタでロータリーエンジンやトランスミッションの分解・組立展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2145414.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-03T14:40:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【最速2027年12月登場か】日産「ノート」が約7年ぶりに刷新？ 発電専用1.4Lエンジンと第3世代e-POWERで高速燃費改善へ(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/8baa77a2b26713bffba1c9adec9cd56a7e391266?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-03T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【前年比27.3%増】300万円超のグレードでも売れまくるトヨタ「シエンタ」2026年8月に販売を伸ばした理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/f6faa730d4e1f33a0451598e7851e4d6d1503779?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-03T11:50:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マツダファンフェスタ2026、「MAZDA 787B」のロータリーサウンドで開幕 梅下隆一CTOが「クルマを楽しんでください」とあいさつ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2145406.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-03T11:13:31+09:00",
-      "category": "news"
-    },
-    {
-      "title": "70万円台の「ロードスター」って大丈夫!?　電動ハードトップのNC型「RHT」狙い目は120万円前後から！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/40bd9c69a23bf285d61832a26216b0687e62f725?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-03T11:06:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "メインはビジネスクラス機内食だけじゃなかった？　はとバス×JALコラボツアーのコンテンツがすべてメインディッシュ級だった件(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2b4725de19adfdf352e718c6bef72abe30e0f064?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-03T11:01:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "将来の規制対応も視野に!?　ダイムラーが新世代の「パワーライナー」内燃ドライブラインを発表！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fe205f4be1a8649d8a8a01782a9dbf24dc7a01f7?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-03T10:01:01+09:00",
       "category": "news"
     }
   ]
