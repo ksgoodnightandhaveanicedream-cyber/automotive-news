@@ -1,6 +1,181 @@
 {
-  "updated_at": "2026-11-06T09:49:24.918413+09:00",
+  "updated_at": "2026-11-06T16:43:01.226531+09:00",
   "articles": [
+    {
+      "title": "【なぜ安さで勝負しないのか？】日産新型「キックス」が手頃な純ガソリン車を持たず強気の電動専用を貫く理由(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/103b27b4f0ee6ce138f4d3b47562e2edd4c5e77d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-06T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ヤマハ発動機の2026年1～9月期決算、収益ともに過去最高　インドやASEANで二輪車好調(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/dd82f524b7324445ef5ebec28166cb4a74e14396?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-06T15:14:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アプリのインストール不要！ スマホ映像を車載ナビに映す4K対応HDMIケーブルが手軽すぎ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/32190d4871d4c1451380f4f01979b2f63f20a121?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T15:01:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、「タンドラ」一部改良モデルを今冬日本導入へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154332.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-06T13:52:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "米国で発表したタンドラを、今冬に日本導入予定",
+      "url": "https://global.toyota/jp/newsroom/toyota/44960600.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-06T13:30:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "ホンダ、新型「アヴァンシア」近日発売を予告 次世代ハイブリッドシステム「Honda Hybrid」搭載",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154299.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-06T12:58:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マツダ、海外生産拠点へ部品を供給する新物流拠点「マツダKDセンター」広島港出島地区に竣工",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154268.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-06T12:41:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【セリカがWRCに復活！】トヨタが2027年に「GR セリカ ラリー1」を投入、「GRヤリス」と2チームで世界王座を争う(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b8a6232996a0d93d7798e6b82535036bac6f54ec?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-06T12:40:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "自動車公取協、日査協の車両状態評価制度「Vコン」の監修を取り消し　運用上の重大な問題を確認　初の取り消し処分(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/fa7b18f7f9e3a4a0d8fe99c8bd52cbef3d338311?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-06T12:25:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "メルセデス・ベンツ日本、中古EV電池の残存性能を開示　不安解消してEV販売拡大へ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/3a567665ef5d755fd862fb482c5ab12dbe400567?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-06T12:25:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2026年10月の車名別新車ランキング、乗用車首位は「ヤリス」、軽自動車首位は「N-BOX」 乗用車トップ10に「ジムニー」「ランドクルーザー」がランクイン",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154244.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-06T12:09:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "オーテックがアツ過ぎる!!！　希少車が集うイベントで再発見　福祉車両に宿る初代社長の思いとは？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/954b792a8a17b37f589c88f6b0376ee046dc4a18?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T12:06:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "EV補助金に落とし穴!? 4年以内に売ると返納が必要!! 知らないと損する補助金のルールとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/18ec629cf463fb8401f8835267289d9889ace175?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T12:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ステランティスジャパン、当面の商品計画公表　ジープラングラーにV8.470馬力の高性能モデル　プジョー308にはディーゼル追加(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/698f696dce8ed1e05d9fb6ee7717150bf84904f0?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-06T11:56:26+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産、「セレナ」を一部改良　プロパイロット2.0搭載の最上級グレードは20万円値下げ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/e459dc1eedc2da36d74b146fd2ce2d34ade396ac?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-06T11:56:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "見た目だけじゃない!?　2026年型ハスラーは曲がり方まで変わっていた!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/4defaed1799ef49397c29fa528dbe33823be2d3d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T11:46:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マイチェン前eKクロスEVオーナーは要チェック!?　4年乗って発生した思わぬ劣化トラブル！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/8e30daacb72c696971dfe03abe1f753d2055f6a4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T11:31:05+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ版「トライトン」2028年発売へ公式合意！ 「WR-V」風の予想CGも紹介。日本導入は実現するのか？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/6040fac1942d5797ce32f35fc7062070dc64eafd?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-06T11:30:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ステランティスが「RAM 1500リミテッド」と「ジープ・ラングラー モアブ392」の日本導入を発表(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/c7a944af16dd3c88b7745c00d1ca759f6945831e?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-06T11:25:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "BMWが新型「X5」の事前商談受け付けを開始　次世代コンセプト「ノイエクラッセ」の第3弾モデル(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/8f6584a2eede219f67e07fc27a921d0c1bbb5058?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-06T11:19:16+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ミツオカが中古車をベースとする「バディ」のメイクアップモデルを販売(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/839e35f2020f327d588f4124f5f7d9b28aa211a7?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-06T11:13:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "軽でも生活感は出したくない!!　N-ONEがスーパーハイトワゴンとは違う“洒落た足グルマ”である理由(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/b806df5f6fd362d603c23dbff672ed230878c32f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T11:06:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「横浜市営×相鉄バス」こんな夢のコラボ撮影ツアーが開催される!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dc0642224841653c2a4ab6ec290998b3a96c29b2?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T11:01:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日本導入に期待!! パトロールNISMOにタンドラも!? 日本メーカーのクルマが全幅2m超え!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3528dc38993f92a3199a571ca188c3c5ddf4ff44?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T10:06:03+09:00",
+      "category": "news"
+    },
+    {
+      "title": "インドの商用車市場で電動化が急加速！　アマゾンがタタのバッテリーEVトラックを3000台導入(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f9e4251ca5c226851ac679ffbd86905c8317fba3?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-06T10:01:03+09:00",
+      "category": "news"
+    },
     {
       "title": "子どもが立ったまま着替えられる!?　ルークスの室内高はどこまで使える？(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/df75a573b4d53c0895b1d3dfd11bdb91380a77ef?source=rss",
@@ -77,6 +252,13 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-11-06T05:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "マツダ、広島港出島地区に「マツダKDセンター」を竣工",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261106a.html",
+      "source": "マツダ",
+      "published_at": "2026-11-06T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "『頭文字D』ZIPPOに第9弾登場！　ハチロクの名勝負を刻む150個限定モデル(ベストカーWeb)",
@@ -8945,160 +9127,6 @@
       "url": "https://news.yahoo.co.jp/articles/cf4985ef9362d6604a74b6794f420f094efc01d3?source=rss",
       "source": "carview!",
       "published_at": "2026-10-07T17:00:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「Japan Mobility Show Bizweek 2026」出展概要を発表",
-      "url": "http://global.nissannews.com/ja-JP/releases/261007-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-10-07T16:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "2025年生産終了の日産「GT-R」全史など収録 三樹書房の書籍「スカイライン R32、R33、R34、R35型GT-Rを中心として〈増補三訂版〉」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146422.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T15:42:39+09:00",
-      "category": "news"
-    },
-    {
-      "title": "富士スピードウェイホテル、開業4周年を記念した限定60本のオリジナルウイスキー「4563」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146418.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T15:39:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "VWのベストセラーTクロスが299.9万円!! 限定車TSI アクティブエッセンシャルに大注目!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1c4e9f281c2d4b09db0e0461e17ea2ce5a1dc0ff?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T15:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ジープ、9年ぶりフルモデルチェンジの新型「コンパス」 48Vハイブリッド搭載で価格520万円から",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146377.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T14:06:53+09:00",
-      "category": "news"
-    },
-    {
-      "title": "2026年度上半期の車名別新車ランキング 軽自動車首位は「N-BOX」、乗用車首位は「ヤリス」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146349.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T13:35:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【初期受注1万台】16年ぶりに全面刷新した日産「エルグランド」。最上位「G e-4ORCE」が57%を占める理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/4d5174e94df67e706ad8e6d729704dac584a667d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-07T13:00:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "BYDオートジャパンが8月に“過去最高の受注1260台”を記録。新型「ラッコ」が8割と牽引…勢いは持続できるか？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/873b27030d976ccfc34a642abaa6b5c1fca88a42?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-07T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "リバティ･メディアによる買収でF1のようなムーブメントを作れるか…2輪レース最高峰｢MotoGP｣副CEOが語る成長戦略",
-      "url": "https://toyokeizai.net/articles/-/960106",
-      "source": "東洋経済オンライン",
-      "published_at": "2026-10-07T12:30:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、ジムニー専用アプリ「JimJam」など「ジャパンモビリティショービズウィーク2026」に出展",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146319.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T12:28:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【実質155万円台から？】スズキ初の軽乗用EV「eスカイ」11月16日発売！航続310kmでEV市場に新たな選択肢(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/fd9a721b25ee88ba8974f888324c32853f0ce8b1?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-07T12:20:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "テラチャージ、ミライズエネチェンジの事業を承継　充電器設置数6万7000口で国内最大規模に(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/53caa2d71a1c19414cec57eb27b9516554e26a3e?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-07T12:11:06+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三栄、「ニューモデル速報 復刻シリーズ Vol.1 初代／2代目ソアラのすべて」発売",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146298.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T12:04:55+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【もう“普通のカローラ”ではない？】60周年の次期モデルを大胆予想！ クーペ風デザイン＆電動化で中国勢に対抗か(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/076ffa09adc4ae54b38f05590076dad43200f037?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-07T11:52:12+09:00",
-      "category": "news"
-    },
-    {
-      "title": "RSとクロスターはe:HEV専用に!!　フィットからガソリン車が減ったワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e55d45ace6b03974bd937b894efdf31b91ea1cbc?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T11:46:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "日産、エルグランドが受注1万台　納期は4～5カ月　人気のオーテックやVIPグレードは長期化(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/6cb042c8d113d7732790e80cad609b7e9fce4678?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-07T11:40:17+09:00",
-      "category": "news"
-    },
-    {
-      "title": "TDK、車載カメラの小型化に向けた電子部品、PoC用積層インダクタの新製品",
-      "url": "https://car.watch.impress.co.jp/docs/news/2146261.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-07T11:34:26+09:00",
-      "category": "news"
-    },
-    {
-      "title": "普段は後輪駆動で走れる!!　新型パジェロがいまも「2H」を残したワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/d1496f477c6febdb0dd0f0759faf294cee7f6db9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T11:31:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "7万8100円でターボとパワーモード!!　スペーシアカスタムXSターボは実はお買い得か(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/eba7348f0f44fa4e31f97ce35124b425d1e2ac19?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T11:06:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "JRグループでは最も長く直営バス事業を維持したJR四国の平成初期を振り返る(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/204b1c8cee0bb1fabf062a6011ba8b8966e13cf2?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T11:01:01+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「特別仕様車=お得」は本当!? クロストレックは実質16万円引き！ 人気3モデルの“お買い得度”をプロが採点(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/58be74288662c657fe9d3c1d29c65ef0fedac279?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T10:06:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "連結総重量80トン!?　ボルボの最新バッテリーEVトラックは長大なコンビネーションも可能に！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/9f8446052be241e8d7e00ed309e8538864dc9e05?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-07T10:01:02+09:00",
       "category": "news"
     }
   ]
