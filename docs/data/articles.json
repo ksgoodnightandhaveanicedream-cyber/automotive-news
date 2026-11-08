@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-08T20:44:51.985858+09:00",
+  "updated_at": "2026-11-09T02:41:36.760239+09:00",
   "articles": [
+    {
+      "title": "ホンダ、山本尚貴/牧野任祐組がSUPER GT王座奪還 「Honda HRC PRELUDE-GT」は参戦初年度でダブルタイトル",
+      "url": "https://car.watch.impress.co.jp/docs/news/2154642.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-09T00:00:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【日下部保雄の悠悠閑閑】今年の10ベスト",
+      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2154359.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-09T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "電動のカリフォルニアが電動化!!　フォルクスワーゲンID.Buzzにキャンピング仕様がとうとう来たゾ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3531824b0389a2843eb7f2fd1bb0a102210dd2bd?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-08T23:00:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダからトヨタへ……「ポリシーは、あるか。」!?　昔の自動車メーカーの広告バトルが熱すぎる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f6e423c2f2db5f4302946b62f5ad668ee16b33d0?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-08T22:30:45+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタの決算、好調の裏で動き出した「次の一手」はロボット40万台とマルチプラットフォーム!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f64785f50ddc186b18c4cb4fc03c4ecea8eb7800?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-08T21:45:45+09:00",
+      "category": "news"
+    },
     {
       "title": "初めて触ったのに大ハマり!?　昭和の遊びを知らない若者が「カーケシGP」で本気のバトル(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/2dc5777ed417b889299f030f49ba02bf8ea0ec7a?source=rss",
@@ -8616,27 +8651,6 @@
       "url": "https://car.watch.impress.co.jp/docs/news/2147214.html",
       "source": "Car Watch",
       "published_at": "2026-10-10T06:04:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "クルマへの積みやすさを徹底追及！ プロツールズの1800W発電機が便利すぎる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/8872ed40bd670224c870349ab344126f8d055bfa?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-09T22:30:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "50系RAV4の走りがシャキッと!! 燕三条の匠と士別の技を後付けできるアップグレードファクトリーがすごい!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c1a359d7434738aab03f4999e627bd9deca85048?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-09T21:00:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "通常は選択できない特別な外装色を設定　「メルセデスAMG G63」の限定車が登場(webCG)",
-      "url": "https://news.yahoo.co.jp/articles/7f87f283d81c81ed39cd575c15cd2bdb26549240?source=rss",
-      "source": "webCG",
-      "published_at": "2026-10-09T20:54:31+09:00",
       "category": "news"
     }
   ]
