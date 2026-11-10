@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-11-10T12:13:59.536133+09:00",
+  "updated_at": "2026-11-10T21:12:27.945388+09:00",
   "articles": [
+    {
+      "title": "補助金20万円も出る！ エアコン付きバイク型モビリティ「リーン3」がよりお手頃に！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7f986a8e71de2cf2951e74f1302582ecc473566a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T21:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、2027年3月期第2四半期決算は過去最高の2輪販売などで売上収益13.2％増の12兆377億円、営業利益48.1％増の6487億円と増収増益",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155296.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T20:37:06+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ブリヂストンタイヤ装着チームがスーパーGTのGT500クラスでシリーズチャンピオン獲得 2016年から11連覇を達成",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155224.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T20:16:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "アーチオンの2026年4～9月期決算、販売好調で営業利益720億円確保　下期は中東情勢がリスクに(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/074fca01f8a0c47af2d5c7c6798647c3a56ec34a?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-10T20:15:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ、新型軽EV「e SKY」が約1か月で4036台受注 2026年度第2四半期決算は売上収益19.4％増の3兆4192億円で過去最高",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155264.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T20:01:15+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マミー型じゃないから足元ラクチン！ 極寒車中泊にも対応する寝袋に新色登場！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dafafb752d11ef8dcbb318be9aeb021f39f13492?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T20:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "全日本ラリー王者の新井大輝選手が群サイでイベントを開催!! 頭文字の名シーンをご飯を頬張りながら見られるとか最高すぎ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1e3bff8b7f33d2446ef5ff82a9d82ac97f4a0751?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T19:05:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "どでかいテスラの16インチ画面も一人で貼れる！　映り込みや反射を抑える専用保護フィルムがすごい(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/54613f2a567c4313e5bd2bd4dc1d588564b35d23?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T19:05:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なんでもコスパが大事】クルマの寿命は“平均13年超”の時代へ…「装備バッチリで200万～300万円台の推しモデル」をピックアップ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/07b8ad93400e766f96f57b7450f59d38ce235250?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-10T19:04:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ、二輪車・ATVの世界累計生産台数1億台を達成",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155243.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T18:39:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキの2026年4～9月期決算、インド好調で売上高と純利益が過去最高　原材料高騰で通期予想は据え置き(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/3a338f978d5a99fffc359a2d27be4f6d125bfc1e?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-10T18:27:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ、軽EV「eスカイ」受注1カ月で4000台超え　月販計画の4倍　鈴木俊宏社長「驚いている」(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/90a82763fb8cf2f8b721171b7cadc4b97e9dd1ab?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-10T18:21:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダN-VAN e:がキャンピングカーに！ 電源取りも余裕のEVキャンパーに大注目！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ee0ff629b7a483c24766916c442e53936cc45ac5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T18:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "シエンタとフリードは「3列目を使わない日」に差が出る!! 家族4人ならどっちを選ぶ？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/eaa73c436e46a32b8848bfdd3945cdcf8febfdb5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T17:30:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "経産省が「CEV補助金」を見直し…従来の6〜8割に減額で「なだらかすべき」「政策が迷走」の声。BEV普及に急ブレーキ？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/373c79df72cc7a28ee85840a6784372441dd9396?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-10T17:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【検証】“新車で700万円級”がわずか3年で200万円以上値落ち…？ メルセデス・ベンツやBMWの中古車は本当にお買い得なのか(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/3bbc679cdcc47624e6bef03f8b661e2d8ee3e749?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-10T17:04:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "GRスープラは今買うべき!? それとも新型を待つ!? 生産終了で高騰する中古車価格と今後の行方(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7bfc66f5b18b63a271a263be5e21feea1abdaf67?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T17:00:57+09:00",
+      "category": "news"
+    },
+    {
+      "title": "キント、Vintage Club by KINTOの特選旧車レンタカーに 「スバル初代レガシィツーリングワゴン」追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155202.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T16:58:35+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバルの2026年4～9月期決算、円安や関税影響減で2年ぶり増益　下期の販売拡大で通期営業利益1500億円を実現(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/da2e2ff0e161855a1df9fd1121894b9fddb0762b?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-10T16:40:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、2027年3月期第2四半期決算の営業利益12.9％増で1160億円 通期営業利益予想1500億円を維持",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155176.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T16:17:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レクサス改良「LX」、新車装着タイヤにダンロップのSUV用タイヤ「グラントレック」採用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155172.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T16:10:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "38.5万円の「GRカート」が話題！「子どもと楽しめそう」「ノア／ヴォクに積めて便利」の声…納期は27年3月以降も、課題は“走る環境づくり”？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/cdcf0e456889ee35baf9d546e48c1d3cc6169aa7?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-10T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ランクル250の荷室にピッタリ！　引き出しタイプの大容量収納ボックスが便利すぎる！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e1051aaae703611688999d3ee92046b599989d36?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T15:00:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ピレリで冬のドライブを楽しもう！冬の購入キャンペーン」実施中 ガソリンギフト券4万円分が25人に当たる",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155134.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T14:10:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いすゞ、南アフリカで小型トラック新型「Nシリーズ」投入 18年ぶりにフルモデルチェンジ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155113.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T13:15:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "2027年3月期　第2四半期決算を発表",
+      "url": "https://www.subaru.co.jp/ir/library/results.html",
+      "source": "SUBARU",
+      "published_at": "2026-11-10T13:00:01+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "株式給付信託（J-ESOP-RS）の導入に伴う自己株式の処分に関するお知らせ",
+      "url": "https://www.subaru.co.jp/news/2026_11_10_122023/",
+      "source": "SUBARU",
+      "published_at": "2026-11-10T13:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "国交省、「都市型水害への対策方針」をとりまとめ アンダーパスでの車両冠水防止やカーナビへの大雨危険警報通知などを推進",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155093.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T12:53:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産、北米向けフラグシップSUV「アルマーダ パトロール PRO-4X」 新仕様「ダークアーマーパッケージ」も追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155086.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-10T12:39:09+09:00",
+      "category": "news"
+    },
+    {
+      "title": "さ、寒い！　冬の暖房は「内気循環」のままだと危険!?　フロントガラスが曇る理由と車内を早く暖める最適解(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/d361be77c0eae2faad7374bc3f0f8468866bc6d4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-10T12:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【検証】「エルグランド」は「アルファード」よりベースグレードで比較すると130万円高い…は本当？ スペックを揃えると見えてくる戦略の違い(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/798b074b6e56f3e36270a4a59c47fcec00911652?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-10T12:30:01+09:00",
+      "category": "news"
+    },
     {
       "title": "ホンダ、米オハイオに四輪車工場を新設　北米8拠点目　投資額は30億ドル　次世代HV生産で既存工場にも投資(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/b6887c64b5989a221a2e8599e5c85dc21f95df1f?source=rss",
@@ -203,6 +420,13 @@
       "source": "東洋経済オンライン",
       "published_at": "2026-11-10T05:45:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "人事異動について",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1110/",
+      "source": "スズキ",
+      "published_at": "2026-11-10T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "死ぬまでに一度は聴きたい！　LFAのV10にGT-Rの直6、RX-7のロータリー！　魂を揺さぶる国産名機6選+GR GT(ベストカーWeb)",
@@ -8903,48 +9127,6 @@
       "url": "https://news.yahoo.co.jp/articles/eb4d87e596d6f9d6f802cfcb7420497150bf56e6?source=rss",
       "source": "ベストカーWeb",
       "published_at": "2026-10-11T23:55:40+09:00",
-      "category": "news"
-    },
-    {
-      "title": "伊東・修善寺・下田で「東海バスオリジナルカプセルトイ」を10月16日発売！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6f24460e14016502faf7b1e5bddb7d92928089de?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-11T19:00:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "今なら年明けに手に入る!? 予約開始の新型「パジェロ」…800万円弱の最上級「スーパーエクシード」が一番人気。インテリアも決め手に(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/48964b89583a21c15cc365211169ad02f025005a?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-11T18:00:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "車載モニターを手軽に大画面化！ファイヤースティックも使える7インチ車載モニターがドライブを変える！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b10aff247011a9372e910c578cfdc29a15f63f69?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-11T16:05:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【国内テストvs米大規模調査】JAFの実走と米109万kmデータでACC作動時の燃費結果が食い違った理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e3e0c48fad31f4b19422ecb7d8ceb0f0c5d6f045?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-11T16:00:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "洗車のふき上げを強烈に時短!! 大判なのに絞りやすいコメリの「片面デカスギドライクロス」が便利すぎ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/445ccefae57cb38fc89b5c81a6de5e119714a1f3?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-11T15:00:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パイオニア、スーパーフォーミュラ第9戦・第10戦富士で新型「楽ナビ」展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2147386.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-11T12:18:30+09:00",
       "category": "news"
     }
   ]
