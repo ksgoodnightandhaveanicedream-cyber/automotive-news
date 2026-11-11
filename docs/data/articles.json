@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-11-11T10:03:35.340077+09:00",
+  "updated_at": "2026-11-11T17:55:58.517447+09:00",
   "articles": [
+    {
+      "title": "グランプリ出版、「マツダ 787B」のルマン総合優勝の裏側を解説した書籍",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155585.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T17:43:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "CEV補助金の申請受け付け、早ければ11月下旬にも終了　経産省が発表(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/a733c9ae9a81fc90a4e552370fec2d0e6a96db53?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-11T17:38:22+09:00",
+      "category": "news"
+    },
+    {
+      "title": "登場10年でも売れまくり!! トヨタ「ルーミー」はどこがそんなにいいのか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/18654e8a19a2dc14a9d02896969fb59f83bfc60d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T17:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【予想CG公開】日産「シルビア」復活がいよいよ現実となる可能性高まる。CEOが描く「GT-R・Z・シルビア」3兄弟構想とは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/1217c501f65a98203e6429c4f49bffc64d0b3ecc?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-11T17:30:13+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜここまで走りの方向性が違うのか】量販ハイブリッドをベースにしたスポーツモデル3台の明確な役割分担(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5825509b05c6aa1a7c1def4f9bf893ec52907dff?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-11T17:03:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "クルマのナンバーって意外と目立つ！ ヴァレンティ新作ナンバーフレームで愛車を引き締めよ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ee5f805b9730b17133066558ba900dfb95f70a69?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T17:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産、新型「スカイライン」2026年度下期発表 新たな事業計画を2027年2月発表へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155577.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T16:48:31+09:00",
+      "category": "news"
+    },
+    {
+      "title": "いすゞ、藤沢工場の大型車生産ラインで累計生産台数100万台を達成",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155559.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T16:35:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【マジか!?】ハイゼットジャンボが「サイオン」から販売！　軽トラ文化が北米を熱狂させる日がやってくる!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ada400cc7937342dcb49d9f7f756e6477ed7c06b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T16:05:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【価格相応の価値はあるか】新型「CLA 220 シューティングブレーク」試乗。400km走って見えた良いところと気になるところ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/c3061a01a4a6cd37342b901f4665a879bd1ec838?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-11T16:00:17+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産自動車2026年度上期決算を発表",
+      "url": "http://global.nissannews.com/ja-JP/releases/261111-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-11-11T15:31:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "クルマで着いたその先へ！ 120km走れる折り畳み電動アシスト自転車が驚きのデキ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/0da2c99e56fc0fa1a392fd8f4de0e7212b1b4321?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T15:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「新型プレリュード」が24万円台で「快音」仕様に　老舗フジツボが仕掛けるハイブリッドでも楽しいマフラーとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/2557203cf71c6e86755be1710fbb935e35cb4b6a?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T14:35:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【【セール情報】本日のPICK UP】冬への備え！ 簡単装着の布製チェーンがAmazonスマイルSaleで7355円 日本メーカー取扱品",
+      "url": "https://car.watch.impress.co.jp/docs/series/sale/2155519.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T14:31:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "JVCケンウッド、ハードキーを搭載した6.8V型ディスプレイオーディオ「DMX6526S」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155515.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T14:18:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ヤマハ、イエローとバーミリオンの新色「YZF-R7 ABS」が登場",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155495.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T14:15:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スズキ、「スイフト」「ジムニーシエラ」AWIN製パーツ装着車をS耐最終戦「S耐横丁」に出展",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155490.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T13:20:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155484.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T13:04:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型「エルグランド」が“受注1万台突破”も手放しで喜べない!? 日産にもたらす「台数以上のメリット」…新規ユーザーの獲得が争点に(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/8c7d13cab4009cdc8f37d747f6c3df3b7bffd8bf?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-11T12:30:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "自動車保険が最大20％引き!? 安全運転するだけで保険料がお得に!! 注目のテレマティクス保険とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/cfbb31b76e61a5d39b14f5f3854a0bba076cce59?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T12:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【売れているのになぜ？】ホンダ「ヴェゼル」が一部改良！ ハントパッケージ＆RS廃止、次は「トレイルスポーツ」追加か(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/d2da710434655e18095b189144565beae843264c?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-11T11:54:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "モリゾウさんがプロデュースしたGRカローラ MORIZO RRはDAT搭載！　高級でしかも楽しい乗り味にたまげた(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/239e8a6544d625acbcca0d1ca6c9d16181bee232?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T11:51:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "[トヨタイムズ記事] “自動車”という枠を越えモビリティに新たなアイデアを「Scion by Toyota」始まる",
+      "url": "https://toyotatimes.jp/toyota_news/scion_by_toyota/001.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-11T11:50:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "GAZOO Racing、6速MT+4WD+2シーターの「GRMNカローラ」 国内190台限定で価格980万円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2155417.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-11T11:39:49+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マイチェンで国沢親方も認める走りに激変!?　イマの日産こそフェアレディZをもっと推すべきだ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/eb4acb62af98981e5f50c9eb657c0d53b40f04a5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T11:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "楽しさなら日本車最高峰GRMNカローラ誕生！　MにもAMGにも負けないぞ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/88e614ebc7e8474a7e91ba5b706895820b538764?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T11:25:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタが高性能スポーツモデル「GRMNカローラ」の購入希望の応募受け付けを開始(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/7babf6670e490fae05251778575bf056e62537d4?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-11T11:02:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "27Lタンクで計算上677km!!　スズキ スペーシアは給油の少ないファーストカーになれるか？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/a0716c3528336a4757e17e8dfb7582024a996c02?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T11:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "街をつなぐ長〜いバスを追いかけてみたら……連節バスの構造と特徴ってどんな？(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9d182f08730004944f399cdeac1aefbb1489dca6?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T11:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「GRMNカローラ」購入希望の応募受付を開始\n-国内190台限定。応募は「GRアプリ」を通じて受付-",
+      "url": "https://global.toyota/jp/newsroom/toyota/44983225.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-11T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "CX-5が330万円はお買い得!? ロードスターもMX-30もスゴい!! マツダの実力派モデルを紹介(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ed3bf38d17aac8d6ad06d8f461c417a67bff6e21?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-11T10:06:01+09:00",
+      "category": "news"
+    },
     {
       "title": "いすゞプラザで保存中の『スミダM型バス』が歴史遺産車認定！ 昭和初期に生まれた国産トラックシャシーとその背景にあるもの(ベストカーWeb)",
       "url": "https://news.yahoo.co.jp/articles/235feebfd0c0f62e23362854f9770158f5eb17ce?source=rss",
@@ -105,6 +322,13 @@
       "source": "Car Watch",
       "published_at": "2026-11-11T01:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "軽乗用EV新型「e SKY」が2027年次 RJC カー オブ ザ イヤーを受賞",
+      "url": "https://www.suzuki.co.jp/release/a/2026/1111/",
+      "source": "スズキ",
+      "published_at": "2026-11-11T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "『頭文字D』ファンは妙義山にGO！ 「道の駅しもにた」に新しい聖地誕生(ベストカーWeb)",
@@ -231,6 +455,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-11-10T17:00:57+09:00",
       "category": "news"
+    },
+    {
+      "title": "[トヨタイムズ記事] 【解説】トヨタの事業構造改革 持続的成長の展望は？",
+      "url": "https://toyotatimes.jp/toyota_news/financial_results_2027/003.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-10T17:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "キント、Vintage Club by KINTOの特選旧車レンタカーに 「スバル初代レガシィツーリングワゴン」追加",
@@ -9107,48 +9338,6 @@
       "source": "carview!",
       "published_at": "2026-10-12T18:00:20+09:00",
       "category": "news"
-    },
-    {
-      "title": "ランクル300に待望のハイブリッド登場!! でも630万円のディーゼルGXと比べて本当に「買い」なのか？(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/a42d244b42eb2f4de4c63e6dc0745f91dae20fcd?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-12T17:30:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【AWD同士で約70万円差】「インプレッサ」が“ガソリン車一本化”でコスパ重視に？「クロストレック」は“S:HEV強化”で進むスバルの“棲み分け戦略”(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/eb4549857591c0c7e3ffe06aa3985898d8180656?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-12T16:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「絶品の足回り」の陰に潜む意外な癖？ 新型「RAV4 アドベンチャー」400km試乗で見えた完成度の高さと気になった4つのポイント(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/38c9f1509c30f7cd79b94e01e82c9752ce507cc1?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-12T11:50:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "黒ずくめでも威圧感は控えめ!?　N-WGNカスタム ブラックスタイルの大人っぽさ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c3c7d0db1e1681f131effc0ed3237a244ad1d266?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-12T11:05:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "キャンペーン期間に乗れば高速バスが半額？「新城名古屋藤が丘線」に乗ってみた！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2323d04571bfe60f1d126a46f749b5030141c867?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-12T11:00:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "オレンジディーラー 九州・沖縄地区の新たなHonda福祉車両スペシャリスト",
-      "url": "https://www.honda.co.jp/orangedealer/news/?from=RSS",
-      "source": "Honda",
-      "published_at": "2026-10-12T11:00:00+09:00",
-      "category": "press_release"
     }
   ]
 }
