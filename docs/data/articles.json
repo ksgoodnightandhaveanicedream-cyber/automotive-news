@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-15T14:11:25.097384+09:00",
+  "updated_at": "2026-11-15T22:32:30.991140+09:00",
   "articles": [
+    {
+      "title": "初期型こそ狙い目!?　2022年式シビック タイプRを中古で買うメリットとは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/37a9daf024db40d27093676996fc568a1ddf58b3?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-15T22:30:44+09:00",
+      "category": "news"
+    },
+    {
+      "title": "憧れの高級車が買えなくても大丈夫!? アストン風V8クーペも！ 300万円以内のボンド風中古車(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/583f0e1a8604d65aba2d6a39ec031721ade4594c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-15T19:05:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "12月発表で話題の新型「スカイライン」。一方、400台限定の現行「400Rリミテッド」はまだ買える？ 1000台完売の「NISMO」と明暗が分かれたワケ(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/68cb4eb2d9a47fae410d8b06a70d5c000b18ae24?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-15T18:02:40+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ロボタクシー」事故の責任はメーカーか乗客か？　法整備と自動車保険のいま(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/dc03ebc537578d857592439bc4373ac21e001711?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-15T16:05:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日本カー・オブ・ザ・イヤー「10ベストカー」が決定…新型「エルグランド」に期待の声！ 輸入車や発売前モデルの選考に疑問の声も？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/e69b66e66647d3c50f9016850b79d8f780fad86e?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-15T16:00:11+09:00",
+      "category": "news"
+    },
+    {
+      "title": "丸、D型、ヨーク型……結局どれが使いやすい!?　クルマのステアリングがこんなに多様化したワケ！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/f8fc5c86608fc258ac76d5900e9a4b02c0696b13?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-15T15:00:48+09:00",
+      "category": "news"
+    },
     {
       "title": "【オデッセイ後継はまさかの大型ミニバン？】3列SUVより北米版オデッセイが有力？ 「ラグレイト」復活の可能性(carview！)",
       "url": "https://news.yahoo.co.jp/articles/7b9257cec4d7951299fdca056b0a789403585ec7?source=rss",
@@ -8973,202 +9015,6 @@
       "url": "https://toyokeizai.net/articles/-/960295",
       "source": "東洋経済オンライン",
       "published_at": "2026-10-17T05:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "好みに合わせて3種類!! 純正交換型もあり！ カロッツェリアのデジタルミラー型ドラレコに新作登場!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3531c20a99c16b801bb90f98280465544eae52c6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T22:31:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ロイヤルエンフィールド、創業125周年記念モデル「125thアニバーサリーエディションHYPERSHIFTクラシック650」",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148975.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T21:24:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ニデック、役員責任調査委員会が永守氏の損害賠償責任を認定　岸田光哉氏、関潤氏ら過去の経営幹部も(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/b3d42df79cdf4ee2e84506b4a8ff0cee1b1cdfbb?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-16T21:03:45+09:00",
-      "category": "news"
-    },
-    {
-      "title": "乗用車顔負けの剛性感でホイールスピンまでする!?　新型e SKYは走りもかなり期待できるデキだった!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c212ffb85c9222d9b3e5f55f82139b7b25d48bf8?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T21:01:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三菱電機と鴻海（ホンハイ）、次世代モビリティの開発に向け戦略的提携 三菱電機モビリティを共同運営",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148964.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T20:41:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "三菱電機と鴻海、自動車機器の提携で最終合意　鴻海は50％の1150億円出資(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/cc94fd9d9cb5b124c19895d6533ead5053121d24?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-16T20:20:35+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フィアットの新時代を創る！　初代パンダをオマージュした現代のジーンズ！　新型グランデパンダに乗ると毎日が楽しくなる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e3b36d1b855c2f7396e5603d3da6941d1b45d88d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T19:31:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "60fpsで動きもヌルヌル!! 11.26インチのミラー型ドラレコで後方視界がクリアに!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/c204f3460057829c9ec7f2522b0fe1918522442b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T19:06:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【新型車を予告】全固体電池の初搭載や1000kW超急速充電の可能性も？ BYDが仕掛けるロールス風超高級セダンの正体(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/34ade18bd935624ae13b2dc0032cba6910a2c6cc?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-16T19:04:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "中国のバッテリEVブランド「AITO（アイト）」、パリモーターショーで「2027年秋に欧州市場へ正式参入」を表明",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148933.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T18:58:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【JMS2026】TDK、CEATEC AWARD 2026も受賞した「スマートグラス用ディスプレイ向けメタオプティクスミラー」など展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148923.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T18:45:46+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「えっ、29万円!?」 大原かおりが手に入れたスカイライン・ワゴン！　44歳でレースクイーンの顔も!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/089c0322e6ae05a4ec06e9faad85c0f61bd905fd?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T18:31:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【黒くしただけじゃない】ホンダ「ステップワゴン e:HEV スパーダ」に特別仕様車！ 2列目シートヒーター＆マルチビューカメラを追加(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/7fc1874adf03d28f985f64e8fae20e76419a1379?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-16T18:30:08+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ドゥカティ、スーパーバイク「パニガーレV4 2027年モデル」 最高出力とともに高回転域でのパフォーマンス向上",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148897.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T18:08:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【未来はすぐそこ】27年には無人タクシーが走る!? 自動運転の「レベル0」から完全自動の「レベル5」までを徹底解説。今後の課題とは(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/536e1c52e5a1af1d013b05a8ca3747b3684434aa?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-16T18:05:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "漫画「MFゴースト」の主人公 片桐夏向が駆るトヨタ「86」を1/64スケールミニカーで再現 小田原仕様と芦ノ湖仕様あり",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148857.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T18:01:37+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シエンタやルーミーが日本に最適!?　家族でしっかり使えるトヨタ系5ナンバー車をイッキ見！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/2d1fcfb08d69a219fef88a3c3fb28ba077a498b9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T18:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パーク24、免許証画像などの保管ルール見直し　今後は即時削除　7年保有で流出　調査結果などの開示は10/23に延期(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/14010260218ed5d5b08716f192c6abf180fa95a8?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-16T17:45:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シカが飛び出しても急ハンドルは危険!! 北海道で過去最多6705件、秋のドライブで知っておきたい対処法(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5d1273feb4227f8779e0e5506970ff3a0c829272?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T17:31:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【国内販売絶好調！】トヨタ8月は中国22.8%減、中東37.5%減で、世界販売でも6.4％減。それでも日本では9.1％増となった“国内独り勝ち”の最新事情(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/93ab1d2da23f7f02f01f31b72a7abf97a1327bc0?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-16T17:30:09+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「RAV4」が1年足らずで早くも改良。「マルチテレインセレクト機能」復活、約5万円値上げ…11月2日発表、HEVは年内納車可能？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/129b04a09353c2cd714a778a6b1505b112974c68?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-16T17:03:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "あなたはベーシック派？ フル装備派？ 用途に合わせて選べるコムテックの新型ドラレコがかゆいところに手が届いてる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/cd9b0abbac36f3b9d3683882345fbee649f0014b?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T17:01:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "キント、モータースポーツ入門者向け講習会「モスキンレーシングアカデミー」12月19日開催 国内Aライセンスを取得可能",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148833.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T16:48:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "次世代は12％、第7世代は15％向上ってマジかよ!?　新型カローラに搭載される1.5Lハイブリッドが凄いぞ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/cb3a4dc4fac6034b5b2d9ecbc02746f49ef0c802?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T16:06:04+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アステモ、第三者による不正アクセス 保有するデータの一部が外部に流出",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148822.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T16:01:15+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ドラレコ映像をスマホで確認できる！ カロッツェリアの新USBカードリーダーがいざという時に役立ちすぎる！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5faa54b79882adbab6bda7b07491e1f9f728eafd?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-16T15:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "フィアット、新型コンパクトSUV「グランデ パンダ ハイブリッド」デビュー 価格は369万円から",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148749.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T14:23:19+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ゴードンミラー、日産NV200バネットベースの車中泊仕様車「GMLVAN C-01」のファイナルオーダー受付開始",
-      "url": "https://car.watch.impress.co.jp/docs/news/2148762.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-16T14:19:04+09:00",
       "category": "news"
     }
   ]
