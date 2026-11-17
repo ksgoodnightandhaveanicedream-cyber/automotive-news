@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-11-17T08:42:51.413233+09:00",
+  "updated_at": "2026-11-17T15:53:56.674052+09:00",
   "articles": [
+    {
+      "title": "【ライズが一気に“アウトドア仕様”に！】黒基調の「Z“パワフル”」登場、新色アースカラー＆タフな専用加飾を採用(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5580e4cb68dab0583c1bc5ba5b7469e316194091?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-17T15:50:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "EVなどのCEV補助金、早ければ11月20日にも申請受付終了　予算残高は約121億円　経産省発表(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/048414ce837cfc1786d206783f9ac736549794a4?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-17T14:50:37+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、安全運転教育用の新型モデル「Hondaライディングシミュレーター」試作機を初公開 2027年冬の発売を目指す",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157059.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T14:22:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マセラティ、トライデント誕生100周年を記念した特別展示「100 Years of the Trident Celebration」を銀座ソニーパークで開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157048.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T13:36:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "NTTモビリティ、日本初“HDマップレス型”自動運転バスの公道実証開始 イスラエルの自動運転システム「Imagry」を活用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157033.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T13:32:41+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、新型「WRX STI Sport R」を新車のサブスク「SUBARU×KINTO」で取り扱い決定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157039.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T13:30:41+09:00",
+      "category": "news"
+    },
+    {
+      "title": "フォードの特殊用途車を国内販売 国内サービス窓口にスペースファクトリーを起用",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157026.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T13:06:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「MX-30 ロータリーEV」購入者のリアルな声…総合3.8点も評価される“独自価値”。一方、販売低調で気になる「コンセプトカー」の行方(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4c04d7d688225dfc1ed71b51dc266fce41f3df05?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-17T12:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ハーレーダビッドソン、カフェレーサースタイルの「RMCR Café Racer Concept」日本初公開 「ヨコハマ ホット ロッド カスタム ショー 2026」出展",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156995.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T12:26:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "パーク24の2026年10月実績、カーシェア会員数が初めて減少　情報漏えい問題が影響か(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/f1ac274bb6dc8b12eea9833df8888c80e5e6c2b4?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-17T12:11:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ロッキー」に黒基調の“パワフル”登場！ 一部改良でHEVは燃費28.7km/Lに向上。価格はベース車＋5万5000円(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/0a6f8329df7c1523678013c114c1b6e80eb02788?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-17T12:10:38+09:00",
+      "category": "news"
+    },
+    {
+      "title": "選ばなかった後悔はキツい!!　そうなる前に絶対つけるべきオプションとは!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/3ab035fbb60a28c18bc10e3283718c20cfd14b58?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T12:00:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【セミボンネット型は確定】新型「ハイエース」は4ナンバー枠をキープして早ければ2027年発表へ。使い勝手や快適性はどうなる？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/158f1f73efd0df8f3717ab969c2e926f60e9fe0f?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-17T11:52:46+09:00",
+      "category": "news"
+    },
+    {
+      "title": "NAで十分かターボが正解か!?　ルーミーの1Lエンジン選びを考える(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5ed1d649cdb8b6fcd397960b74dd8c299fcd58ac?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T11:45:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "デリカミニのリーセルお化け説はホント!?　衝撃の売却額とは!!!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/635dc9b2d407b1132a48001113435bdf8db6736d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T11:30:54+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産とフードリボン、「パイナップル葉」を活用した世界初の自動車用外板部品を共同開発 「sampe Japan 2026」で展示",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156938.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T11:19:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ガチ残価率は35％!?　日産サクラの買取相場の今とは(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/50cca97faec10509e4fc965bbc9089744cacd8c4?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T11:05:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "出光興産、キーパー技研と資本提携　VTホールディングスから株式13.39％取得　ガソリンスタンド併設店の拡充へ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/9780094500f2b501ab6934db22f5d951dac5ce0d?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-17T11:05:08+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「公共交通フェスタ2026」は岐阜バスのマニア向けな工夫がなかなかにステキだったぜ!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7b0dbcfca4d507a7f0fe1d4c854ddd526edc9e94?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T11:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【Honda Magazine】一人ひとりのFIT 25年",
+      "url": "https://www.honda.co.jp/magazine/article/202611vol01/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-11-17T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "安心の保安基準適合！ 収納にも強い四輪特定小型原付「エルバード」が普段使いに便利すぎ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/54234ea1a6d400c2282078f2f902ca2b97a2b41c?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T10:40:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "16代目「クラウン」開発陣が明かす開発秘話と一部改良のポイント サウンドシステムのチューニングはヤマハの匠が監修",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156762.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T10:21:33+09:00",
+      "category": "news"
+    },
+    {
+      "title": "標高5400メートルの鉱山から食品メーカーの工場物流まで!?　電動・無人の「自動運転EVトラック」の実用化が各地で進む(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/939bc4a81694e65a42874ee110e723cc61616a24?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T10:00:52+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産自動車とフードリボン社、パイナップル葉を活用した天然繊維強化プラスチックを共同開発",
+      "url": "http://global.nissannews.com/ja-JP/releases/261117-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-11-17T10:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "開発進捗は富士山の7合目、7つのカメラのみでハイブリッド車でのレベル2＋＋自動運転を実現 トヨタの最新開発実験車に北米で同乗",
+      "url": "https://car.watch.impress.co.jp/docs/news/2156901.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-17T09:41:14+09:00",
+      "category": "news"
+    },
+    {
+      "title": "軽なのに高級車並み!? 重いボディが乗り心地に効く！ サクラとデリカミニの快適性がスゴい(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/21b7b49e4b34caaab0a62e3e5c69f9773c33e44b?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-17T09:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【猫バンバンは冬だけじゃない】JAF調査で11月の約5倍となる402件！ 強く叩くと逆効果？ ドライバーが知っておきたい意外な落とし穴(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/360628bd263f496b14f2f40312868106eea5f3e3?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-17T09:00:03+09:00",
+      "category": "news"
+    },
     {
       "title": "【スタッドレスvs通年履き】雪道特化か日常の走りやすさか？大径SUVでホイール2セットと保管費用を天秤にかける冬タイヤ選び(carview！)",
       "url": "https://news.yahoo.co.jp/articles/c4eae43fb04b57ce447f4d6687d36dcb94d720af?source=rss",
@@ -154,6 +343,13 @@
       "source": "ベストカーWeb",
       "published_at": "2026-11-16T17:00:49+09:00",
       "category": "news"
+    },
+    {
+      "title": "[トヨタイムズ記事] 米国自動車殿堂入りを祝福したい！近社長が仕掛けた、豊田会長との公開収録",
+      "url": "https://toyotatimes.jp/newscast/218.html?padid=ag478_from_newsroom",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-16T17:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "出光興産とVTホールディングス、車両流通分野における業務提携で基本合意 全国約6000カ所のSS網を活用した協業の可能性を検討",
@@ -9134,55 +9330,6 @@
       "url": "https://news.yahoo.co.jp/articles/3ae54b4e1986e234f9204d8f2177bd938cb717df?source=rss",
       "source": "carview!",
       "published_at": "2026-10-18T16:00:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ダッシュボードに完璧フィット!! GR86の音響を磨く！ カロッツェリア専用トゥイーター取付キット登場(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/fa82f2b2e3eafccc748cd8d41c64c7cc8b55baf2?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-18T15:00:50+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【乗用車レベルの乗り味】サイズは“20cm幅広いハイエース”。韓国Kia発のぶっ飛びデザインEVバン「PV5」、航続528km・619万円で日本上陸(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/2e4bc0f5cf8647fe46070b1b280174d9e4b4a32c?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-18T11:50:53+09:00",
-      "category": "news"
-    },
-    {
-      "title": "軽自動車より安いスポーツカー!?　旧型スイフトスポーツなら格安で走りの楽しさが手に入る(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3411c0d2bcb86aa7ab8b8ad76f6b253a64cf77e9?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-18T11:05:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "福岡県庁がバス運転手不足解消するためバス運転手確保イベントを開催！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/b841663a6fde1d27cff50d873974649eb700baf1?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-18T11:00:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "SUPER GT第7戦、#23 MOTUL Niterra Zが3位表彰台を獲得",
-      "url": "http://global.nissannews.com/ja-JP/releases/261018-01-j",
-      "source": "日産自動車",
-      "published_at": "2026-10-18T11:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "最新のトラック装備の〇と×!?　アメリカントラッカーに聞いてみました(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e055f36f8e6fe957eee847ca370f4c60fa4b94b6?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-18T10:00:53+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【電動化が進むほどターボが残る？】スバル「クロストレック」全車ストロングHV化、その先にボクサーターボ復活の可能性(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/0618074723198094c2f6c0355f17bb04696a13c7?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-18T09:00:41+09:00",
       "category": "news"
     }
   ]
