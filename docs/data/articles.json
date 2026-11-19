@@ -1,6 +1,216 @@
 {
-  "updated_at": "2026-11-19T08:17:32.775900+09:00",
+  "updated_at": "2026-11-19T15:16:23.378867+09:00",
   "articles": [
+    {
+      "title": "やっぱMagSafeは便利だなあ！ ワンタッチで脱着できるiPhone用車載ホルダーが便利すぎ(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/00cd513941c8d2d3cb1a27035d828593de388587?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T15:00:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタ・コニック・プロ、「LAND CRUISER OFFICIAL ITEMS」の秋冬アパレル＆ギア新作9アイテム登場",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157870.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T15:00:58+09:00",
+      "category": "news"
+    },
+    {
+      "title": "無限、カスタムパーツの適合を改良版ホンダ「フリード」へ拡大",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157845.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T14:40:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「ルークス」を一部仕様向上、あわせて「ROCK CREEK」を追加",
+      "url": "http://global.nissannews.com/ja-JP/releases/261119-01-j",
+      "source": "日産自動車",
+      "published_at": "2026-11-19T14:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "コメリ、カー用品ブランド「クルザード」から足まわり洗車に特化した「タイヤ・ホイール用ソフトブラシ」「タイヤ用ハードブラシ」",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157824.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T13:42:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ロールス・ロイス史上最もパワフルな新型「ブラック・バッジ・スペクター・シリーズII」を日本初公開",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157810.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T13:25:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "お台場のシティサーキット東京ベイで「キッズEVカート無料走行体験」開催",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157774.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T13:09:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マツダ、新型「CX-5」が独ゴールデンステアリングホイール賞を受賞 3万5000ユーロ以下のベストカー選出",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157795.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T13:06:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "自工会、「ジャパンモビリティショー2027」を東京ビッグサイトで2027年10月28日～11月7日開催決定 「自分の好き」を見つけられる体験の場へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157827.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T13:03:43+09:00",
+      "category": "news"
+    },
+    {
+      "title": "「発表」されてもすぐ買えない…近年の新型車で「発売日」までのタイムラグが増えている理由。新車の売り方が変わった？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/b153654d54b1dbde7b008e858fe86c26b28d58d1?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-19T12:30:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新車の値引き交渉、2026年に通用するやり方・通用しないやり方(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/ce12d8b52e0843994a9e8f889b936488eb78e434?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T12:01:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル「アセント」は本当に買いか!?　770万円の北米製巨大SUVに乗ってわかった意外な実力(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/9b27f26ada3b91d9b3755ea4ae5051e771112f04?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T11:45:59+09:00",
+      "category": "news"
+    },
+    {
+      "title": "オーナーも言われるまで気づかなかった!!　新型エルグランドに意外な弱点アリ!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/02baf56ac5887f297757861ac0079dcd3c8e1d60?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T11:31:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダが小型ミニバン「フリード」を一部改良　2列シート5人乗り仕様の設定を拡大(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/6f96fbdf4fbf7fa4b072de51c09d1c68b46d6179?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-19T11:02:50+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダが「フリード」の特別仕様車「ブラックスタイル」を発売(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/0319ab96e4e8c293b783b1b9a6d34ee7be494466?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-19T11:02:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、「フリード」を一部改良　AIR EXに5人乗り追加　クロスターはデザイン変更　最大33万9900円値上げ(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/6d1b12e3aa6e6fe92a6bdcbe2e1813473e401834?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-19T11:01:18+09:00",
+      "category": "news"
+    },
+    {
+      "title": "カローラにまさかのピックアップ!!　パブリカピックアップ以来の衝撃(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/1824154f960a938104c8b012866a05beaf72ea15?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T11:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "令和8年の「津まつり」も臨時便の三重交通シャトルバスがいたるところで盛大に運行した!!(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e107e517b1868c19bfdba02f188945c0fba9bb0f?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T11:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "SUBARU　米国生産 3列SUV「アセント」を日本市場に150台限定で導入",
+      "url": "https://www.subaru.co.jp/news/2026_11_19_153939/",
+      "source": "SUBARU",
+      "published_at": "2026-11-19T11:00:01+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "写真で見る ホンダ「フリード」（2026年11月改良） 特別仕様車がホンダ初「ブラッククロームメッキHマーク」標準装備",
+      "url": "https://car.watch.impress.co.jp/docs/news/photo/2157671.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダ、「フリード」一部改良 特別仕様車「ブラックスタイル」新設＆AIR EXにも5人乗りを追加",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157645.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル、米国生産の3列SUV「アセント」を日本市場に導入 価格は770万円で150台限定",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157154.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スバル「アセント」が150台限定で日本導入決定！　3列シートで左ハンドルのスバル車に試乗した",
+      "url": "https://car.watch.impress.co.jp/docs/news/impression/2156857.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "FREEDを一部改良し発売",
+      "url": "https://www.honda.co.jp/FREED/?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "「FREED」を一部改良し発売～特別仕様車「BLACK STYLE」を設定し、AIR EXに5人乗り仕様を追加～",
+      "url": "https://global.honda/jp/news/2026/4261119-freed.html?from=RSS",
+      "source": "Honda",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "SUBARU　REX改良モデルを発表",
+      "url": "https://www.subaru.co.jp/news/2026_11_19_115633/",
+      "source": "SUBARU",
+      "published_at": "2026-11-19T11:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "タタの傘下になったイヴェコが初めての大規模イベント！　50台限定の「S-ウェイ」など特別モデルも展示(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/e4dfaf29bdca07c369220609de8adbb5892816e9?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-19T10:01:01+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【次期「GR86」は水平対向をやめる？】トヨタ製“直4エンジン”採用の可能性、スバルとの協業はどうなる(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/4a89347cfecda0926950a98804ca809baaab1928?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-19T09:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱ふそう、建築現場をイメージした新型「キャンター」などを「JAPAN BUILD TOKYO」に出展",
+      "url": "https://car.watch.impress.co.jp/docs/news/2157605.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-19T09:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【なぜ似たSUVを2台揃えるのか？】マツダ「CX-5」と「CX-60」で決定的に異なる設計思想と使い勝手の境界線(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/464e00aba531a802a5f0a4b6da9af8365099b307?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-19T08:30:11+09:00",
+      "category": "news"
+    },
     {
       "title": "ホンダ、米アラバマ工場に740億円投資　大型HVやV6エンジンを生産(日刊自動車新聞)",
       "url": "https://news.yahoo.co.jp/articles/6e52da1146f8b2a28c6c9bd779f820d256280d62?source=rss",
@@ -56,6 +266,20 @@
       "source": "Car Watch",
       "published_at": "2026-11-19T00:00:00+09:00",
       "category": "news"
+    },
+    {
+      "title": "新型「MAZDA CX-5」が独「ゴールデンステアリングホイール賞」を受賞",
+      "url": "https://newsroom.mazda.com/ja/publicity/release/2026/202611/261119a.html",
+      "source": "マツダ",
+      "published_at": "2026-11-19T00:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "スズキ、「第31回からくり改善&reg;くふう展」に出品",
+      "url": "https://www.suzuki.co.jp/release/d/2026/1119/",
+      "source": "スズキ",
+      "published_at": "2026-11-19T00:00:00+09:00",
+      "category": "press_release"
     },
     {
       "title": "雨の日の後方視界がくっきり！ 雨・雪を弾く専用ミラーフィルムがRAV4などに対応して車種拡大！(ベストカーWeb)",
@@ -9268,160 +9492,6 @@
       "source": "Honda",
       "published_at": "2026-10-20T16:45:00+09:00",
       "category": "press_release"
-    },
-    {
-      "title": "通学や買い物でシビック愛をアピール!! 初代から現行モデルまでを描いたトートバッグが涙もの！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6b69c9f3f1a6e2b124dceacfba93b2260ae02397?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T15:00:59+09:00",
-      "category": "news"
-    },
-    {
-      "title": "マセラティ、新型「グレカーレ」「グラントゥーリズモ」「グランカブリオ」日本導入",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149648.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T14:59:34+09:00",
-      "category": "news"
-    },
-    {
-      "title": "クアルコムとトヨタ、トヨタ向けV2X車載半導体として760MHzと5.9GHz帯デュアルバンド1チップソリューション展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149601.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T14:23:52+09:00",
-      "category": "news"
-    },
-    {
-      "title": "メルセデス・ベンツ、グラフィックアーティストVERDY氏とのコラボアイテム第2弾を10月24日より発売",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149593.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T13:23:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "なぜ最新のBEVや高級車は「フラットドアハンドル」を採用する？ 中国ではすでにオワコン…“安全上の課題”も(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e6fcc954a89456c6067d9f2e6368947bd3c6c849?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-20T12:30:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、浜松の「トリイソース」とコラボ　カプチーノなど歴代名車をラベルデザインに採用(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/cb8118e2c9a5549c84e220bc77825b63524aad43?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-20T12:11:21+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アウディ、新型「RS 5/RS 5アバント」の発売を記念して、日本橋、銀座、有楽町、二子玉に順次展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149541.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T12:02:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「クルマで避難」はNGなの!? 意外と知らない「車中泊避難」の正しい知識！ 命を守るための注意点とは(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/273f54adb5cd0d798f3c57ae0e77e14582018b78?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T12:01:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【ニュルでテスト中】レクサス「RX」の超高性能「モリゾウRR」版の市販モデルをCGで予想。注目のパワーユニットは？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/aee9429f4d51df53f1c6d2de167d437c4b4e2a6f?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-20T11:53:27+09:00",
-      "category": "news"
-    },
-    {
-      "title": "A4ノートPCを置ける純正テーブル付き!!　プロボックスの車内は小さな書斎だった！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/36476c3904468dfe3ae40e6d92786d06a584b786?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T11:46:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "レッドブル・エナジードリンクに、りんごの芳醇な甘さとジンジャーが香る「アップルエディション」が仲間入り",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149524.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T11:42:41+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ソリオは車中泊にも使える!?　シートアレンジと室内高で見る“小さな旅グルマ”度(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/1095a6f1872faa584e1aec4a9d30ab8a8f10e568?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T11:30:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "エアコンだけでは足りない!?　ルークスが天井にファンを付けた本当の理由(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/f6e106823cc64112507029e18f2c8a989a3dc56d?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T11:05:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "10月31日に「かごしま乗り物×MaaSフェスタ2026」が開催！　バスファン以外も楽しめそうだ!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/132815084e6332ffd60bd977e09e1d4047536e2c?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T11:00:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "約270万円の「高級軽」に足りない装備!? ホンダ「N-BOX」は快適性抜群も意外な落とし穴！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e537f853d1a36211ce83e202e20d375fca28a533?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T10:05:57+09:00",
-      "category": "news"
-    },
-    {
-      "title": "専用性が高いトラック・バス用タイヤを高評価!!　トーヨータイヤの2製品が2026年度グッドデザイン賞を受賞(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/e707a05c759c64a9d26f089df45fa015c648f0a5?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T10:00:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「実力は一流」なのに売れなかった!? セルシオとGT-Rの陰に隠れた悲運の名車！ 今こそ再評価したい国産車6選(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/6e432926f10ce1122627142456769c59916d82cf?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-20T09:00:56+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なんだこれは…】マツダが謎の新型SUVをテスト中。「CX-90」を短縮した“不自然なテスト車両”の正体は？(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/ef3185f86d9365073740023cadcaf2ec7d4cc18d?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-20T09:00:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "アイシン、ITS世界会議2026江陵でSDV時代を見据えた車室内AI「LBSエージェント」 クルマ側のAIエージェントとやり取り",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149457.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T08:52:58+09:00",
-      "category": "news"
-    },
-    {
-      "title": "デンソー、ITS世界会議2026江陵に産業用LIDAR「LiDsEYE（ライズアイ）」や走行中給電など展示",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149454.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T08:45:05+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタやホンダ、パナソニックが出展する「第32回ITS世界会議2026江陵」開幕 “Beyond Mobility,Connected World”がテーマ",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149453.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-20T08:39:38+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ「フロンクス」が“ほぼEV”に？ 新型シリーズハイブリッド搭載候補、さらに“充電できるHEV”へ進化も(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/c0329c5ed8248670c7166c83ecca6e6b869daadc?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-20T08:30:02+09:00",
-      "category": "news"
     }
   ]
 }
