@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-20T15:00:14.018497+09:00",
+  "updated_at": "2026-11-21T00:19:10.598206+09:00",
   "articles": [
+    {
+      "title": "CEV補助金、申請受け付けを終了　11月20日到着分で　次世代自動車振興センターが公表(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/02556b2722c1c0e5abb9dc958f03cf5c52f33286?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-20T21:09:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型バッテリEV「ルノー 5」「アルピーヌ A290」日本導入発表会 「個性にあふれ、乗るたびに笑顔があふれるクルマ」とルノー・ジャポン大極社長",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158379.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T21:07:36+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産が「ルークス」の一部仕様を変更　アウトドアテイストの「ロッククリーク」を新設定(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/222fd7c9f6c18adeb61d57903fc2d1ac28e55c90?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-20T20:19:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ホンダが新型3列シートSUV「アヴァンシア」を世界初公開　新世代の「ホンダハイブリッド」や新「H」マークを採用(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/9f6296436858a618c309984028f0a28cdae07368?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-20T20:11:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "スーパーフォーミュラ「第4回 技術セッション」、LenovoがF1やワールドカップなどスポーツテックに関して講演",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158354.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T19:16:18+09:00",
+      "category": "news"
+    },
+    {
+      "title": "本格的な寒さ到来の前に要チェック！ 冬のドライブで命と愛車を守るために注意したい「トラブル」と「その対策」(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/8f1dee10e0e6eb70b68020a4ce488ee32a2df2c1?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-20T19:04:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "国交省、大雪時の大型車立ち往生防止対策を発表 運行前に冬用タイヤの「プラットホーム」確認など呼びかけ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158313.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T18:45:23+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マセラティが最新型「グランカブリオ」「グレカーレ」の実車を公開(webCG)",
+      "url": "https://news.yahoo.co.jp/articles/eaf25264fe9e85c1a06fca765e81b417b7e82acb?source=rss",
+      "source": "webCG",
+      "published_at": "2026-11-20T18:13:32+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型発売から半年、「ハイラックス」の現状…反響多数もすでに受注終了。国内向け割り当て台数が少ない理由と、今後の見通しは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/fd500522b8b9b77a8bf93326cb3424c520dc4ce3?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-20T18:05:17+09:00",
+      "category": "news"
+    },
+    {
+      "title": "トヨタレーシング、2027年シーズンのドライバーにケビン・エストレ選手起用 小林可夢偉チーム代表は「みんな期待してくれるし、楽しみしかない」と",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158309.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T17:55:25+09:00",
+      "category": "news"
+    },
+    {
+      "title": "三菱自動車など5社、EV充電サービス「プラグ＆チャージ」共同実証開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158258.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T17:10:18+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【好調なのにテコ入れ】日産「セレナ」を逆転したホンダ「ステップワゴン」が今あえて黒の特別仕様車を投入した狙いとは(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5f566c9cbae1e03b0300403544cc246d54bc05ff?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-20T17:04:10+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ポルシェ新型「パナメーラ」の標準モデルがフルヌードで出現！ 2028年型の全貌が早くも判明、注目の進化とは？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/5d7546e959e29825db582752d7992fba9b183a4d?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-20T17:03:56+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ケビン・エストレ、TOYOTA RACINGの2027年ドライバーラインアップに加わる",
+      "url": "https://global.toyota/jp/newsroom/corporate/45024813.html",
+      "source": "トヨタ自動車",
+      "published_at": "2026-11-20T17:00:00+09:00",
+      "category": "press_release"
+    },
+    {
+      "title": "日本精工とNTN、2027年10月1日の経営統合を発表　持株会社名は「NTN日本精工」(日刊自動車新聞)",
+      "url": "https://news.yahoo.co.jp/articles/cdea2ce6f9e7313f8d403b051317a8a483d89c63?source=rss",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-20T16:55:07+09:00",
+      "category": "news"
+    },
+    {
+      "title": "大和ハウスパーキング、純水洗車場「D-Wash」静岡県初出店「カインズ浜松小豆餅店」をオープン",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158224.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T16:07:29+09:00",
+      "category": "news"
+    },
+    {
+      "title": "マツダのピックアップ「BT-50」次期モデルは2028年登場が濃厚。「ハイラックス」「トライトン」に続き日本市場参戦の可能性は？(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/28deec823066bdd992e3572a23a50d4f4d678fb5?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-20T16:00:02+09:00",
+      "category": "news"
+    },
+    {
+      "title": "オートバックス、準固体バッテリとソーラーパネル搭載で配線不要の「ソーラー充電式ドライブレコーダー SDR-01」先行発売 価格1万9800円",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158214.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-20T14:53:39+09:00",
+      "category": "news"
+    },
     {
       "title": "メルセデス・ベンツ×VERDY、「VERDY meets Mercedes-Benz STUDIO TOKYO」カプセルコレクション第3弾発表",
       "url": "https://car.watch.impress.co.jp/docs/news/2158165.html",
@@ -9533,132 +9659,6 @@
       "url": "https://toyokeizai.net/articles/-/961593",
       "source": "東洋経済オンライン",
       "published_at": "2026-10-22T05:15:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【まるも亜希子の「寄り道日和」】飛び立つ飛行機にもう大興奮！",
-      "url": "https://car.watch.impress.co.jp/docs/column/marumo/2149828.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-22T00:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "数日だけの都市型積雪にはチョー便利!! 装着しやすい布製タイヤチェーンがやっぱしおすすめなワケ！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/cf0d0d49154c2590fcc329c4a807dc69f893d100?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T22:31:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "175万円差は取り戻せる!?　クラウンエステートZとRSはどちらを選ぶべきか(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/ef5d7c363b1c623e1dcf5aabb569eaae3d518382?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T21:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "やっぱりホンダは最高だ!! プロが選ぶ「推しホンダ車」は何!? プレリュードからN-BOXまで個性派モデルが勢揃い！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/336ac765fe9dded5f3818c44e4da8fc0b6157f44?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T20:01:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "パイオニア、楽ナビの新製品発売　業界初最長6年の道路データ更新対応機種も(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/944d59c5b0fe77ba6e96143f1fea2428dca458fe?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-21T19:23:16+09:00",
-      "category": "news"
-    },
-    {
-      "title": "電源なし＆水道なしでも洗車できる!! バッテリー式のポータブル洗浄機が洗車ライフを変える!!(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/f3dc8e7c96dd8fc07a3431e1e62e6945e119d088?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T19:06:02+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【同じ「ゴルフ」なのに別モノ？】VW最新「GTI」と「R」を乗り比べ！ 軽快なFFと異次元の4WD、購入層が分かれる理由(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/871f01863c3cc9c8cbfe8c4a963794d62ad0bca8?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-21T18:04:48+09:00",
-      "category": "news"
-    },
-    {
-      "title": "同じ2.4Lディーゼルなのに8速AT!!　新型パジェロがトライトンよりギアを2段増やしたワケ(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/5a8a7ebf5aa663d1479728cadb4e51703413674a?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T18:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "リクルート、「カーセンサーnet」などに不正アクセス 最大370万9551件の個人情報が漏えいした可能性",
-      "url": "https://car.watch.impress.co.jp/docs/news/2150016.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-21T17:41:13+09:00",
-      "category": "news"
-    },
-    {
-      "title": "経産省、2027年1月からのCEV補助金の見直しを発表　補助額は現在の6～8割に引き下げ(日刊自動車新聞)",
-      "url": "https://news.yahoo.co.jp/articles/965f0967452f999fdb318ff0714fab9719d3bd44?source=rss",
-      "source": "日刊自動車新聞",
-      "published_at": "2026-10-21T17:36:07+09:00",
-      "category": "news"
-    },
-    {
-      "title": "新型エルグランドを買った元日産開発者が望む!! 次期セレナに「この静かさ」が欲しい！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/d840d9a2f7ffb2d7dd7083775a5e0d40fd17eae8?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T17:31:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "ライカとF1がライセンス提携したカメラ「ライカQ3 43 “Formula 1 Edition”」発売 価格159万5000円",
-      "url": "https://car.watch.impress.co.jp/docs/news/2150056.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-21T17:16:28+09:00",
-      "category": "news"
-    },
-    {
-      "title": "シズオカBMWと清水エスパルスのコラボモデル「X1」発表 1台限定で価格726万円",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149980.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-21T17:13:54+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【なぜACCがない？】フィアット新型「グランデ パンダ」日本上陸！ かわいい「500」のイメージ脱却、MT導入も本国に要望(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/10226c85e9d1b9604f4dcaee64f6634436cbfa80?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-21T17:02:44+09:00",
-      "category": "news"
-    },
-    {
-      "title": "数字の車名はもうやめた！ フォルクスワーゲンの新型BEV「ID.ティグアン」がもうすぐ登場！(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/560711740dd9da7ae9ac813309b5f344c95b34fa?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T17:01:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタが水素でダカールラリーに挑む!! 足元は「オプカン」で最高出力544馬力の「GR FCハイラックス」が完成！ ミライ用水素タンク4本を搭載(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/4c08591f1c2581261ff0f741a3e3ca1a405b9551?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T16:11:03+09:00",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ、2027年のダカールラリー参戦車FCEV「DKR GR FC ハイラックス」公開 ドライバーはダニア・アキール選手を起用",
-      "url": "https://car.watch.impress.co.jp/docs/news/2150027.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-21T16:07:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スライドドアはいらない!!　ルークスではなくデイズを選ぶと日常がちょうどよくなる理由(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/3510ff39715b341d3f848c5c2e09cf52ffa8bc68?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-21T15:01:03+09:00",
       "category": "news"
     }
   ]
