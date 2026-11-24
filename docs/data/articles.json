@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-11-24T17:45:01.889567+09:00",
+  "updated_at": "2026-11-25T04:59:12.943430+09:00",
   "articles": [
+    {
+      "title": "ヘドリー・スタジオ、ベントレーの名車を85％スケールのバッテリEVで再現した「ベントレーブロワージュニア」納車開始",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158438.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-25T01:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【F1カメラマン熱田護の「気合いで撮る！」】第142回：目まぐるしかったラスベガスGPはフェルスタッペン選手が今季4勝目！　偶然による人との縁に大感謝しました",
+      "url": "https://car.watch.impress.co.jp/docs/column/atsuta/2158886.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-25T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レイズ、1BOXカーの走りを変えるTE37誕生30周年記念モデル「TE37SB 30th Anniversary」 復刻ロゴで存在感を強調[Sponsored]",
+      "url": "https://car.watch.impress.co.jp/docs/topic/special/2157689.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-25T00:00:00+09:00",
+      "category": "news"
+    },
+    {
+      "title": "懐かしいアイツがEVで日本再上陸！ 新型ルノー5の最初の限定モデルは575万円！(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7d3bacbebb52d8f83e98caf11f4a82a9083c4d16?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T22:30:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "プジョーがWEC参戦を終了 シトロエンとオペルのフォーミュラE参戦も2027年夏終了へ",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158881.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-24T21:13:12+09:00",
+      "category": "news"
+    },
+    {
+      "title": "現行モデルからガソリン車が消えた!!　中古ノアならまだ選べる2Lガソリン車の魅力(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/616ece65c2eb5d7695ad55086e8e601128e9dfc5?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T21:00:55+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型インテグラ タイプSはオプションつけても1000万円切り!?　希少性で考えればむしろお得では!?(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/5d42603e4ad7dbe2100cb5a612ee6b1e12b3fd12?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T20:00:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "レギュラリティラリーってなんだ？　恵那市と一緒にトレイルシーカーでゆる〜く参戦してみた(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/74b034873678f138002841a5e3b78c3be6a4e18d?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T19:30:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "ディスプレイオーディオの新潮流！ 1万円台でカープレイが後付けできる最新デバイスがすごい(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/7eac4d9f8e7faedfc851db698d6f0a1553d0d329?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T19:05:53+09:00",
+      "category": "news"
+    },
+    {
+      "title": "日産フォーミュラEチーム、GEN4プレシーズンテストで最速タイムを記録",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158834.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-24T18:26:04+09:00",
+      "category": "news"
+    },
+    {
+      "title": "【プリウスってこんなに楽しかった!?】最新「プリウスPHEV」を試乗して驚いた！ 30年の進化で手に入れたスポーツカーのような走り(carview！)",
+      "url": "https://news.yahoo.co.jp/articles/1d1a4c41b3d6294280d0940b11a534031dd81748?source=rss",
+      "source": "carview!",
+      "published_at": "2026-11-24T18:04:21+09:00",
+      "category": "news"
+    },
+    {
+      "title": "パナソニック サイクルテック、自転車・電動アシスト自転車生産の中核拠点「柏原工場」に53年ぶりの新棟稼働",
+      "url": "https://car.watch.impress.co.jp/docs/news/2158820.html",
+      "source": "Car Watch",
+      "published_at": "2026-11-24T18:03:24+09:00",
+      "category": "news"
+    },
+    {
+      "title": "新型CX-5が爆売れ!? 受注1万7000台突破に他社からの乗り換え約半数！ マツダの人気SUVが絶好調(ベストカーWeb)",
+      "url": "https://news.yahoo.co.jp/articles/fab2642b827af23a87b7d18de7e59d7be9d03c68?source=rss",
+      "source": "ベストカーWeb",
+      "published_at": "2026-11-24T18:00:53+09:00",
+      "category": "news"
+    },
     {
       "title": "モリタHDのバッテリEV火災対応ノズル「アクアサイクロン」が「令和8年度消防防災科学技術賞」優秀賞を受賞",
       "url": "https://car.watch.impress.co.jp/docs/news/2158794.html",
@@ -9281,41 +9372,6 @@
       "url": "https://car.watch.impress.co.jp/docs/topic/special/2146186.html",
       "source": "Car Watch",
       "published_at": "2026-10-26T06:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "【日下部保雄の悠悠閑閑】パンダ",
-      "url": "https://car.watch.impress.co.jp/docs/column/kusakabe/2150854.html",
-      "source": "Car Watch",
-      "published_at": "2026-10-26T00:00:00+09:00",
-      "category": "news"
-    },
-    {
-      "title": "スズキ、インドの認定中古車事業「TRUE VALUE」が25周年、および累計販売650万台を達成",
-      "url": "https://www.suzuki.co.jp/release/d/2026/1026/",
-      "source": "スズキ",
-      "published_at": "2026-10-26T00:00:00+09:00",
-      "category": "press_release"
-    },
-    {
-      "title": "トヨタ「GR GT」は早くも争奪戦!? 元LFAオーナーに優先案内か！ トヨタGRモデルの最新動向(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/f4401c1572e4de4c5b7b209f43466557badfd3eb?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-25T22:30:43+09:00",
-      "category": "news"
-    },
-    {
-      "title": "「パジェロ」が7年ぶりに復活!! 三菱の新型本格SUVがついに登場！ ランクル250級の堂々ボディに注目(ベストカーWeb)",
-      "url": "https://news.yahoo.co.jp/articles/0e33d6046641293d875ba28713086019b440484c?source=rss",
-      "source": "ベストカーWeb",
-      "published_at": "2026-10-25T19:05:43+09:00",
-      "category": "news"
-    },
-    {
-      "title": "国内3000台限定、BEVで復活した「インサイト」はまだ買える？ 補助金活用による“駆け込み需要”で在庫わずか(carview！)",
-      "url": "https://news.yahoo.co.jp/articles/e91a8c576abef42a8e1e9970c37940499965a538?source=rss",
-      "source": "carview!",
-      "published_at": "2026-10-25T18:00:40+09:00",
       "category": "news"
     }
   ]
